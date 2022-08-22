@@ -1,0 +1,167 @@
+;The dh1 collection of Sokoban positions 
+;is copyright David Holland <david@clickfest88.freeserve.co.uk>
+;These levels may be distributed freely as long as this 
+;copyright message is retained.
+
+;dh-101.xsb
+       ##    
+     ##  ### 
+   ## $ $   #
+  #   #..#$ #
+  # $$#*.#  #
+  #   ....$ #
+  # # .#.#  #
+ # $##$#.#$ #
+ # @$    .$ #
+  #  #  ##  #
+   #####  ## 
+Title:Spade
+Author:D Holland
+
+;dh-102.xsb
+    ####
+####   #
+#@$  # #
+# $$$  #
+##.#.  #
+#  ..# #
+#  #.* #
+# $.$ # 
+ ##   # 
+ ###### 
+Title:ninevah
+Author:D Holland + sokgen
+
+;dh-103.xsb
+    ###    
+   #  @### 
+  #  #$$  #
+ ##.#   # #
+#  $#.#$  #
+#   ...  # 
+ ##$#.#$ # 
+  #     #  
+   ##   #  
+     ####  
+Title:CrissCross
+Author:D Holland + sokgen
+
+;dh-104.xsb
+    ##    ###     
+####  ####   #    
+# $  $     $ ###  
+# #   # ### #   # 
+#  $   $ # $$ $ # 
+ ##  ## $@$     # 
+  #$ ##  # $$ $$ #
+  #    $  ## ##  #
+ ### #$##  ...# # 
+ #  ..*.*..##.# # 
+ # #..*.....*.# # 
+ #   ########   # 
+  ###        ###  
+Title:Carousel
+Author:D Holland
+
+;dh-105.xsb
+   ##            
+  #  #           
+  #  #  #####    
+  #  # #..   #   
+  # ####..##$##  
+  #  $ $.*     # 
+  # #$ #*.# $# # 
+ ##$#  #..#  # # 
+#   #$ #*.# $# # 
+# # #  $..#  # # 
+# #$#$ #..$  #  #
+#   #  #..#   # #
+# #@# $#*.#$# # #
+#  $#  #..#   # #
+ #   $ $ $ ###  #
+  ###   #      # 
+     ### ######  
+Title:Pattern-oster
+Author:D Holland
+
+;dh-106.xsb
+ ### ####      
+#   ##   # ### 
+# $   $ $ #   #
+# $ #  .$ #   #
+ ##  ##.#  $ # 
+# ##$##.###. # 
+#   *.......$# 
+#    ##.##   # 
+##$####.#####  
+#  $ # . #   # 
+#  #  **$    # 
+#  $ # @ # $ # 
+# $   ### #  # 
+ ##   #   ###  
+   ###         
+Title:Saturnine
+Author:D Holland
+
+;dh-107.xsb
+   ###   
+###   #  
+# $*@.###
+# # *$  #
+# #. .# #
+# #$* $ #
+#    .###
+###   #  
+   ###   
+Title:briefcase alt 23
+Author:D Holland + sokgen
+
+;dh-108.xsb
+       ###     
+##### #   ###  
+#   ## $ $  #  
+# # ##    # #  
+# #..$ $ ## #  
+#  .$# $#   #  
+###..# $ @$ #  
+  #**# $ # ##  
+  #..#   # #   
+  #..##### ##  
+  #.*#   $  #  
+  #..# $    #  
+  ##.### ##### 
+  # $      $ # 
+  #   ####   # 
+  #####  ##### 
+Title:Salamandar v3
+Author:D Holland
+
+;dh-109.xsb
+  ####  
+ #    # 
+ #. * # 
+# . $  #
+# #**# #
+#  *+* #
+ # $$ # 
+ #    # 
+  ####  
+Title:Abstract
+Author:D Holland
+
+;dh-110.xsb
+ ##       
+#  ###### 
+#        #
+#  ###$# #
+ #.# # . #
+ # # #$* #
+ #.### + #
+ # $ #$* #
+ # #   . #
+ #.####* #
+#  $ $ * #
+#       ##
+ ######## 
+Title:Storm (in a teacup) v6
+Author:D Holland

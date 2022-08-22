@@ -1,0 +1,361 @@
+;The maelstrom collection of Sokoban positions is copyright 
+;David Holland <david@clickfest88.freeserve.co.uk>
+;These levels may be distributed freely as long as 
+;this copyright message is retained.
+;
+;maelst01.xsb
+ #######
+ #     ###
+ # .* .  #
+ #.## #$$#
+##*#.    ##
+# $ . .#  #
+# . ##$   #
+###$ $@$ ##
+  #   ####
+  #####
+Title: Maelstrom Collection #1
+Author: David Holland
+
+;maelst02.xsb
+    #########
+    #   #   #
+    #  . $. #
+    ##$### ##
+#####   #   #####
+#  ##$.*$..$##  #
+#     . # .  $  #
+# $#  $ # $  #. #
+## ##.#####.## ##
+# .# $  #  $ #$ #
+#  $  .$#$.   . #
+#  ##$..@..$##  #
+#####   #   #####
+    ## ###$##
+    #  $ .  #
+    #   #   #
+    #########
+Title: Maelstrom Collection #2
+Author: David Holland
+
+;maelst03.xsb
+#### ######
+#  ###    #
+#  #   ...#
+#  #  #...#
+## ##$ #  #
+ # $   #  #
+##@$## # ##
+# $$      #
+#  $ ## $ #
+## #$####$###
+#...*.  $ $ #
+#  .  #     #
+#############
+Title: Maelstrom Collection #3
+Author: David Holland
+
+;maelst04.xsb
+ ###########
+ #         ####
+## #######    #####
+# $#  #  ####     ##
+#    $$ .#  # $$$  #
+#  #  # *#.$  $  # #
+##  #  #.#.#  #$   #
+#  $#.*....## $   ##
+#  $  #....@# $ ###
+## $$$#.... # ###
+###   #######  #
+  ##         $ #
+   ##########  #
+            ####
+Title: Maelstrom Collection #4
+Author: David Holland
+
+;maelst05.xsb
+        ####
+  #######  #
+  #       $#
+  # *####. #
+  # .   #.$#
+####$#$.#. ####
+#  $ #  $     #
+# ##.#  ####* #
+# # .#### @   #
+# #  $     #  #
+#    ##    ####
+############
+Title: Maelstrom Collection #5
+Author: David Holland
+
+;maelst06.xsb
+   #######
+ ###  #  ##
+## $    $@#
+# $ $ #.# #
+# ## #..# #
+# #   . # #
+# #   *.$ #
+# ## ######
+#    #
+######
+Title: Maelstrom Collection #6
+Author: David Holland
+
+;maelst07.xsb
+#################
+#     #   #     #
+# .$.$. .  $.$. #
+## *#$## ##$#. ##
+ #      $.#  $ #
+ ## ###*.*# # ##
+ #  #.* $ * #  #
+ # * $.$@$.$ * #
+ #  # * $ *.#  #
+ ## # #*.*### ##
+ # $  #.$      #
+## .#$## ##$#* ##
+# .$.$  . .$.$. #
+#     #   #     #
+#################
+Title: Maelstrom Collection #7
+Author: David Holland
+
+;maelst08.xsb
+       ####
+ #######  #
+ #  ##  $ ##
+ # $    $  #
+ # ###$#$# ####
+## ##  .$..#  #
+#   #  .$.    #
+# $  # #####$ #
+##$  #$...    #
+ #@. .$..* ####
+ ###########
+Title: Maelstrom Collection #8
+Author: David Holland
+
+;maelst09.xsb
+########
+#      ##
+#  # ** #
+#   $ . #
+##$#$#.##
+#  *@$. #
+# . #.$ #
+##     ##
+ #######
+Title: Maelstrom Collection #9
+Author: David Holland
+
+;maelst09 variant (Aymeric du Peloux)
+########
+#      ##
+#  # ** #
+#   $   #
+##*#*# ##
+#  *@*  #
+#   #.* #
+##     ##
+ #######
+Title: Maelstrom Collection #9 variant
+Author: Aymeric du Peloux<aymeric.dupeloux@smile.fr>
+
+;maelst10.xsb
+          ####
+###########  #
+#   #   # $  #
+#  $   $ $ $ #
+##$ #*## ## ##
+ # $#.*.*.*  #
+ ##  ..*..#  #
+ # $#*+*.*#$ #
+ #  #..*..  ##
+ #  *.*.*.#$ #
+ ## ## ##*# $##
+ # $ $ $   $  #
+ #  $ #   #   #
+ #  ###########
+ ####
+Title: Maelstrom Collection #10
+Author: David Holland
+
+;maelst11.xsb
+  ####
+  #@ #####
+###$$*   #
+# * $ *# #
+# #. $ . #
+#   .. ###
+#####  #
+    ####
+Title: Maelstrom Collection #11
+Author: David Holland
+
+;maelst12.xsb
+     ####
+     #  #
+     # $######
+     #  #    #
+     #.$#$## ##########
+     #.   ..   $      #
+     #.$#$**$#   #$#$ #
+######  # .. #$ $ $  ##
+#      ##$..$#   $   #
+# ####### .. ######$###
+#   $ $ $$.#$$ $ $    #
+# #...*...$..*....*.# #
+# #...*.#....#..*.*.# #
+# # $ $ $ **$$ $  $ # #
+# ####### #. ######## #
+# #     #$*.$##       #
+# #@$ $ # .. #  #######
+# ####$ #$..$#$.#
+#  $ $    ##   .#
+# $    $#    #$.#
+######  ######  #
+     ####    #$ #
+             #  #
+             ####
+Title: Maelstrom Collection #12
+Author: David Holland
+
+;maelst13.xsb
+  #####
+  #  @###
+### #$  #
+# $* .  #
+# . .*# #
+## ## $ #
+ #    ###
+ ######
+Title: Maelstrom Collection #13
+Author: David Holland
+
+;maelst14.xsb
+###################
+#      #          #
+# $ $    @$ $ $ $ #
+###$#  $#.#$  #$###
+  #  #  #.#  #  #
+  ##  ###.###  ##
+   ##  ##.##  ##
+    ##.. . ..##
+    ##..$.$..##
+   ##  ##.##  ##
+  ##  ###.###  ##
+  #  #  #.#  #  #
+###$#  $#.#$  #$###
+# $ $    ..   $ $ #
+#      #   #      #
+###################
+Title: Maelstrom Collection #14
+Author: David Holland
+
+;maelst15.xsb
+ #######  #### ####
+ #  #  #  #  ###  #
+ # $$  #### $ $   #
+ #  #$ #  # $  $  #
+ ## #@    #   ## ##
+  # #$ #$ #   $  #
+  # #  # ## $ #  #
+ ## #### ####$####
+ #   $ # #     #
+ #  # .* ..$#  #
+### # .  $. # ##
+# .* ##   ##  * #
+# ..* ##### $.. #
+##...$     ..*. #
+ #  .###### ## ##
+ ######   #    #
+          ######
+Title: Maelstrom Collection #15
+Author: David Holland
+
+;maelst16.xsb
+    ####
+ ####  #
+ #  #  ##
+ #  *.  ###
+ # .*.#   #
+###$.$$ # #
+#@$...##  #
+# #$# $  ##
+#   #  ###
+#### $ #
+   #   #
+   #####
+Title: Maelstrom Collection #16
+Author: David Holland
+
+;maelst17.xsb
+    ####
+   ##  ########
+  ##   $  #   #
+  #   $ .  .  #
+### # $ *#$#$##
+# $ ####  ... #
+# # #   #$##  #
+# #.# *   #  ###
+# .* # * *  #  #
+##$ .#$.$.#.@  #
+#  #. .$. #$** #
+#  *.###  # . ##
+# $$ $ #### . #
+##   #    #*$$#
+ ##    ##     #
+  #############
+Title: Maelstrom Collection #17
+Author: David Holland
+
+;maelst18.xsb
+   ####
+####  ####
+# $ .. $ #
+# # ** # #
+# # .* # #
+#  $.*   #
+### ##$###
+  #   @#
+  ######
+Title: Maelstrom Collection #18
+Author: David Holland
+
+;maelst19.xsb
+  ####
+  #  #####
+ ##$ #   #### #####
+## $   $  $ ###   #
+# $   #*#   ## $  #
+#   ###+###    # ##
+## # ......# $ $ ##
+ # # *****.. # $  #
+##  #*.*.*## $ $  #
+#  $#..*..#### #  #
+#     ###  ###  ###
+### $   $$      #
+  #######  ######
+        #### ####
+Title: Maelstrom Collection #19
+Author: David Holland
+
+;maelst20.xsb
+          ####
+   ########  #
+ ###  # $ $$ #
+ # $ $$   #  ####
+ #    $ ##  ##  #
+ ###  #  #   $$ #
+   # #.. ##  #  #
+ ### #.+.. #   ##
+##.. $ $ #$. $  #
+# .. #### . ### #
+# ** .   .$. $  #
+#  ##############
+####
+Title: Maelstrom Collection #20
+Author: David Holland
+
