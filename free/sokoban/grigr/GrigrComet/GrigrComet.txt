@@ -1,0 +1,455 @@
+;GrigrComet01
+########
+#  #   #
+#  .** #
+#   *  #
+## *** #
+ #  *  #
+ ###$ ##
+   #@ #
+   ####
+Author: GRIGoRusha
+Title: Comet tail
+Comment:
+date: 11.06.05
+Comment-End:
+
+;GrigrComet02
+ ####
+ #  #####
+ #$ $ . #
+## * * @#
+# . * *##
+#  *   # 
+#####  # 
+    #### 
+Author: GRIGoRusha
+Title: Star shower
+Comment:
+date: 19.04.05
+Comment-End:
+
+;GrigrComet03
+  #######
+### .$  #
+#@$$..  #
+# $..#  #
+# $$.$ ##
+# $..  # 
+######## 
+Author: GRIGoRusha
+Title: Northern lights
+Comment:
+date: 16.04.05
+Comment-End:
+
+;GrigrComet04
+  #####
+  #   #
+###$  ##
+# $.$  #
+#@.$.# #
+#.#.$. #
+# $ # ##
+###   #
+  #####
+Author: GRIGoRusha
+Title: Space rocket
+Comment:
+date: 19.09.05
+Comment-End:
+
+;GrigrComet05
+   ####
+  ##@ ###
+  # * . ##
+### * *$ #
+#   **.  #
+#    $# ##
+#####   #
+    #####
+Author: GRIGoRusha
+Title: To dock
+Comment:
+date: 21.09.05
+Comment-End:
+
+;GrigrComet06
+   #####
+ ###   ##
+ # .*.  #
+## $+$  #
+#  *** ##
+# $ . $ #
+#####   #
+    #####
+Author: GRIGoRusha
+Title: Artificial satellite
+Comment:
+date: 21.09.05
+Comment-End:
+
+;GrigrComet07
+  #####
+###   ##
+#@ *#  ##
+#.* *   #
+#  * *  #
+### * $ #
+  #  ####
+  ####
+Author: GRIGoRusha
+Title: The lost element
+Comment:
+date: 22.09.05
+Comment-End:
+
+;GrigrComet08
+ ######
+ #  + ####
+##  #    #
+# ** *** #
+#   $   ##
+####  ###
+   #  #
+   ####
+Author: GRIGoRusha
+Title: Sunrise
+Comment:
+date: 22.09.05
+Comment-End:
+
+;GrigrComet09
+ #####
+ #   #  
+## # ###
+#  $   #
+# *** .#
+## *   #
+ # * ###
+ # @##  
+ ####   
+Author: GRIGoRusha
+Title: Flame Cross
+Comment:
+date: 24.09.05
+Comment-End:
+
+;GrigrComet10
+   ####
+####  #
+#  *+$##
+#  **  #
+## * * #
+ #   ###
+ #   #
+ #  ##
+ ####
+Author: GRIGoRusha
+Title: Kosmos
+Comment:
+date: 24.09.05
+Comment-End:
+
+;GrigrComet11
+   #####
+####   #
+#  @ *$#
+#  * * ##
+## ***  #
+ # .*   #
+ ###   ##
+   #####
+Author: GRIGoRusha
+Title: Antenna
+Comment:
+date: 25.09.05
+Comment-End:
+
+;GrigrComet12
+ ######
+ # @  ##
+ #$*** #
+## *   #
+#  *  ##
+# #*  #
+#  . *#
+###   #
+  #####
+Author: GRIGoRusha
+Title: Landing
+Comment:
+date: 07.10.05
+Comment-End:
+
+;GrigrComet13
+ #####
+ # . ###
+##$.$$ #
+# .+.# #
+# $.$  #
+# $.$  #
+###  ###
+  ####
+Author: GRIGoRusha
+Title: Jesus Cross
+Comment:
+date: 13.10.05
+Comment-End:
+
+;GrigrComet14
+ ####
+##  ###
+#  *$ ###
+#  *@*  #
+#  ***. #
+#  *    #
+## *  ###
+ ######
+Author: GRIGoRusha
+Title: Peace
+Comment:
+date: 25.10.05
+Comment-End:
+
+;GrigrComet15
+  ####
+  #  ###
+### .  #
+#   *  #
+# $@**##
+### *  #
+  # *  #
+  # *  #
+  ######
+Author: GRIGoRusha
+Title: Fakel
+Comment:
+date: 09.01.06
+Comment-End:
+
+;GrigrComet16
+  ####
+  #  #
+ ##  ####
+ # **   #
+##  *@# #
+#   *** #
+#     ###
+#######
+Author: Dries De Clercq and GRIGoRusha
+Title: Train
+Comment:
+date: 19.06.06
+Comment-End:
+
+
+
+;GrigrComet17
+  #####
+  # @ #
+  # # #
+###$. ###
+#  $.$  #
+# .$ $. #
+### .$###
+  # . #
+  #####
+Author: Dries De Clercq and GRIGoRusha
+Title: Parallel World
+Comment:
+date: 21.06.06
+Comment-End:
+
+;GrigrComet18
+  ####
+  #  ##
+ ## * #
+ #  * ##
+## #@  #
+# *** .#
+#   $ ##
+###   #
+  #####
+Author: Dries De Clercq and GRIGoRusha
+Title: Broken angle
+Comment:
+date: 23.06.06
+Comment-End:
+
+;GrigrComet19
+####
+#  ####
+#  $  #
+#.$+$.#
+# .$. #
+# $.$ #
+# $. ##
+######
+Author: Dries De Clercq and GRIGoRusha
+Title: 
+Comment: The Palm
+date: 28.06.06
+Comment-End:
+
+;GrigrComet20
+    ####
+    #  #
+#####  ###
+#   *$   #
+#   *. * #
+#@***  ###
+###  ###
+  #  #
+  ####
+Author: Dries De Clercq and GRIGoRusha
+Title: FemtoCosmos
+Comment:
+date: 29.06.06
+Comment-End:
+
+;GrigrComet21
+  ####
+ ##  ####
+ # * #  #
+## .* * #
+#  *.* @#
+#   $ $##
+####   #
+   #####
+Author: GRIGoRusha
+Title: Scruple
+Comment:
+date: 08.07.06
+Comment-End:
+
+;GrigrComet22
+  ####
+###  #
+#    ##
+# * * #
+# .*  ##
+#**#*$@#
+#      #
+#  #####
+####
+Author: GRIGoRusha
+Title: Firework
+Comment:
+date: 09.07.06
+Comment-End:
+
+;GrigrComet23
+  ####
+###  #
+#  * ###
+# $*$  #
+#. * . #
+#  # ###
+## # #
+ # @ #
+ #####
+Author: Dries De Clercq and GRIGoRusha
+Title: Cros life
+Comment:
+date: 24.06.06
+Comment-End:
+
+;GrigrComet24
+  ####
+  #  ##
+  #   ###
+  #  *@ #
+### **$ #
+#  **  ##
+#  *  ##
+### . #
+  #####
+Author: Dries De Clercq and GRIGoRusha
+Title: Non Alter
+Comment:
+date: 24.06.06
+Comment-End:
+
+;GrigrComet25
+####
+#  ######
+#   # . #
+# $$ $$@#
+##.....##
+ # $ $ #
+ #  ####
+ ####
+Author: Dries De Clercq and GRIGoRusha
+Title: Formatur Una
+Comment:
+date: 25.06.06
+Comment-End:
+
+;GrigrComet26
+######   
+#. . ####
+#$.#.$  #
+#.$.$.$ #
+#@.$.$  #
+# $   $ #
+#####  ##
+    #### 
+Author: GRIGoRusha
+Title: Zvezdopad
+Comment:
+date: 20.12.07
+Comment-End:
+
+;GrigrComet27.xsb
+  #####
+  # + #
+### * #
+#   * #
+#  $*$###
+### .   #
+  #$.$. #
+  #   ###
+  #####
+Author: GRIGoRusha
+Title: The Candle
+
+;GrigrComet28.xsb
+  #######
+  #...$ #
+###...$ ###
+#  ..#    #
+#  $ $$$  #
+#####$@$###
+    #   #
+    #####
+Author: GRIGoRusha
+Title: Encirclement
+
+;GrigrComet29.xsb
+   ####
+   #  #
+####$ ###
+#  $ $  #
+#@$...# #
+## #.$  #
+ # *.*  #
+ #  #####
+ #  #
+ ####
+Author: GRIGoRusha
+Title: My House
+
+;GrigrComet30.xsb
+ ####
+ #  #
+ #  #####
+ #  $ $ #
+ #$.*.@ #
+## .*.$ #
+#  #$# ##
+#  .$. #
+#  #####
+####
+Author: GRIGoRusha
+Title: Big Boss

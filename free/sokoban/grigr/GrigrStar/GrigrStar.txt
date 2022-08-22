@@ -1,0 +1,487 @@
+;GrigrStar01
+#########
+#   #   #
+#   $   #
+## #$# ##
+## # . #
+#..*+*$#
+#  $#  #
+###    #
+  ######
+Author: GRIGoRusha
+Title: Star forces
+Comment:
+date: 18.09.05
+Comment-End:
+
+;GrigrStar02
+  #####
+  # . #
+  # . ##
+ ##$.$ #
+ # .*..#
+## $#$ #
+# $ @ $#
+#   #  #
+########
+Author: GRIGoRusha
+Title: Space rocket
+Comment:
+date: 19.09.05
+Comment-End:
+
+;GrigrStar03
+ ######
+ #.   ###
+##*## $ #
+# *   @ #
+# .*#$  #
+##    ###
+ #  ###
+ ####
+Author: GRIGoRusha
+Title: Milky Way
+Comment:
+date: 18.09.05
+Comment-End:
+
+;GrigrStar04
+    ####
+    #  ###
+##### $$ #
+# $ $  $ #
+# #.# #$ #
+#  .  #@ #
+###.  $$ #
+ # .###  #
+ # .... ##
+ ########
+Author: GRIGoRusha
+Title: Big L
+Comment:
+date: 09.10.05
+Comment-End:
+
+;GrigrStar05
+    #####
+#####   #
+#     # #
+# $$#*. #
+##$@.* ##
+#  $*. #
+#   #.##
+###   #
+  #####
+Author: GRIGoRusha
+Title: Flower
+Comment:
+date: 18.10.05
+Comment-End:
+
+;GrigrStar06
+ #########
+ #  *.#  #
+ #$...** #
+ # .#.#. #
+## #     #
+#  $ #   #
+#@$$$$ ###
+#  $ # #
+####   #
+   #####
+Author: GRIGoRusha
+Title: Two Life
+Comment:
+date: 03.01.06
+Comment-End:
+
+;GrigrStar07
+#########
+#   #####
+# #     #
+# #     #
+#***## ##
+# *. #$##
+# *#  $ #
+#.*.  $ #
+# @#    #
+#########
+Author: GRIGoRusha
+Title: Tonus
+Comment:
+date: 08.01.06
+Comment-End:
+
+;GrigrStar08
+    ####
+#####  ##
+#  $@$  #
+#  $$$#.#
+## # ...#
+ # # ...#
+## #$# ##
+#   $  #
+#   ####
+#####
+Author: GRIGoRusha
+Title: The Cup
+Comment:
+date: 09.01.06
+Comment-End:
+
+;GrigrStar09
+#####
+#   ######
+# $      #
+##$# $$$ #
+#  ## $ ##
+# $  .#.##
+#  #..*.@#
+##   .*. #
+ #########
+Author: GRIGoRusha
+Title: Tabu
+Comment:
+date: 10.01.06
+Comment-End:
+
+;GrigrStar10
+  ####
+### @####
+# $$    #
+#  $ #$$##
+#  ##  $ #
+## #   $ #
+# ...*#  #
+# ....  ##
+#########
+Author: GRIGoRusha
+Title: Tort
+Comment:
+date: 12.01.06
+Comment-End:
+
+;GrigrStar11
+      #####
+#######   #
+#   ##  $ #
+# .... # ##
+## #$ #@$#
+ #  .*** ##
+ ##$# # $ #
+  #       #
+  ##   ####
+   #####
+Author: GRIGoRusha
+Title: Tamerlan
+Comment:
+date: 12.01.06
+Comment-End:
+
+;GrigrStar12
+   #####
+  ###  #
+  #   $##
+ ## # $ ##
+ #....#. #
+ # #$**..#
+##  $@$  #
+#  $###$##
+#       #
+#  ######
+####
+Author: GRIGoRusha
+Title: Tramplin
+Comment:
+date: 14.01.06
+Comment-End:
+
+;GrigrStar13
+#### ####
+#  ###  #
+#       #
+#  ### $##
+##$$+*.$ #
+## #**.$ #
+#   ..#  #
+# # #   ##
+#   #####
+#####
+Author: GRIGoRusha
+Title: Cosmos
+Comment:
+date: 14.01.06
+Comment-End:
+
+;GrigrStar14
+    #####
+ ####.  #
+ #  .*  #
+ #  #+ ##
+ #$$**.#
+ #   $ #
+## ### ##
+#    $  #
+#   #   #
+#########
+Author: GRIGoRusha
+Title: First Goal
+Comment:
+date: 15.01.06
+Comment-End:
+
+;GrigrStar15
+    #####
+#####   ##
+#  #   $ #
+#  # $$$ #
+#$$   #  #
+#.* ##. ##
+#@*.... #
+######  #
+     ####
+Author: GRIGoRusha
+Title: Toporiki
+Comment:
+date: 19.06.06
+Comment-End:
+
+;GrigrStar16
+  ########
+  #. ##  #
+  #...   #
+ ## .##  #
+ # $.$ $##
+## ##$#@ #
+#    $ $ #
+#     #  #
+##########
+Author: GRIGoRusha
+Title: The cluster
+Comment:
+date: 22.06.06
+Comment-End:
+
+;GrigrStar17
+ ########
+##  ..* #
+#  #... #
+# # .#.##
+# #   $##
+#  $  $ #
+## $##$ #
+ #$   $ #
+ #   #@ #
+ ########
+Author: GRIGoRusha
+Title: Whirlwind
+Comment:
+date: 24.06.06
+Comment-End:
+
+;GrigrStar18
+ #########
+## .     #
+# .*.$ $ #
+#...### ##
+#.. $@$  #
+#.# $$$$ #
+# ### $  #
+#     ####
+#######   
+Author: GRIGoRusha
+Title: Korona
+Comment:
+date: 27.06.06
+Comment-End:
+
+;GrigrStar19
+#####
+#   #####
+#    $  #
+## #..  #
+#  .*#$ ##
+# # *+$  #
+#  $.* $ #
+##  ######
+ ####
+Author: GRIGoRusha
+Title: The Flame
+Comment:
+date: 01.07.06
+Comment-End:
+
+;GrigrStar20
+     ####
+  ####  #
+  #  $  #
+  #  $  #
+### .## #
+# ...## ##
+# $$.$ $@#
+# .###   #
+#### #####
+Author: GRIGoRusha
+Title: The Bend
+
+;GrigrStar21
+   ######
+ ### . .#
+ #@$ .#.#
+##$#$...#
+#  $ ##.##
+# #   $  #
+#  $ $ $ #
+#   ######
+#####
+Author: GRIGoRusha
+Title: Four
+Comment:
+date: 06.07.06
+Comment-End:
+
+;GrigrStar22
+  ####
+ ## .#####
+##  $  @ #
+#  #$# $ #
+#....# ###
+# $ $ $#
+##  ## #
+ #  .  #
+ #######
+Author: GRIGoRusha
+Title: Travel Art
+Comment:
+date: 09.07.06
+Comment-End:
+
+;GrigrStar23
+   #######
+ ###@#   #
+ # $ $   #
+## #$## ##
+#   ..* ##
+# # .*#$ #
+# # #.*  #
+#     #  #
+##   #####
+ #####
+Author: GRIGoRusha
+Title: MacroCosmos
+Comment:
+date: 21.07.06
+Comment-End:
+
+;GrigrStar24
+ ########
+ # @##  #
+ # $##$ #
+ # $    #
+##$##$# #
+#  $  # #
+#  #.   #
+## ...#*#
+ ##. .  #
+  #######
+Author: GRIGoRusha
+Title: Up-Down
+Comment:
+date: 31.07.06
+Comment-End:
+
+;GrigrStar25
+     ####
+######  ##
+# $  $$  #
+# ...  # #
+##$ ##   #
+ #...$$$##
+ #.# $   #
+ #.  # @ #
+ #########
+Author: GRIGoRusha
+Title: Many Angles
+Comment:
+date: 31.07.06
+Comment-End:
+
+;GrigrStar26
+    ####
+ ####  #
+ #  #$ #
+ #   $.#
+ #  #$.#
+###$. .#
+#  $.# #
+# #$.  #
+#  @####
+#####
+Author: GRIGoRusha
+Title: Overturn
+Comment:
+date: 24.01.08
+Comment-End:
+
+;GrigrStar27
+    ####
+#####  ##
+#    .. #
+#   #.# #
+## # ** #
+ # # ..###
+## #$$$  #
+#   $@$  #
+#   ######
+#####
+Author: GRIGoRusha
+Title: Good House
+Comment:
+date: 25.01.08
+Comment-End:
+
+;GrigrStar28
+   ####
+####  ###
+#       #
+# .*#$  #
+##$.* $##
+# .*.$ #
+#  ## @#
+#  ##  #
+########
+Author: GRIGoRusha
+Title: Infinity
+Comment:
+date: 30.01.08
+Comment-End:
+
+;GrigrStar29
+ #######
+ #  #@ #
+ #  $**#
+ #  #..#
+## $$*.##
+#   #. .#
+# $ $   #
+##   ####
+ #####
+Author: GRIGoRusha
+Title: The Third Heaven
+Comment:
+date: 31.01.08
+Comment-End:
+
+;GrigrStar30
+ ####    
+ #  #####
+ # .... #
+ #$.# . #
+ # .#$.##
+##$# $  #
+# @  $  #
+# $$$ ###
+#    ##  
+######   
+Author: GRIGoRusha
+Title: Choise-Point

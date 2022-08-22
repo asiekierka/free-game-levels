@@ -1,0 +1,141 @@
+;GrigrSun01.xsb
+     ######
+   ### * @#
+  ##  * $ #
+###  * #  #
+#   . *  ##
+# #***##  #
+#   *     #
+########  #
+       ####
+Author: GRIGoRusha
+Title: JigSaw
+Comment:
+date: 01.07.06
+old name - GrigrStar 20
+Comment-End:
+
+;GrigrSun02.xsb
+    #####
+    #   ##
+#####$   #
+# $ $ $  #
+# .$ $@# #
+##..$ ## #
+##.# $   #
+# ..#$ ###
+# ...$.#
+########
+Author: GRIGoRusha
+Title: The Drift
+
+;GrigrSun03.xsb
+######
+#    #####
+# ##$$ $@#
+# #   $  #
+#...#$ $ #
+## .  #  #
+ #..  $ ##
+ #.##$###
+ #.   #
+ ######
+Author: GRIGoRusha
+Title: Query Mark
+
+;GrigrSun04.xsb
+   #####
+ ###   ##
+ # ...  #
+## *.*# #
+#  #*.$ #
+#  $ $ ##
+# $ @#$#
+## ### #
+ #     #
+ #######
+Author: GRIGoRusha
+Title: Kenya House
+
+;GrigrSun05.xsb
+    ####
+#####  ###
+# $   ...##
+#@$ $$.#$ #
+##$## ... #
+## ##  #  #
+#  ###### ##
+#     $    #
+#  #####   #
+####   #####
+Author: GRIGoRusha
+Title: Zikozavr
+
+;GrigrSun06.xsb
+  ######
+###    #
+#   ## ####
+# # $@$   #
+# #$...$# #
+# # *** # #
+#  $...$# #
+##  ##    #
+ #####  ###
+     ####
+Author: GRIGoRusha
+Title: Opened Heart
+
+;GrigrSun07.xsb
+  #####
+  # . #
+ ##$.$#
+ #  . #
+##.$.@###
+# .$#$  #
+# .$.$  #
+## $  ###
+ ###  #
+   ####
+Author: GRIGoRusha
+Title: Everest
+
+;GrigrSun08.xsb
+#####
+#   #####
+#.#$    #
+#.# $$$ #
+#.# $ @##
+#.# $#$#
+#..    #
+#.. $# #
+####   #
+   #####
+Author: GRIGoRusha
+Title: Unopened Room
+
+;GrigrSun09.xsb
+    ####
+#####  ####
+# $ $ $   #
+# ..  #   #
+##.. $#####
+ #.. $   #
+ #.#$#$$@#
+ #.  #   #
+ #########
+Author: GRIGoRusha
+Title: Open Air
+
+;GrigrSun10.xsb
+     ####
+    ##  #
+#####   #
+# $ $ $ #
+# ..#  ##
+##$.*.$#
+ # .*  #
+ #$ +###
+ #   #
+ #####
+Author: GRIGoRusha
+Title: The Tornado

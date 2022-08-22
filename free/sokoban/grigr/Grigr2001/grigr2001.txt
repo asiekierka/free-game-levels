@@ -1,0 +1,1718 @@
+;These levels are made GRIGoRusha
+;(Some levels are made by my friend Mottled and are slightly advanced me).
+;You always can find these levels, and as many new levels 
+;of this author on his home page: http://grigr.narod.ru
+;You may write to the author email: grigr@yandex.ru
+
+;I done not interested with my CopyRights !!!
+;You may do everything with these levels, that want.
+;I shall be pleased, if you place them in the program or on the site.
+;Do not ask me the sanction.
+
+;01
+###################
+#  .   . #        #
+#.#$##$# # #$##$# #
+#$  ## $  $ .##. .#
+#.#$  .# # #  $ # #
+#   ##   #  .##. .#
+# #$##$##### ## # #
+#     .  #@$  . $ #
+#     .  # $  . $ #
+# #$##$##### ## # #
+#   ##   #  .##. .#
+#.#$  .# # #  $ # #
+#$  ## $  $ .##.#.#
+#.#$##$# # #$##$# #
+#  .   . #        #
+###################
+Author: GRIGoRusha - Bardak #01
+Title: Bardak #01
+Comment:
+color purple
+Comment-End:
+
+;02
+     ########
+  ####      #####
+  #  $ ## $ $ $@#
+  # ##.##*#$ $ $#
+### ......#  $$ ##
+#   ......#  #   #
+# #$......#$  $  #
+# # .......$$# $ #
+# $$###.###$  $ ##
+###  $  $  $  $ #
+  #   $ $  $  $ #
+  ######   ######
+       #####
+Title: Original conversion (42) #02
+Author: GRIGoRusha
+Comment:
+color green
+Comment-End:
+
+;03
+    ##### #####
+  ###   ###   #
+  #@$ #  $    #
+  #$#.######$##
+### ....#  # #
+#   . . #  # #
+# # ....#  # #
+# #    ##### #
+# $ ##$#   # #
+###$$  #$  # ##
+  #           #
+  ##  #  $# $ #
+   #####  ##  #
+       ########
+Author: GRIGoRusha - Zigzag #03
+Title: Zigzag #03
+Comment:
+color blue
+Comment-End:
+
+;04
+  #########
+  #   #  @#
+ ##  .$.# #
+ #  ##  $ #
+##  .$*#$##
+#  #$#   #
+#  . .# ##
+####    #
+   ######
+Author: GRIGoRusha - Track #04
+Title: Track #04
+Comment:
+color red
+Comment-End:
+
+;05
+  #####  
+ ##   ## 
+##  *  ##
+#  *$*  #
+# #. .#@#
+#  *$*  #
+##  *  ##
+ ##   ## 
+  #####  
+Author: GRIGoRusha - updown #05
+Title: updown #05
+Comment:
+color yelow
+Comment-End:
+
+;06
+  ##########
+  #   ##   #
+###   . .# #
+#  # ##  $ #
+# $  .**#$##
+#   # #   # 
+##  *$.# ## 
+ ####   @#  
+    ######  
+Author: GRIGoRusha - Triple Shelf #06
+Title: Triple Shelf #06
+Comment:
+color blue
+Comment-End:
+
+;07
+    ####
+#####  #
+#      #
+#@$.*.$#
+#  *#* #
+## .*.$##
+#  # *  #
+# $. #$ #
+#  #    #
+####  ###
+   ####
+Author: GRIGoRusha - The disorder #07
+Title: The disorder #07
+Comment:
+color green
+Comment-End:
+
+;08
+#######  
+#...  ###
+#@##$$  #
+# $     #
+#.# ## ##
+# $ #  #
+###   ##
+  #####
+Author: GRIGoRusha - Comci-comca #08
+Title: Comci-comca #08
+Comment:
+color red
+Comment-End:
+
+;09
+ #### #########
+ #  ###       #
+## $ $  # ### #
+#   $ ###. .  #
+# #$$ ##. . # #
+#    $#. .  # #
+# $#  $ .#.   #
+#  $  #.   .###
+# $###### @##
+#  #    ####
+####
+Author: GRIGoRusha - Zontik #09
+Title: Zontik #09
+Comment:
+color yellow
+Comment-End:
+
+;10
+  ####
+  #  #      
+###  #      
+#    #####  
+#  * #   ###
+### *#  *$ #
+ ## *  **@ #
+ #  #   *.##
+ #  ####  # 
+ #  #  #### 
+ ####       
+Author: GRIGoRusha - Pereprig #10
+Title: Pereprig #10
+Comment:
+color green
+Comment-End:
+
+;11
+  ####
+  #  ###     
+  # $  ######
+  #  #$##   #
+  ##. . . $ #
+ ### #*# # ##
+ # $.*@*.$ # 
+## # #.# ### 
+# $ .   .##  
+#   ##$#  #  
+######  $ #  
+     ###  #  
+       ####  
+Author: GRIGoRusha - Krenol #11
+Title: Krenol #11
+Comment:
+color purple
+Comment-End:
+
+;12
+ #####
+ #   ###
+ #  $  #
+### *  #
+#  * *###
+# # *   #
+# #*@*# #
+#   * # #
+###*.*  #
+ #  * ###
+ #     #
+ ###   #
+   #####
+Author: GRIGoRusha - Cheburek #12
+Title: Cheburek #12
+Comment:
+color green
+Comment-End:
+
+;13
+ #####
+ #   ### 
+ #  $  # 
+###.$. # 
+#  $.$###
+# #.$.  #
+# #$@$# #
+#  .$.# #
+###$.$  #
+ # .$.###
+ #  .  # 
+ ###   # 
+   ##### 
+Author: GRIGoRusha - LM #13
+Title: LM #13
+Comment:
+color yellow
+Comment-End:
+
+;14
+#####
+#   #####
+# # ##  #
+# $    $##
+### ..#  #
+  #$...  #
+### @..# #
+# $  $ $ #
+# # ###$ #
+#   # #  #
+##### ####
+Author: GRIGoRusha - Verenica #14
+Title: Verenica #14
+Comment:
+color aqua
+Comment-End:
+
+;15
+##### ####
+#   ###  #
+#    $   #
+## ####  #
+ #$#..#$##
+ # #.....#
+ #   ..# ###
+ # #$## $  #
+ #  $@$$   #
+## ##$#  ###
+#       ##
+#   #####
+#####
+Author: GRIGoRusha - MoraSoft #15
+Title: MoraSoft #15
+Comment:
+color blue
+Comment-End:
+
+;16
+   #####
+  ##   #
+ ##  # #
+ #.$*  #
+##$.$* #
+# *@.$ #
+#  *$. #
+# # .###
+#   ##  
+#####   
+Author: GRIGoRusha - Uje polnoch #16
+Title: Uje polnoch #16
+Comment:
+color purple
+Comment-End:
+
+;17
+  ####
+  #@ ### 
+###*   ##
+#  $ #  #
+# #**$*.#
+#     $ #
+##..#**##
+ #     # 
+ #   ### 
+ #####   
+Author: GRIGoRusha - Zanoza #17
+Title: Zanoza #17
+Comment:
+color red
+Comment-End:
+
+;18
+####      ####
+#  ########  #
+# $ # .. # $ #
+#  $$$..$$$  #
+##    **     #
+ #@ #....#  ##
+ ############
+Author: GRIGoRusha - SokoBat #18
+Title: SokoBat #18
+Comment:
+color green
+Comment-End:
+
+;19
+##############
+#            #
+# $**. *#.**$##
+# *  $@$ * #. #
+# *$*.#* *.*$ #
+# * $.#. * .$ #
+##$..$#*#.$$. #
+ #           ##
+ ###  ###  ###
+   #### ####
+Author: GRIGoRusha - GirLand #19
+Title: GirLand #19
+Comment:
+color blue
+Comment-End:
+
+;20
+    ####
+#####  # 
+# $ $ $# 
+#  ... #  
+#  .#. #  
+##$*.*$##
+#  # .$ #
+#  . #$@#
+#  #  $ #
+####  ###
+   ####
+Author: GRIGoRusha
+Title: Miasorubka (#07r) #20
+Comment:
+color blue
+Comment-End:
+
+;21
+  #####
+### @ ###
+#  *#*  #
+# #. .# #
+# $   $ #
+# #*#*# #
+# $   $ #
+# #. .# #
+# $. .$ #
+###   ###
+  #####
+Author: GRIGoRusha
+Title: Kino #21
+Comment:
+color yellow
+Comment-End:
+
+;22
+ #######
+ # .   # 
+##$#*# ##
+#  *    #
+#   @*  #
+## #*#$##
+ #   . # 
+ ####### 
+Author: GRIGoRusha - Osen #22
+Title: Osen #22
+Comment:
+color purple
+Comment-End:
+
+;23
+   #######   
+ ###  .  ####
+## $ #.# $  #
+# $ $#.#$ $ #
+#  $.. ..$  #
+### ##@## ###
+  #   .   #  
+  #########  
+Author: GRIGoRusha
+Title: Chmoki #23
+Comment:
+color blue
+Comment-End:
+
+;24
+  #######
+  #  #  ###
+###.$.$. @#
+#  . #$.$ #
+# #$ .$. ##
+#  . $$ ##
+###  #  #
+  #######
+Author: GRIGoRusha - Zavhoz #24
+Title: Zavhoz #24
+Comment:
+color blue
+Comment-End:
+
+;25
+  ###### 
+### @. # 
+# . $# ##
+# $ . $ #
+## # $. #
+ # .$ ###
+ ##  ##  
+  ####   
+Author: GRIGoRusha - Strelka #25
+Title: Strelka #25
+Comment:
+color aqua
+Comment-End:
+
+;26
+  ####
+###  ####
+#  $  $ #
+#  #.#$ #
+# ..*..@#
+## #.#$##
+#  $  $ #
+#   #   #
+#########
+Author: GRIGoRusha - Burlak #26
+Title: Burlak #26
+Comment:
+color red
+Comment-End:
+
+;27
+ #######
+ #  +  #
+##$#*#$##
+#   .   #
+# $ . $ #
+## #*# ##
+ #  .  #
+ #######
+Author: GRIGoRusha - Korona #27
+Title: Korona #27
+Comment:
+color green
+Comment-End:
+
+;28
+   ####
+ ###  #
+##    ###
+# $ $   #
+# #$# #$##
+# . .$.  #
+##.@. #$ #
+ ###.   ##
+   #  ###
+   ####
+Author: GRIGoRusha - Magazine #28
+Title: Magazine #28
+Comment:
+color red
+Comment-End:
+
+;29
+ #####
+ #   ######
+ #  $ #   #
+ #..*.$   #
+## #$*@#$##
+#   $.$# # 
+#   #..  # 
+#####  ### 
+    ####   
+Author: GRIGoRusha - Povorot #29
+Title: Povorot #29
+Comment:
+color yellow
+Comment-End:
+
+;30
+ #########
+ #   ##  #
+ #       #
+ ##$# #$$##
+ #...*....#
+## #$#$#  #
+#  $   $ ##
+#   #@  ##
+#########
+Author: GRIGoRusha - Nitka #30
+Title: Nitka #30
+Comment:
+color blue
+Comment-End:
+
+;31
+  ####
+ ##  ###
+ #   . ##
+##.$. $ #
+# $*#*$@#
+#  $. *#
+## .   #
+ ###  ##
+   ####
+Author: GRIGoRusha
+Title: Krestik #31
+Comment:
+color purple
+Comment-End:
+
+;32
+  ####
+  #  ####
+### $.$ ###
+#  . * .  #
+#  * # *  #
+## *$*$* ##
+ #   . ###
+ ####@ #
+    ####
+Author: GRIGoRusha
+Title: Antena #32
+Comment:
+color green
+Comment-End:
+
+;33
+    #####
+   ##   ###
+  ##      #
+ ## $#$$# ##
+## $  $  $ #
+#  # #$# # #
+#  ...@....#
+#  #########
+####
+Author: GRIGoRusha
+Title: Katenka #33
+Comment:
+color blue
+Comment-End:
+
+;34
+    ######
+   ## ...#
+  ## $ # #
+  # $ ...#
+###$  # ##
+# $@#   #
+#  $ #  #
+#   $  ##
+##  #  #
+ #######
+Author: GRIGoRusha
+Title: Bumerang #34
+Comment:
+color red
+Comment-End:
+
+;35
+  #####
+###   #
+# $$# ####
+# $@*.   #
+# #$...#$##
+#   .. $  #
+###  ##   #
+  #########
+Author: GRIGoRusha
+Title: GKI #35
+Comment:
+color green
+Comment-End:
+
+;36
+ ########
+ #   #@ #
+ # *.$ $##
+###*.# $ #
+# $ $.*  #
+#   #..###
+##      #
+ ####   #
+    #####
+Author: GRIGoRusha
+Title: Kubiki #36
+Comment:
+color yellow
+Comment-End:
+
+;37
+ #####
+ #   ####
+ # .@.  #
+###.$#  #
+# $.$.$##
+#  .#. ##
+##$ $ $ #
+ #  #   # 
+ ########
+Author: GRIGoRusha
+Title: Raketa #37
+Comment:
+color red
+Comment-End:
+
+;38
+#####
+#   #
+#$ $#
+#.. ####
+# *  $ #
+# ..** #
+#  $$. #
+#### ..#
+   #$ $#
+   # @ #
+   #####
+Author: GRIGoRusha
+Title: Snake #38
+Comment:
+color green
+Comment-End:
+
+;39
+      ####
+#######  #
+#  $     #
+#  $#    ####
+###  # ###  #
+  # $@$  $$ #
+  # $## ##  #
+  #   .... ##
+  ####...  #
+     #######
+Author: GRIGoRusha
+Title: Xolodok #39
+Comment:
+color purple
+Comment-End:
+
+;40
+ ####
+ #  ###
+##    #
+#  $  #
+# $$$###
+## $   ###
+ # ##$   #
+##  #    #
+#   ### ####
+# # #....  #
+#    .# .# ###
+### #@ ..    #
+  #  ....# # #
+  #### ###   #
+    #    #  ##
+    #   $## #
+    ###   $ ##
+      ###$$$ #
+       #  $  #
+       #    ##
+       ###  #
+         ####
+Author: GRIGoRusha
+Title: Rebus #40
+Comment:
+color blue
+Comment-End:
+
+;41
+      #####
+#### ##   ###
+#  ###  #$@ #
+#...     $$ #
+#. .## # #  #
+#...#  $$#$##
+##  $$#     #
+ ###    #   #
+   ###  #####
+     ####
+Author: GRIGoRusha
+Title: Okno #41
+Comment:
+color purple
+Comment-End:
+
+;42
+  #######  
+  #  #  #  
+  #     #  
+  #..#$$#  
+###     ###
+# ...#$$$ #
+#         #
+###..#$$###
+  #  @  #  
+  #######  
+Author: GRIGoRusha
+Title: Flip-Flop #42
+Comment:
+color red
+Comment-End:
+
+;43
+########
+#  #   ###
+#   .$.  #
+#  ##@## #
+## $.$.  #
+#  #   # #
+#  $*#.$ #
+####   ###
+   #####
+Author: GRIGoRusha
+Title: Rostok #43
+Comment:
+color purple
+Comment-End:
+
+;44
+#######
+#...  ###
+# ##    #
+#  $  $ #
+#.#$##$##
+#   #@ #
+###   ## 
+  #####
+Author: GRIGoRusha
+Title: Lastochki (#08r) #44
+Comment:
+color purple
+Comment-End:
+
+;45
+#########
+#   #   #
+# $ @ $ #
+## ### ##
+#  .#.  #
+# $...$ #
+##$.#.$##
+#  ###  #
+#   $   #
+#  ###  #
+#########
+Author: Mottled and GRIGoRusha
+Title: Gantel #45
+Comment:
+color yellow
+Comment-End:
+
+;46
+ ####
+ #  ####
+ # ..  #
+ # .*  #
+##$.* ##
+# $.* #
+#@$#$ #
+# $   #
+####  #
+   ####
+Author: GRIGoRusha
+Title: Dva Torchka #46
+Comment:
+color blue
+Comment-End:
+
+;47
+#######
+#  @  #
+# .*  #
+# $*$##
+## *  #
+ # *  #
+##$.$##
+#  *  #
+# .#. #
+#  #  #
+#######
+Author: GRIGoRusha
+Title: Rassvet #47
+Comment:
+color purple
+Comment-End:
+
+;48
+       #####
+########   #
+#          #
+# # $*$## ##
+#.##* * # # 
+#    *  # ##
+# *@ #  #  #
+## * ## *  #
+ ##  .  #  #
+  ##########
+Author: Mottled and GRIGoRusha
+Title: Green key #48
+Comment:
+color green
+Comment-End:
+
+;49
+
+    #####
+##### @ ##
+#    $#$ #
+#.  # .  #
+##$# *.* #
+#  #$ . ##
+#  $  # # 
+# .##   # 
+######### 
+Author: GRIGoRusha
+Title: Vorona #49
+Comment:
+color red
+Comment-End:
+
+;50
+ #####
+ # @ ##
+ # #  #
+##$.$ #
+# *.* #
+# $.$###
+#  # . ##
+##  .** #
+ #$# .  #
+ #  $#  #
+ ###   ##
+   #####
+Author: GRIGoRusha
+Title: Snejinki #50
+Comment:
+color blue
+Comment-End:
+
+;51
+ #####
+ #   ##
+ # #  #
+## *$ ##
+# .$.$ #
+#  .$.$##
+#  #.$.@#
+## $ *$.#
+ ### #. #
+   #   ##
+   #####
+Author: GRIGoRusha
+Title: Resheto #51
+Comment:
+color green
+Comment-End:
+
+;52
+     #####
+  ####   ##
+ ##  $$ $ #
+ #    .#  #
+ #  .#    #
+##.#$ $* ##
+#    . ###
+# @.####
+#####
+Author: GRIGoRusha
+Title: Dva brata #52
+Comment:
+color purple
+Comment-End:
+
+;53
+    #####
+ ####   ###
+##  $ $   ##
+#  ### ##  #
+# #  $   # #
+# ...*.... #
+# # $ $  # #
+#  ## ###  #
+## $   $  ##
+ ### @ ####
+   #####
+Author: GRIGoRusha
+Title: The X #53
+Comment:
+color green
+Comment-End:
+
+;54
+    #######
+   ##     #
+  ## $##  #
+ ## .. .  #
+ # $$##$  #
+##$.*@*.$##
+#   ##$  #
+#  . ..###
+#  ##$ #
+#     ##
+#######
+Author: GRIGoRusha
+Title: Tiskoteka #54
+Comment:
+color blue
+Comment-End:
+
+;55
+    ####
+#####@ #
+# $ $$$##
+#  .#.  #
+## #  # #
+ # . .  #
+ #   ####
+ #####
+Author: GRIGoRusha
+Title: Kubizm #55
+Comment:
+color blue
+Comment-End:
+
+;56
+ #####
+ #  @##
+ # $$ #
+ #$ # #
+## ...#
+#  # ##
+#    #
+###  #
+  ####
+Author: GRIGoRusha
+Title: Cherta #56
+Comment:
+color purple
+Comment-End:
+
+;57
+  #####  
+ ##   ## 
+##  #  ##
+## .$. ##
+# $$.$$ #
+# .$$$. #
+## .+. ##
+ ####### 
+Author: GRIGoRusha
+Title: Derji Morda #57
+Comment:
+color red
+Comment-End:
+
+;58
+    ####
+ ####@ #
+ # $   #
+## ###$##
+#.  $  .#
+#   #   #
+### # ###
+ #.   #
+ #   ##
+ #####
+Author: GRIGoRusha
+Title: Mini zagadka #58
+Comment:
+color green
+Comment-End:
+
+;59
+  ####
+  #  #
+  #  #####
+  # .    #
+###$***  #
+#  *..$ ##
+#@ $ .$##
+####   #
+   ##  #
+    ####
+Author: Mottled and GRIGoRusha
+Title: DenPo #59
+Comment:
+color blue
+Comment-End:
+
+;60
+
+######
+#   .#####
+# # .    #
+# # .#$# #
+#.  .# $ #
+## #.@ # #
+ # $ # $ #
+ ###  $$ #
+   ##   ##
+    ######
+Author: GRIGoRusha
+Title: One left #60
+Comment:
+color yellow
+Comment-End:
+
+;61
+ ######## #
+ #  #   #  
+##$ $$# ###
+#.*.#@$   #
+#...#$#   #
+#.#*$  # ##
+# #    # ##
+#  ##     #
+##    #   #
+ ##########
+Author: GRIGoRusha
+Title: Monster #61
+Comment:
+color yellow
+Comment-End:
+
+;62
+#########
+#   .   #
+#   # $ #
+# *###.$#
+#  $@$  #
+#* .#.$.#
+# $###  #
+#   .   #
+#########
+Author: Mottled and GRIGoRusha
+Title: Rojdestvo #62
+Comment:
+color red
+Comment-End:
+
+;63
+  #######
+###  +  ###
+#   #$#   #
+# #  *  # #
+#  # * #  #
+##   #   ##
+ #########
+Author: GRIGoRusha
+Title: Vverh #63
+Comment:
+color blue
+Comment-End:
+
+;64
+   #######
+ ###  .  ###
+## * #$#$* ##
+#  *  *  .  #
+# #$#@*$# # #
+#  .  #  .  #
+##   ###   ##
+ ##### #####
+Author: GRIGoRusha
+Title: Semechki #64
+Comment:
+color red
+Comment-End:
+
+;65
+   #####
+####   #
+#  #.#$###
+#   . $  #
+#....#$# #
+###$# $  #
+ # $  @ ##
+ #   ####
+ #####
+Author: GRIGoRusha
+Title: Ugolok #65
+Comment:
+color green
+Comment-End:
+
+;66
+#####  ####
+#   ####  #
+#      $ @#
+##$#####  #
+#  #...$ ##
+#  $. .#  #
+#  #...##$##
+##$###$##  #
+#       $  #
+#   ##  #  #
+############
+Author: GRIGoRusha
+Title: The doors #66
+Comment:
+color red
+Comment-End:
+
+;67
+   #####
+  ##   ###
+ ##  #   #
+ #   $$# #
+ #$.#    #
+##..*$# ##
+# .#*   #
+#  . #$@#
+####   ##
+   #####
+Author: GRIGoRusha
+Title: Metro #67
+Comment:
+color yellow
+Comment-End:
+
+;68
+  #######
+###     #
+# $*#$# ##
+# #. $.  #
+# #. @.# #
+#  . $.# #
+##$# #*$ #
+ #     ###
+ #######
+Author: GRIGoRusha
+Title: Zimushka Zima #68
+Comment:
+color purple
+Comment-End:
+
+;69
+########  
+#   #  ##
+#   $   #
+## ##..$#
+ #@## . #
+ # . ##$#
+ #$ .## ##
+ #   $   #
+ ##  #   #
+  ########
+Author: GRIGoRusha
+Title: Kompas #69
+Comment:
+color red
+Comment-End:
+
+;70
+  #######
+###  #  ###
+#  $.@.$  #
+# # ... # #
+# $ #.# $ #
+##  #.#  ##
+ # $ $ $ #
+ #  ###  #
+ #### ####
+Author: GRIGoRusha
+Title: Sharlotka #70
+Comment:
+color yellow
+Comment-End:
+
+;71
+####
+# @###   
+# *  ####
+# *     #
+# * ##  #
+# * # * #
+# * # * #
+# * # * #
+# .## * #
+#     $ #
+######  #
+     ####
+Author: GRIGoRusha
+Title: Dve dorogi #71
+Comment:
+color purple
+Comment-End:
+
+;72
+ ####
+##@ #####
+# $$$   #
+# # # # #
+# ...   #
+####   ##
+   #####
+Author: GRIGoRusha
+Title: Miner #72
+Comment:
+color green
+Comment-End:
+
+;73
+   #####
+  ##   ####
+ ## $.$   #
+ #  #.#   #
+## . @ #$##
+#  #.# .$ #
+#   . #   #
+### $ $ ###
+  ####  #
+     ####
+Author: GRIGoRusha
+Title: Karusel #73
+Comment:
+color blue
+Comment-End:
+
+;74
+    ####
+ ####. ##
+##      #
+#  $#$  #
+#. $..# ##
+## #..$ .#
+ # $$#$  #
+ #   @$ ##
+ ## .####
+  ####
+Author: GRIGoRusha
+Title: Zapiataya #74
+Comment:
+color green
+Comment-End:
+
+;75
+    ####
+#####  #
+#   #$ #
+#      ##
+##$###  #
+ #  ... #
+##$# .###
+#  ##@##
+#  $   #
+#  #   #
+########
+Author: GRIGoRusha
+Title: Telefon #75
+Comment:
+color green
+Comment-End:
+
+;76
+  ####
+  #  ###
+### $$ #
+#    # #
+# #....#
+#  $$  #
+##..#**#
+ #$$  @#
+ #   ###
+ #####  
+Author: GRIGoRusha
+Title: Egoza (#17r) #76
+Comment:
+color yellow
+Comment-End:
+
+;77
+   #####
+####   #
+# $  #.##
+#   *   #
+##.#  $ #
+ # @ ####
+ #####
+Author: GRIGoRusha
+Title: Zerkalo #77
+Comment:
+color purple
+Comment-End:
+
+;78
+            ####
+ ############  #####
+ #    #  #     #   ##
+ # $ $ $  $$# $ $   #
+ ##$ $   # @# $   $ #
+###   ############ ##
+#  $ $# .....#...#$#
+# #   # .  .##..## #
+# ### ##.# ..#. #  #
+# #   $..# ..#..$$ #
+# # $ #  # #.. .#  #
+#  $ $#.........# $#
+# $   #..##$#####  #
+# $ $ #### $ $  $ $#
+## #     $ $ $ $   ###
+ # ####### $    $    #
+ #         # ####### #
+ ####### #$          #
+       #   ###########
+       #####
+Title: Original conversion (22) #78
+Author: GRIGoRusha
+Comment:
+color blue
+Comment-End:
+
+;79
+   #####
+####   #
+#    $ #
+#   #$###
+## ## @ #
+# ..#   #
+# ..$$ ##
+##  #  #
+ #######
+Author: GRIGoRusha
+Title: Big uborka #79
+Comment:
+color red
+Comment-End:
+
+;80
+  ########
+ ## @    #
+## ...## #
+#  *.*   #
+# #***$ ##
+# $ $ ###
+##  #  #
+ #  $  #
+ ####  #
+    ####
+Author: GRIGoRusha
+Title: CFL #80
+Comment:
+color blue
+Comment-End:
+
+;81
+##### ####
+#   ###  ##
+#    $    #
+##$##@# #$#
+ # #....  #
+##  ....# #
+# $# # ##$##
+#  $ $ $   #
+#  #####   #
+####   #####
+Author: GRIGoRusha
+Title: Luja #81
+Comment:
+color red
+Comment-End:
+
+;82
+#####
+#   #######
+# $    #  #
+##$#   $$ #
+#  ##.##  #
+# $$...  ##
+#  #...#@#
+# #### #$#
+#        #
+##########
+Author: GRIGoRusha
+Title: Tamagochi #82
+Comment:
+color red
+Comment-End:
+
+;83
+  ####
+###  #
+#    ###
+#...$  #
+# #  # #
+# $$***#
+###    #
+  # @###
+  ####
+Author: GRIGoRusha
+Title: TriNaTri #83
+Comment:
+color green
+Comment-End:
+
+;84
+       ####
+   #####  #
+   #   #  #
+   #  $ $ #
+ ### #$   ####
+ # $ $ ##$   #
+ #  # $@$ # $#
+ #  #  $   $ #
+ ## ####*##  ####
+ # $#.....#     #
+ #  *...*..$# $ #
+## $#.....#   ###
+#   ###.#.#####
+# $$  #  ##
+#  #     #
+######   #
+     #####
+Title: Original conversion (15) #84
+Author: GRIGoRusha
+Comment:
+color red
+Comment-End:
+
+;85
+ #########
+##   #   #
+#     *  #
+# #* * *##
+# $ # *  #
+#  *@*#. #
+####* *  #
+   #   ###
+   #####  
+Author: GRIGoRusha
+Title: Salut (#86r) #85
+Comment:
+color red
+for Aumeric
+Comment-End:
+
+;86
+ #########
+##   #   #
+# . . $  #
+# #*.* $##
+# $ #.*  #
+#  $@*#. #
+####$ *  #
+   #   ###
+   #####
+Author: GRIGoRusha
+Title: Shito-Krito #86
+Comment:
+color green
+Comment-End:
+
+;87
+       #####
+########   #
+#  #       #
+#    $ ## ##
+#  ###### #
+##$####.. ###
+#  # ..$*$  #
+#    *@ . # #
+#  #$* #### #
+#### ###### #
+   #        #
+   ##########
+Author: GRIGoRusha
+Title: Krik #87
+Comment:
+color blue
+Comment-End:
+
+;88
+   #####
+####   ###
+# @** .. #
+# $    # #
+# $ #### #
+###      #
+  ########
+Author: GRIGoRusha
+Title: Ustal #88
+Comment:
+color purple
+Comment-End:
+
+;89
+#####     
+#   ##    
+#  $ #    
+## $.#####
+ # $.@#  #
+ ##$*$   #
+  # ...  #
+  #  #  ##
+  ####### 
+Author: GRIGoRusha
+Title: LoLa (#93r) #89
+Comment:
+color green
+Comment-End:
+
+;90
+     ####
+######  #
+#   #..$#
+#  $$.. #
+##   *.$##
+ ###$.*  ##
+  #  ..$$ #
+  # $ #  @#
+  #  ######
+  ####
+Author: GRIGoRusha
+Title: Babochka #90
+Comment:
+color green
+Comment-End:
+
+;91
+ #####
+ #   #####
+ # $ $ $ #
+ ###.... #
+####*.* ##
+#   $ $##
+#   #@  #
+#####   #
+    ##  #
+     ####
+Author: GRIGoRusha
+Title: Mapat #91
+Comment:
+color purple
+Comment-End:
+ 
+;92
+ #####
+ #   ####
+ #$  $  #
+## @**  #
+#  **. ##
+# $*.. ##
+###   ###
+  #####
+Author: GRIGoRusha
+Title: Master #92
+Comment:
+color red
+Comment-End:
+
+;93
+   #####
+   #   ##
+   #    #
+   ## * #
+ ###@ *##
+## .... #
+#   $ # #
+# $$$## #
+#  #    #
+#########
+Author: Mottled and GRIGoRusha
+Title: Little night #93
+Comment:
+color blue
+Comment-End:
+
+;94
+  ####
+ ##  ####
+ #  $   #
+##.$#*  #
+# .$@* ##
+# .... #
+# $ $ $#
+#####  #
+    ####
+Author: GRIGoRusha
+Title: New year's fir tree #94
+Comment:
+color green
+Comment-End:
+
+;95
+    ####
+ ####  #
+ #     ##
+ #$***  #
+ # * #  #
+## *   ##
+# @*.###
+#    #
+######
+Author: GRIGoRusha
+Title: Salto (#94r) #95
+Comment:
+color blue
+Comment-End:
+
+;96
+ ####
+ #  #
+##  #######
+#  .$ #   #
+# .$* # $ #
+##$* . . ##
+ #  # *$* #
+ # @## .  #
+ ####   ###
+    #   #
+    #####
+Author: GRIGoRusha
+Title: Domovoy #96
+Comment:
+color green
+Comment-End:
+
+;97
+ ########
+ #  .   #
+ #.$..$ #
+##$$@$$##
+# $..$.#
+#   .  #
+########
+Author: GRIGoRusha
+Title: Radost #97
+Comment:
+color purple
+Comment-End:
+
+;98
+####
+#@ ########
+#  *  #   #
+#.**$     #
+#   ### *.#
+#   #  $*$#
+#####   . #
+    ####  #
+       ####
+Author: GRIGoRusha
+Title: Minutka #98
+Comment:
+color blue
+Comment-End:
+
+;99
+    #####
+   ##   #
+ ###    #
+##   $ ##
+#@.*** #
+#    * #
+########
+Author: GRIGoRusha
+Title: Samogonka #99
+Comment:
+color red
+Comment-End:
+
+;100
+ ####      
+ #  #####  
+##* *   ## 
+# $ #  * ##
+#   ##*  .#
+### #  *# #
+ #      # #
+ #  # ### ##
+ #   *@##  #
+ ###  * *  #
+   ##   #  #
+    ########
+Author: GRIGoRusha
+Title: Only you #100
+Comment:
+color blue
+Comment-End:

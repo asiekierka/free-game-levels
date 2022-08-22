@@ -1,0 +1,634 @@
+;GrigrSpecial01
+#####
+#   #########
+# $    ##   #
+##$#..      #
+## ##*#### ##
+#  ##. @ #  #
+#  $.. # $  #
+#  ###$###  #
+##      #####
+ ####   #
+    #####
+Author: GRIGoRusha
+Title: Krutoy Povorot
+
+;GrigrSpecial02
+##########
+#  .##   ##
+#   $@$#  #
+##$#.#. $ #
+ # #*$*#  #
+## #. .  ##
+#  .#$# ##
+#       #
+####   ##
+   #####
+Author: David Holland and GRIGoRusha
+Title: Jump in Depth
+Comment:
+remodel DH Bagatelle 10
+Comment-End:
+
+;GrigrSpecial03
+       ####
+######## @#
+#  $ $ $ $#
+# #*.  .# ##
+#    . #.  #
+##$### .   #
+ #     #####
+ #######
+Author: Aymeric du Peloux and GRIGoRusha
+Title: New hairdress
+Comment:
+remodel MicroCosmos 37
+Comment-End:
+
+;GrigrSpecial04
+#####
+#   ####
+#  $.$ ##
+##$#@#  #
+ # ...  #
+##$#.# ##
+#   $   #
+#   #   #
+#########
+Author: Aymeric du Peloux and GRIGoRusha
+Title: Hybrid
+Comment:
+remodel NaboKosmos 32
+Comment-End:
+
+;GrigrSpecial05
+  #####
+ ##   ####
+ #    #  #
+## # ##  #
+#  #     #
+# $**** ##
+# $ ..* #
+##@ # * #
+ #####  #
+     ####
+Author: GRIGoRusha
+Title: The Dancer
+Comment:
+Only for Paul and with help Paul
+Comment-End:
+
+;GrigrSpecial06
+ #########
+ #   ##  #
+ #    $  #
+ ## #*#$ #
+ #  *.# ##
+##$#@*. ###
+#  .*.#   #
+# $ #   # #
+#    ##   #
+##   ######
+ #####
+Author: GRIGoRusha
+Title: SkyFlier
+
+;GrigrSpecial07
+##########
+#   ##   #
+# #  $   #
+#   #*# ##
+### *+*  #
+ ##$***$ #
+ #  #..###
+ #      #
+ #  # # #
+ ####   #
+    #####
+Author: Betepok
+Title: Znaki
+
+;GrigrSpecial08
+   #####
+   #@  #
+ ###$# #
+ #  $  #
+ # .*.###
+ #$.*.$ #
+ # .*.  #
+## #$# ##
+#   $   #
+#   #   #
+#########
+Author: GRIGoRusha
+Title: Right way
+
+;GrigrSpecial09
+  ####
+ ##  #
+## $ ###
+# $@*  #
+#  * #.#
+##* *  #
+ # . . #
+ # #$###
+ #   #
+ #####
+Author: Aymeric du Peloux and GRIGoRusha
+Title: SnowFall
+Comment:
+remodel PicoKosmos 20
+Comment-End:
+
+;GrigrSpecial10
+  #####
+ ##   #
+ #  # ##
+##*.   #
+# *.#  #
+#@#*$  #
+# *. # #
+##$# # ##
+# $     #
+#   #   #
+#########
+Author: GRIGoRusha
+Title: Kiborg
+Comment:
+for Fred, with many Thanks for You
+Comment-End:
+
+;GrigrSpecial11
+   #####
+  ##   # 
+  # .#$# 
+ ## * @# 
+##  ***##
+#    *  #
+# # # # #
+#   #   #
+#########
+Author: Kevin B. Reilly and GRIGoRusha
+Title: Slider from Game Life
+Comment:
+design some level from Kevin levels sets
+Comment-End:
+
+;GrigrSpecial12
+ ########
+ #  *   #
+ #@ * * #
+##$$*$* #
+# $ * . #
+# # . ###
+# . . #
+#######
+Author: YASGen, Brian Damgaard and GRIGoRusha
+Title: Impossible Way
+Comment:
+for Brian Damgaard
+design some level from YASGen level set
+Comment-End:
+
+;GrigrSpecial13
+   ####  
+####  #  
+# $   #  
+# $#  ###
+# @# #  #
+# ## $  #
+#.*  #  #
+#.*..* ##
+## ### ##
+#    $  #
+#   #   #
+#########
+Author: GRIGoRusha
+Title: Soldafon
+
+;GrigrSpecial14
+   #####
+ ###   ##
+ #      #
+ # #..# ##
+ #$#****.#
+ #       #
+## #### ##
+#@$$     #
+#   ##   #
+##########
+Author: Nakamiya and GRIGoRusha
+Title: Lost Hunter
+Comment:
+for Nakamiya
+Comment-End:
+
+;GrigrSpecial15
+##### #####
+#   ###   #
+# @     $ #
+##$##$$#$##
+ #  #..#  #
+ #$ #...  #
+ #  #..#  #
+ ## ##$####
+ #  ##  #
+ #      # 
+ #  ##  # 
+ ######## 
+Author: GRIGoRusha
+Title: Roga i Kopita
+Comment:
+for York Shen !!!
+Comment-End:
+
+;GrigrSpecial16
+  #########
+  #   #   #
+  #   $   #
+#### #$# ##
+#      # #
+#  $##@# #
+## *..*# #
+ # *..*. #
+ #$# #$###
+ #     #
+ #######
+Author: GRIGoRusha
+Title: Matros
+
+;GrigrSpecial17
+  ######
+  # *  #
+###    ##
+# *.@** #
+#  $*   #
+###  ####
+  #  #
+  ####
+Author: Dries De Clercq and GRIGoRusha
+Title: Wanderer
+
+;GrigrSpecial18
+  #####
+  #   ###
+  # .$. #
+###$.$@ #
+# . .$###
+#  $. #
+## ##$#
+ #    #
+ ######
+Author: Lee J Haywood and GRIGoRusha
+Title: The Rain
+
+;GrigrSpecial19
+########
+#  #   #
+# $ @#$#
+#  #   #
+## . .$#
+## ##. ##
+#  ##.  #
+# $.$.$ #
+#  ######
+####
+Author: GRIGoRusha
+Title: Russian Beauty
+
+
+;GrigrSpecial20
+  ####
+### @####
+#  $$$  #
+# #.*.# #
+#  .* # #
+## #*.# ##
+#   $    #
+#   ##   #
+##########
+Author: GRIGoRusha
+Title: Brave Heart
+
+;GrigrSpecial21
+   ####
+   #  #
+####. ###
+#  $$$@ #
+#  .. # #
+##$$$   #
+ #...####
+ ##  #
+  ####
+Author: GRIGoRusha
+Title: Light Draft
+Comment:
+for Monry
+Comment-End:
+
+;GrigrSpecial22
+  ####
+  #  ###
+  #    ##
+###  #  #
+#  $.@# #
+# .$.$. #
+##.$##$##
+ #     #
+ #######
+Author: GRIGoRusha
+Title: Assol
+
+;GrigrSpecial23
+  ####
+  #  ####
+  # *   #
+### ....#
+#  $*$$ #
+#   . ###
+###$*$@#
+  #    #
+  ######
+Author: GRIGoRusha
+Title: Elki-Palki
+
+;GrigrSpecial24
+ #####     
+ # + #     
+ #$.$#     
+ # * #     
+ # * #     
+ # * ######
+## * $    #
+#  * **.*.#
+#    $    #
+##  #######
+ ####      
+Author: GRIGoRusha
+Title: Duble Hanoy
+Comment:
+for Aymeric
+Comment-End:
+
+;GrigrSpecial25
+   ####
+   #  ###
+   #    #
+ ###  # #
+ #@****.#
+ # # *.##
+ # #   #
+## #$# ##
+#   $   #
+#   #   #
+#########
+Author: GRIGoRusha
+Title: Ribolov
+
+;GrigrSpecial26
+ ########
+ #   @  ###
+## ## #   #
+#  ##   $ #
+# $##$## ##
+# $ .$.$$#
+##$..... #
+ # .#$#.$#
+ # ..$.. #
+ ##### $$#
+     #   #
+     #####
+Author: GRIGoRusha
+Title: The Temple
+Comment:
+for Hir
+Comment-End:
+
+;GrigrSpecial27
+#####
+#   ##### 
+#       # 
+##$#$$$@# 
+ # #  ####
+## ## $  #
+#.... .  #
+#   ###  #
+##### ####
+Author: GRIGoRusha
+Title: Gambit
+Comment:
+date: 02.01.05
+Comment-End:
+
+;GrigrSpecial28
+#########
+#   #   #
+#    $$@#
+## ### ##
+ #  .. # 
+##  ## # 
+#.**##$##
+#       #
+#####   #
+    #####
+Author: GRIGoRusha
+Title: Baton
+Comment:
+date: 02.01.05
+Comment-End:
+
+;GrigrSpecial29
+ #####  
+ #   #  
+## # ###
+#  * $ #
+#  *** #
+#.* * @#
+#   *  #
+########
+Author: GRIGoRusha
+Title: Vilka
+Comment:
+date: 07.03.05
+Comment-End:
+
+;GrigrSpecial30
+   ####
+   #@ #
+  ##$ ###
+  # *   #
+###  *  #
+#  * *###
+#  *  #
+### . #
+  #####
+Author: Dries De Clercq and GRIGoRusha
+Title: Unfinished Turn
+Comment:
+date: 23.03.05
+Comment-End:
+
+;GrigrSpecial31
+    ####
+    #  #
+#####  ###
+#   **$  #
+#   .*   #
+#  # * ###
+#### @##
+   ####
+Author: Dries De Clercq and GRIGoRusha
+Title: Unfinished Trap
+Comment:
+date: 23.03.05
+Comment-End:
+
+;GrigrSpecial32
+  ####
+  #  ###
+  #  $ #
+###* * #
+#  * . #
+#   #* #
+## * @##
+ #  ###
+ ####
+Author: Dries De Clercq and GRIGoRusha
+Title: Unfinished Rain
+Comment:
+date: 23.03.05
+Comment-End:
+
+;GrigrSpecial33
+  ####
+### @#
+#  $ ###
+#.$.$  #
+# .$.  #
+#.$#$###
+# .  #
+#  ###
+####
+Author: Dries De Clercq and GRIGoRusha
+Title: Unfinished Cell
+Comment:
+date: 29.03.05
+Comment-End:
+
+;GrigrSpecial34
+#####
+#   ##
+# $. #
+##$. #
+ # . #
+ #$.$###
+ #@.$  #
+ #$.$. #
+ #   ###
+ #####
+Author: Dries De Clercq and GRIGoRusha
+Title: Unfinished Line
+Comment:
+date: 30.03.05
+Comment-End:
+
+;GrigrSpecial35
+####
+#  ###
+#    #
+#.*  ###
+# *#   #
+# *@$  #
+# ** ###
+###  #
+  ####
+Author: Dries De Clercq and GRIGoRusha
+Title: Unfinished Hook
+Comment:
+date: 02.04.05
+Comment-End:
+
+;GrigrSpecial36
+ ####
+ #@ #
+##.$###
+# $ $ #
+# .$. ##
+# $.$  #
+##.#.  #
+ #   ###
+ #####
+Author: Dries De Clercq and GRIGoRusha
+Title: Unfinished Tree
+Comment:
+date: 03.04.05
+Comment-End:
+
+
+;GrigrSpecial37
+  ####
+  #  #
+### *####
+# $  .  #
+#  *   *#
+###@* * #
+  ## *  #
+   ###  #
+     ####
+Author: Dries De Clercq and GRIGoRusha
+Title: Unfinished Vamp
+Comment:
+date: 04.04.05
+Comment-End:
+
+;GrigrSpecial38
+ ####
+ #  ##
+ #$. #
+ #.$ ####
+## .$.@ #
+#  $.$  #
+# $. ####
+# .$ #
+######
+Author: Dries De Clercq and GRIGoRusha
+Title: Unfinished Tool
+Comment:
+date: 05.04.05
+Comment-End:
+
+;GrigrSpecial39
+  ####
+  #  ##
+  #   #
+  # * #
+  #*@*#
+  # * ##
+### *  #
+#  *$  #
+# .   ##
+#######
+Author: Dries De Clercq and GRIGoRusha
+Title: Unfinished Fish
+Comment:
+date: 06.04.05
+Comment-End:
+
+;GrigrSpecial40
+   #####
+ ###   #
+##     #
+# *** ##
+# @*  #
+# ** ##
+###  #
+  #  #
+  ####
+Author: Aymeric du Peloux and GRIGoRusha
+Title: Finish
+Comment:
+date: 15.04.05
+For Erim Sever
+
+for play in this level in normal style load NaboKosmos 40a from RemodelClub
+Comment-End:
