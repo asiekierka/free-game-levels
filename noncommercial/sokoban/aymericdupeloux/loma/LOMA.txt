@@ -1,0 +1,1588 @@
+LOMA
+
+// 2004-2021 Copyright of many authors //
+
+  ####
+  #  ###
+  #    #
+###$.# ##
+#  $.#  #
+# #$. # #
+#@  #   #
+#########
+Author: Aymeric du Peloux
+Title: LOMA01-01
+
+  ####
+  #  #
+###$.###
+#  $.  #
+#@ $.# #
+###    #
+   #  #
+   ####
+Author: François Marques
+Title: LOMA01-02
+
+  #####
+ ##   ##
+### #  #
+###$.# #
+#  $.#@#
+# #$.# #
+# #    #
+#  # ###
+##   ##
+ #####
+Author: David Skinner
+Title: LOMA01-03
+
+   ##########
+#### $.     #
+#    $. #@  #
+#   #$.######
+##### ##
+  #    #
+  #    #
+  #  ###
+  ####
+Author: Sven Egevad
+Title: LOMA01-04
+
+  ####
+ ##  ##
+ #    ###
+##$.#   #
+#@$.    #
+##$.#  ##
+#  ## ##
+#     #
+####  #
+   ####
+Author: Victor Kindermans
+Title: LOMA01-05
+
+ #####
+##   #
+#    #
+#    ####
+### ##@ #
+ ## ##  #
+ #  ##$.#
+ #    $.#
+ ##  #$.#
+  ####  #
+     #  #
+     ####
+Author: Michael Steins
+Title: LOMA01-06
+
+  ######
+  #    #
+###$.# #
+#  $.#@#
+# #$.  #
+#    ##
+##  ###
+#####
+Author: Frantisek Pokorny
+Title: LOMA01-07
+
+#####
+#   ####
+# #$.  #
+#@ $.# #
+###$.  #
+  #  ###
+  #  #
+  ####
+Author: Arpad Fekete
+Title: LOMA01-08
+
+########
+#      #
+# #$.@ #
+#  $.###
+# #$.#
+#   ##
+#####
+Author: David Skinner
+Title: LOMA01-09
+
+  ####
+  #  #
+  #  #
+###$.#
+#  $.###
+# #$.@ #
+#   ## #
+###    #
+  ######
+Author: Roger Delaporte
+Title: LOMA01-10
+
+##### ####
+#   ###  #
+#    ##@ #
+##    #$.#
+ ##    $.#
+# ##  #$.#
+## ## #  #
+### ######
+Author: David Skinner
+Title: LOMA01-11
+Comment : Microban 3 #64
+
+#######
+#   $.#
+#   $.#
+#  #$.#
+#  #@ #
+#######
+Author: Jordi Domenech
+Title: LOMA01-12
+Comment : Pufiban #59
+
+ ######
+ #    #
+ # $. #
+###$.##
+#  $.#
+# @  #
+###  #
+  ####
+Author: Jordi Domenech
+Title: LOMA01-13
+Comment : Miniatures #3 Mirror
+
+  ####
+  #  ##
+ ##$. #
+## $.@#
+#  $. #
+# # ###
+#   #
+#####
+Author: Jordi Domenech
+Title: LOMA01-14
+Comment : Magic Sokoban 7 #4 Mirror
+
+########
+#      #
+# #$.# #
+#  $.#@#
+###$.  #
+  #  ###
+  ######
+Author: Jorge Gloria
+Title: LOMA01-15
+
+  #####
+  #   #
+###   #
+#  $.##
+#  $.#
+###$.#
+  #  #
+  #@ #
+  ####
+Author: Marti Homs
+Title : LOMA01-16
+Comment: Funny template levels #100 Funtastic
+
+    ####
+    #  #
+#####@ ##
+#   #$. #
+#    .$ #
+## # $.##
+ #   ###
+ #####
+Author: François Marques
+Title: LOMA02-01
+
+ #########
+##   ##  #
+#  #$.   #
+# #@.$#  #
+#   $.  ##
+#########
+Author: Aymeric du Peloux
+Title: LOMA02-02
+
+    ####
+  ###  #
+  #    #
+  #    #
+  ## ###
+#### $.##
+#    .$@#
+#   #$.##
+##### ##
+  #    #
+  #    #
+  #  ###
+  ####
+Author: Sven Egevad
+Title: LOMA02-03
+
+  ######
+  #    ##
+ ##$.#  #
+ # .$@  #
+## $.# ##
+#  ### #
+#      #
+#####  #
+    ####
+Author: Victor Kindermans
+Title: LOMA02-04
+
+   #########
+####@$.#   #
+#   #.$    #
+#    $.#####
+########
+Author: Michael Steins
+Title: LOMA02-05
+
+#####
+#   ####
+# #$.  #
+#  .$#@#
+###$.  #
+  #  ###
+  #  #
+  ####
+Author: David Skinner
+Title: LOMA02-06
+
+  #####
+###   #
+#   # #
+# #$. #
+#  .$@#
+###$.##
+  #  #
+  #  #
+  ####
+Author: Frantisek Pokorny
+Title: LOMA02-07
+
+  ####
+  #@ #
+###$.####
+#  .$   #
+#  $. # #
+### ##  #
+  #    ##
+  ######
+Author: Arpad Fekete
+Title: LOMA02-08
+
+  ######
+###    #
+#   ## #
+# #$.  #
+#@#.$###
+# #$.##
+#     #
+###   #
+  #####
+Author: David Skinner
+Title: LOMA02-09
+
+#####
+#   ####
+#   $. #
+####.$@#
+#   $. #
+#   ####
+#####
+Author: Roger Delaporte
+Title: LOMA02-10
+
+  ######
+###    #
+#  $.# #
+#@#.$  #
+# #$.###
+#    #
+######
+Author: David Skinner
+Title: LOMA02-11
+Comment : Microban 3 #67
+
+#####    
+#   #
+# # ####
+# #$.@ #
+# #.$# #
+#  $.  #
+### ## #
+  #    # 
+  ###### 
+Author: Jorge Gloria
+Title: LOMA02-12
+
+  ####
+  #  #
+  #  #
+###$.#
+# @.$##
+# #$. #
+#     #
+#######
+Author: Marti Homs
+Title : LOMA02-13
+Comment: Maps after all #99
+
+  #####
+###.  #
+#  *  #
+# #*###
+#  $ #
+#  @ #
+#  ###
+####
+Author: François Marques
+Title: LOMA03-01
+
+ #######
+##  .  #
+#  #*# #
+#   *  #
+#  #$ ##
+##  @##
+ #####
+Author: Aymeric du Peloux
+Title: LOMA03-02
+
+     ######
+   ###.#  #
+   #@ *   #
+######*## #
+#     $   ##
+#   #  #   #
+########   #
+       #####
+Author: Sven Egevad
+Title: LOMA03-03
+
+   ####
+ ###  #
+## .  ##
+#  *   #
+# #*#@ #
+#  $  ##
+####  #
+   ####
+Author: Victor Kindermans
+Title: LOMA03-04
+
+#######
+#   #.##
+#    *@#
+#####* #
+  #  $ #
+  #   ##
+  #####
+Author: Michael Steins
+Title: LOMA03-05
+
+  ####
+ ##  #
+ # . #
+ # * #
+## *###
+#  $ #
+#  @ #
+#  ###
+####
+Author: David Skinner
+Title: LOMA03-06
+
+  #####
+  # . #
+  # * #
+ ## *###
+ #  $@ #
+ # # # #
+ #     #
+ #######
+Author: Frantisek Pokorny
+Title: LOMA03-07
+
+    ####
+  ###  ####
+  # .     #
+  # * @#  #
+####*###  #
+#   $     #
+#   ####  #
+#####  ####
+Author: Arpad Fekete
+Title: LOMA03-08
+
+####
+#  ####
+#     #
+#  .# #
+###*# ##
+ #@*   #
+ # $   #
+ ###  ##
+   ####
+Author: David Skinner
+Title: LOMA03-09
+
+########
+#@ .   #
+#  * # #
+###*## #
+#  $   #
+#      #
+########
+Author: Roger Delaporte
+Title: LOMA03-10
+
+ #####
+ # . #
+## * #
+#  * #
+# @$ #
+#  ###
+####
+Author: David Skinner
+Title: LOMA03-11
+Comment : Microban 3 #71 arr.
+
+########
+#  # . #
+#    * #
+#  #@*##
+## # $ #
+ #     #
+ #######
+Author: Jordi Domenech
+Title : LOMA03-12
+Comment: Pour Aymeric
+
+  #### 
+###  # 
+#  . ##
+#  *  #
+###*# #
+ # $  #
+ #   ##
+ # @ # 
+ ##### 
+Author: Jordi Domenech
+Title : LOMA03-13
+
+#####
+#   #
+# #.###
+#  *  #
+###*#@#
+#  $  #
+# # # #
+#     #
+#######
+Author: Jorge Gloria
+Title : LOMA03-14
+
+ ####
+ #  ###
+ # .  #
+## *# #
+#  *  #
+#  $@##
+#  ###
+####
+Author: Marti Homs
+Title : LOMA03-15
+Comment: Maps after all #72
+
+#####
+#   ###
+# #.  ##
+#  $   #
+###*## #
+#  $ # ##
+#  .    #
+## @#   #
+ ########
+Author: Aymeric du Peloux
+Title: LOMA04-01
+
+###### #
+#   ## #
+#  . #
+#  $ ###
+## * @ #
+###$ # #
+  #.#  #
+# #   ##
+# ######
+Author: David Skinner
+Title: LOMA04-02
+
+ #####
+##   #
+#    #
+# #.###
+#  $  #
+###*# #
+ # $@ #
+ # .  #
+ ###  #
+   ####
+Author: François Marques
+Title: LOMA04-03
+
+  ###   
+###.##### 
+#@ $    #
+# #*#   #
+#  $  ###
+###.###
+ #    #
+ #    #
+ #  ###
+ ####
+Author: Sven Egevad
+Title: LOMA04-04
+
+ #######
+ # .   #
+ # $   #
+###*#@##
+#  $  #
+#  .###
+#####
+Author: Victor Kindermans
+Title: LOMA04-05
+
+ ###
+ #.#####
+##$#   #
+#@*    #
+##$#####
+ #.#
+ ###
+Author: Michael Steins
+Title: LOMA04-06
+
+#######
+#   . ##
+# # $  #
+#  #*# #
+##  $  #
+ #@#.###
+ #   #
+ #####
+Author: Frantisek Pokorny
+Title: LOMA04-07
+
+   ####
+ ###  ####
+ # .     #
+ #@$  #  #
+###*###  #
+#  $     #
+#  .###  #
+##### ####
+Author: Arpad Fekete
+Title: LOMA04-08
+
+#####
+#   ##
+# #. ###
+#  $ @ #
+###*   #
+#  $ ###
+# #.##
+#   #
+#####
+Author: David Skinner
+Title: LOMA04-09
+
+#######
+#  .  #
+#  $  #
+###*#@#
+#  $  #
+#  .###
+#####
+Author: Roger Delaporte
+Title: LOMA04-10
+
+ ######
+ ###  #
+ # . @#
+ # $  #
+###* ##
+#  $ ##
+# #. #
+#   ##
+##  ##
+######
+Author: David Skinner
+Title: LOMA04-11
+Comment : Microban 3 #76
+
+       #####
+    ####   #
+    #  # # #
+    #      # 
+    # ### ###
+ ####.###   #
+ #   $    # #
+ #@##*###   #
+ #   $ ######
+ # # . #
+ #   ###     
+ #####     
+Author: Jorge Gloria
+Title: LOMA04-12
+
+   ######
+####    #
+#  . ## #
+#@ $  # #
+###*# # #
+ # $    #
+ # . ####
+ #####
+Author: Marti Homs
+Title : LOMA04-13
+Comment: Template-based levels #7
+
+ ####
+ #  #
+ #  #
+ #  ####
+###$$  #
+#  $.  #
+# #..###
+# @# #
+##   #
+######
+Author: David Skinner
+Title: LOMA05-01
+
+    #####
+#####   #
+#  ## # #
+#  @$$  #
+#  #$.###
+##  ..  #
+  ###   #
+    #####
+Author: François Marques
+Title: LOMA05-02
+
+  #####
+  #   #
+  # # #
+###   #
+#  $$ #
+# #$.###
+# #..  #
+#  #@  #
+##  ## #
+ ##    #
+  ######
+Author: Aymeric du Peloux
+Title: LOMA05-03
+
+    #### 
+  ###  #
+  #    #
+  #    #
+ ###@###
+## $$#
+#  $.#
+# #..#
+# ## #
+#    ####
+##      #
+ #  #   #
+ ########
+Author: Sven Egevad
+Title: LOMA05-04
+
+########
+#   #  #
+#   #  #
+##  $$ #
+ # #$.###
+ # #.. @#
+ # ###  #
+ #      #
+ ########
+Author: Victor Kindermans
+Title: LOMA05-05
+
+ ####
+ #  #
+ #  #####
+ #  ##  ##
+###$$    #
+# @$.##  #
+#  ..## ##
+#######  #
+ #       #
+ #   #  ##
+ ########
+Author: Michael Steins
+Title: LOMA05-06
+
+  #####
+  #   #
+  # # #
+###$$ #
+#  $. #
+# #..##
+#@   #
+######
+Author: Frantisek Pokorny
+Title: LOMA05-07
+
+ ####
+ #  #
+ #  #
+ #  ######
+###$$    #
+#  $. ## #
+#  ..#  @#
+####   ###
+   #####
+Author: Arpad Fekete
+Title: LOMA05-08
+
+#####
+#  @####
+# #$$  #
+#  $.# #
+###..  #
+  ##   #
+   #####
+Author: David Skinner
+Title: LOMA05-09
+
+  ####
+  #  #
+###  ###
+#  $$@ #
+# #$.# #
+#  ..  #
+########
+Author: Roger Delaporte
+Title: LOMA05-10
+
+ #####
+ #   #
+ # # #
+ # @ #
+##$$###
+# $.  #
+# ..# #
+###   #
+  #####
+Author: David Skinner
+Title: LOMA05-11
+Comment : Microban 3 #80
+
+   #######
+####     #
+#    ### #
+# #    $$#
+#   ###$.#
+#######..#
+      #@ #
+      ####
+Author: Jorge Gloria
+Title: LOMA05-12
+
+#########
+#  ##   #
+#   $$  #
+#  #$. ##
+##  ..##
+ # @###
+ ####
+Author: Marti Homs
+Title : LOMA05-13
+Comment: Orange levels #6
+
+###########
+#  #   #  #
+#      #  #
+#   ####  #
+###$$    ##
+ # $.##   #
+ #@..##   #
+ ##########
+Author: Aymeric du Peloux
+Title: LOMA05-14
+Comment: Zeptocosmos #20 
+
+   ###
+###  #
+#  $ ##
+#@.*. #
+## $  #
+  ##  #
+   #  #
+   ####
+Author: François Marques
+Title: LOMA06-01
+
+    ####
+    #  #
+#####  ##
+#   #$  #
+#   .*. #
+## ##$###
+#   #@#
+#     #
+####  #
+   ####
+Author: Aymeric du Peloux
+Title: LOMA06-02
+
+#####
+#   #####
+# #$#   #
+# .*.   #
+# #$#   #
+#  @#   #
+#########
+Author: Sven Egevad
+Title: LOMA06-03
+
+   ####
+#### @#
+#  $  #
+# .*. #
+#  $  #
+## ####
+#  #
+#  #
+#  #
+####
+Author: Victor Kindermans
+Title: LOMA06-04
+
+   ####
+   #  #
+   #  #
+   #  #
+####$###
+#  .*.@#
+#  #$###
+#  #  #
+##    #
+ #  ###
+ ####
+Author: Michael Steins
+Title: LOMA06-05
+
+  ##### 
+  ##  # 
+###   # 
+#  $  # 
+# .*.## 
+## $ # 
+###@ # 
+  #### 
+Author: David Skinner
+Title: LOMA06-06
+
+ ####
+ #  #
+ # $###
+##.*. #
+#  $  #
+# # # #
+#  @  #
+#######
+Author: Frantisek Pokorny
+Title: LOMA06-07
+
+    ####
+    #  #
+#####  #####
+# @   $#   #
+#   #.*.   #
+##### $#####
+    #  #
+    #  #
+    ####
+Author: Arpad Fekete
+Title: LOMA06-08
+
+  #### 
+ ##  # 
+###$ # 
+# .*.# 
+# #$ # 
+#  @ # 
+#   ## 
+##### 
+Author: David Skinner
+Title: LOMA06-09
+
+ ######
+ #    #
+## ##$###
+#   .*.@#
+#   #$###
+###   #
+  #####
+Author: Roger Delaporte
+Title: LOMA06-10
+
+### #####
+#####   #
+### $ # #
+# @.*.  #
+# # $ ###
+#   #####
+##### ###
+Author: David Skinner
+Title: LOMA06-11
+Comment : Microban 3 #84
+
+ ####
+ #  ##
+## $ #
+# .*.##
+# #$  #
+#  @  #
+#######
+Author: Jordi Domenech
+Title: LOMA06-12
+Comment : Magic Sokoban #11 Pufi 1+
+
+#####       
+#   #  #####
+#   #  #   #
+##  ####$# #
+ #     .*.@#
+##  ####$# #
+#   #  #   #
+#   #  #####
+#####       
+Author: Jorge Gloria
+Title: LOMA06-13
+
+     ####
+######  #
+#    $  #
+# # .*. #
+# # @$  #
+#   #####
+#####
+Author: Marti Homs
+Title : LOMA06-14
+Comment: Funny template levels #25
+
+  #####
+###   #
+#   # ##
+#   $  #
+###$*. #
+  # .###
+  # @#
+  ####
+Author: François Marques
+Title: LOMA07-01
+
+########
+#   #  #
+#      #
+## ### ##
+ # $@#  #
+ #$*.   #
+ # .#####
+ #  #
+ #  #
+ ####
+Author: Aymeric du Peloux
+Title: LOMA07-02
+
+####
+#  ####
+#     #
+#     #
+### ####
+ #@$#  #
+ #$*.  #
+## .#  #
+#  ## ##
+#     #
+####  #
+   ####
+Author: Sven Egevad
+Title: LOMA07-03
+
+#####
+#   #######
+# # ##    #
+#     $   #
+#####$*.###
+    #@. #
+    #####
+Author: Victor Kindermans
+Title: LOMA07-04
+
+  ####
+  #  #
+  #  #
+  #  #
+### $##
+#  $*.#
+#  @.#
+#####
+Author: Michael Steins
+Title: LOMA07-05
+
+#####
+#   ##
+#  $ ##
+##$*. ##
+ # .@  #
+ #  #  #
+#####  #
+##  ####
+Author: David Skinner
+Title: LOMA07-06
+
+  ####
+###  #
+#    ###
+# #  $@#
+#  #$*.#
+##   . #
+ ###  ##
+   ####
+Author: Frantisek Pokorny
+Title: LOMA07-07
+
+ ######
+##    ##
+#  ##  #
+# #  # #
+#  @$# #
+###$*. #
+  # .###
+  #  #
+  #  #
+  #  #
+  #  #
+  ####
+Author: Arpad Fekete
+Title: LOMA07-08
+
+#####
+#   ####
+# #@$  #
+#  $*. #
+####. ##
+ #    #
+ #   ##
+ #####
+Author: David Skinner
+Title: LOMA07-09
+
+######
+#    #
+# # $####
+# #$*. @#
+# # .#  #
+#      #
+#####  #
+     ##
+Author: Roger Delaporte
+Title: LOMA07-10
+
+  ########
+  #      #
+### #### #
+#  @$  # #
+#  $*. # #
+#  #.### #
+#  #     #
+##########
+Author: David Skinner
+Title: LOMA07-11
+Comment : Microban 3 #87
+
+   ####   
+####  #   
+#     #   
+#  ## ####
+## #@$   #
+ # #$*.# #
+ # # . # #
+ # # ### #
+ #       #
+ #  ######
+ ####     
+Author: Jorge Gloria
+Title: LOMA07-12
+
+####
+#  ###
+#  $ ##
+# $*. #
+#  . @#
+#######
+Author: Marti Homs
+Title : LOMA07-13
+Comment: Maps after all #159
+
+   ####
+   #  #
+####  #
+#   * #
+#  . $###
+####* @ #
+   #    #
+   ######
+Author: François Marques
+Title: LOMA08-01
+
+  ####
+  #  #
+  #  #
+ ##* ###
+##. $  #
+#  * # #
+# # @# #
+#  ##  #
+##    ##
+ ######
+Author: Aymeric du Peloux
+Title: LOMA08-02
+
+#########
+#   #   ####
+#   @*  #  ###
+####.#$#     #
+  #  *     # #
+  #  #####   #
+  #  #   #####
+  ####
+Author: Sven Egevad
+Title: LOMA08-03
+
+    ####
+ ####  #
+ #     #
+ #  ## ##
+ ## # * #
+  # #.@$#
+### ##* ####
+#          #
+#   ####   #
+#####  #####
+Author: Victor Kindermans
+Title: LOMA08-04
+
+ ####
+ #  #####
+ #  #   #
+ #  *   #
+###.#$###
+#   *@ #
+#   #  #
+#####  #
+    ####
+Author: Michael Steins
+Title: LOMA08-05
+
+  #####
+ ##   #
+###   #
+#  * ##
+# .@$##
+#  * ##
+##  ##
+#####
+Author: David Skinner
+Title: LOMA08-06
+
+   #####
+####   #
+#   *  #
+#  . $##
+### * #
+  ##@##
+   ###
+Author: Frantisek Pokorny
+Title: LOMA08-07
+
+########
+#   #  #
+#@# *  ##
+#  .#$  #
+##  * # #
+ #  #   #
+ ########
+Author: Arpad Fekete
+Title: LOMA08-08
+
+ #### 
+ #  ## 
+## * ## 
+# .@$ # 
+#  *  # 
+#  #  # 
+####### 
+Author: David Skinner
+Title: LOMA08-09
+
+#####
+#   ####
+#  @*  ###
+###.#$   #
+  # *    #
+  ########
+Author: Roger Delaporte
+Title: LOMA08-10
+
+  #####
+ ##   #
+## *  #
+# .@$##
+#  *  #
+###   #
+#######
+Author: David Skinner
+Title: LOMA08-11
+Comment : Microban 3 #91
+
+########    
+#   #  #    
+#      #    
+### ## #### 
+  # ##*#  # 
+  # #.@$  ##
+  # ##*##  #
+  #        #
+  # # ######
+  #   #     
+  #####    
+Author: Jorge Gloria
+Title: LOMA08-12
+
+ ####   
+ #  ##  
+## * #  
+# .@$###
+#  *   #
+###    #
+  ######
+Author: Marti Homs
+Title: LOMA08-13
+
+  #####
+  #   #
+ #    #
+##$*@##
+# *.#
+#    #
+###  #
+  #  #
+  ####
+Author: François Marques
+Title: LOMA09-01
+
+ #####
+ #   ####
+## # #@ #
+#    #$*#
+# #   *.##
+#   ##   #
+#####  # #
+    # #  #
+    #   ##
+    #####
+Author: Aymeric du Peloux
+Title: LOMA09-02
+
+   ####
+  ##  #
+  #   #
+ ##$* #
+ # *.##
+## #  #
+#     #
+#    ##
+#  @##
+#####
+Author: Sven Egevad
+Title: LOMA09-03
+
+####
+#  ####
+#     #
+# @#  #
+#    ##
+###$*##
+ # *. #
+ #    #
+ ###  #
+   ####
+Author: Victor Kindermans
+Title: LOMA09-04
+
+     ####
+######  #
+#   ##  #
+#       #
+#####$*##
+#    *.#
+#   #@ #
+########
+Author: Michael Steins
+Title: LOMA09-05
+
+  ####
+  #  #
+###  ###
+## $*  #
+#  *. @#
+#   ####
+#  ##
+#####
+Author: David Skinner
+Title: LOMA09-06
+
+  ####
+  #  #
+### @###
+#  $*  #
+#  *.  #
+###   ##
+  #####
+Author: Frantisek Pokorny
+Title: LOMA09-07
+
+  ####
+  #  #
+###@ ####
+#  $*   #
+#  *. # #
+### ##  #
+  #    ##
+  ######
+Author: Arpad Fekete
+Title: LOMA09-08
+
+#####
+#   #####
+#   #   #
+## $*@  #
+ # *.  ##
+ #  ####
+ ####
+Author: David Skinner
+Title: LOMA09-09
+
+    #####
+    #   #
+    # # ##
+#####    #
+#   ##$* #
+#     *. #
+#######@##
+      ###
+Author: Roger Delaporte
+Title: LOMA09-10
+
+     ####
+######  #
+#  ##   #
+#   $*  #
+#  #*. ##
+##  @ ##
+ #  ###
+ ####
+Author: David Skinner
+Title: LOMA09-11
+Comment : Microban 3 #96
+
+      #####
+  #####   #
+  #     # #
+  # ### # #
+###$*     #
+#  *.  ####
+#@ #####
+####       
+Author: Jorge Gloria
+Title: LOMA09-12
+
+  ####
+  #  #
+  #@ #
+###$*###
+#  *.  #
+#      #
+#  #####
+####
+Author: Marti Homs
+Title : LOMA09-13
+Comment: Louder than hell levels #7
+
+#### ###
+#@ ### #
+# $$ ###
+# $ .  #
+## ..  #
+ #######
+Author: David Skinner
+Title: LOMA10-01
+
+######
+# @  #
+#  $$##
+###$ .#
+  # ..#
+  ##  #
+   #  #
+   ####
+Author: François Marques
+Title: LOMA10-02
+
+ ########
+##  #   ##
+#   $$#  #
+#  #$@.# #
+## # ..  #
+#    #  ##
+#   ##  #
+#########
+Author: Aymeric du Peloux
+Title: LOMA10-03
+
+  ####
+  #  #
+  #  # 
+###  #
+# $$##
+# $ .#
+# #..#
+# @  #
+#### #
+  #  #
+  #  #
+  #  #
+  ####
+Author: Sven Egevad
+Title: LOMA10-04
+
+  ######
+  #    #
+  #    #
+  #  ###
+####$$@#
+#   $ .#
+#   #..#
+########
+Author: Victor Kindermans
+Title: LOMA10-05
+
+    ###### 
+    #    ##
+##### ##  #
+#   #$$ # #
+#    $@.  #
+######.. ##
+     #####
+Author: Michael Steins
+Title: LOMA10-06
+
+######
+#    #
+# ##@#
+#  $$##
+###$ .#
+  # ..#
+  #   #
+  #####
+Author: Frantisek Pokorny
+Title: LOMA10-07
+
+######
+#  #@#
+#  $$#####
+#  $ .   #
+### ..   #
+  ##  ####
+   ####
+Author: Arpad Fekete
+Title: LOMA10-08
+
+####
+#  #
+#@ ###
+# $$ ##
+# $ . #
+###.. #
+ #   ##
+ #   #
+ #####
+Author: David Skinner
+Title: LOMA10-09
+
+########
+#      #
+# #### #
+# #  # #
+# #  # #
+# #  # #
+# #$$# #
+#  $@. #
+### ..##
+  #####
+Author: Roger Delaporte
+Title: LOMA10-10
+
+  #####
+###   #
+# $$# #
+# $@. #
+#  .. #
+#######
+Author: David Skinner
+Title: LOMA10-11
+Comment : Microban 3 #100
+
+    #####
+    #   #
+    # # #
+#####$$ #
+#    $@.#
+#   # ..#
+#########
+Author: Jorge Gloria
+Title: LOMA10-12
+
+     ####
+     #  #
+     #  #
+     #  #
+###### ###
+#    $$  #
+#   #$ .@#
+##### ..##
+    #####
+Author: Marti Homs
+Title : LOMA10-13
+Comment: Louder than hell levels #2

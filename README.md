@@ -4,7 +4,8 @@
 
 An archive of simple video game levels with documented authorial copyright statements:
 
- * free/ - known to allow free redistribution,
+ * free/ - known to allow free redistribution;
+ * noncommercial/ - known to allow free redistribution, but only for non-commercial/limited uses;
  * nonfree/ - not known to allow free redistribution.
 
 Included games are chosen with ease of reimplementation in mind:

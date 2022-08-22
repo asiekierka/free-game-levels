@@ -1,0 +1,265 @@
+COSMOPOLY
+ 
+// 2001-2002 //
+
+ ####
+ #  ####
+ #     #
+## #.  #
+# * #*##
+# $  * #
+# # @  #
+#   ####
+#####
+Author: Aymeric du Peloux
+Title : MINICOSMOS 28 var.
+
+  ##### 
+###@  # 
+# $*#$##
+# #  . #
+# . $# #
+## #.  #
+ #    ##
+ ###  # 
+   #### 
+Author: David Holland et Aymeric du Peloux
+Title : MICROCOSMOS 31 var.
+
+  ####
+  #  #
+  #  #
+### *###
+#      #
+# .*** #
+## $  ##
+ ##* ##
+  #@  #
+  # # #
+  #   #
+  #####
+Author: Aymeric du Peloux
+Title : NABOKOSMOS 39 var.
+
+#####
+#   ####
+#  $$  #
+##.@ . #
+ #. #.##
+ # $$ #
+ #  ###
+ ####
+Author: François Marques et Aymeric du Peloux
+Title : For ban 1
+
+#####
+#. .#####
+#  .    #
+##$$@$  #
+## ######
+#  $ ##
+#   . #
+###   #
+  #####
+Author: François Marques et Aymeric du Peloux
+Title : For ban 15
+
+
+  ####
+ ##  #
+ #   ####
+##$ ..*.#
+# $  #$ #
+#    #@ #
+#########
+Author: François Marques et Aymeric du Peloux
+Title : Align that
+
+  #####
+ ##   #
+ #  # ###
+ # # *  #
+ # #  #@#
+ #   *  #
+ ### *$##
+   # . #
+   #####
+Author: Aymeric du Peloux
+Title : NABOKOSMOS 18 var.
+
+  ########
+  #   #  #
+  # . $. #
+ ###$##  #
+ #.. ##$##
+## $*$   #
+#  * #   #
+#  @.#####
+##   #
+ #####
+Author: Howard Abed et Aymeric du Peloux
+Title : MICROCOSMOS 26 var.
+
+       ####
+######## @#
+#  $ $ $ $#
+# #*.  .# ##
+#    . #.  #
+##$### .   #
+ #     #####
+ #######
+Author: Evgeny Grigoriev (GRIGoRusha) et Aymeric du Peloux
+Title : MICROCOSMOS 37 var.
+
+
+ #######
+ #  #  #
+ #$.@.$#
+ # .#. #
+##$.#.$##
+# $   $ #
+#   #   #
+#########
+Author: Masato Hiramatsu et Aymeric du Peloux
+Title : MICROCOSMOS 18 var.
+
+#####
+#   ####
+#  $.$ ##
+##$#@#  #
+ # ...  #
+##$#.# ##
+#   $   #
+#   #   #
+#########
+Author: Evgeny Grigoriev (GRIGoRusha) et Aymeric du Peloux
+Title : NABOKOSMOS 32 var.
+
+ #####
+##  .#
+# $#.##
+#     #
+##$   #
+#  #*##
+# @  #
+#  ###
+####
+Author: Aymeric du Peloux
+Title : MICROCOSMOS 10 var.
+
+  #####
+###   ##
+# .. . #
+# $$ # #
+## #$$ #
+ #.@  ##
+ ###  #
+   #### 
+Author: Aymeric du Peloux
+Title : MICROCOSMOS 39 var.
+
+  #####
+###   #
+#   #.##
+#  *$@ #
+## * **##
+ # # #  #
+ #      #
+ ###  ###
+   ####
+Author: Aymeric du Peloux
+Title : NABOKOSMOS 12 var.
+
+########
+#   #  #
+#      #
+## #.$.#
+#  $@###
+# #$*.#
+# # # #
+#     #
+##   ##
+ #####
+Author: Aymeric du Peloux
+Title : MINICOSMOS 30 var.
+
+     #####
+   ###   #
+  ## * # #
+ ##      #
+## * * ###
+#   $###
+#  + #
+######
+Author: Aymeric du Peloux
+Title : PICOKOSMOS 02 var.
+
+#### ####
+######  #
+#@ $. $ #
+# $ .$  #
+### . ###
+  # . #  
+  #####
+Author: Aymeric du Peloux
+Title : MICROCOSMOS 01 var.  
+
+   ####
+ ###  ##
+## *   #
+#  ##  ##
+#@$*    #
+## .# # #
+ # *    #
+ #  #####
+ ####
+Author: Aymeric du Peloux
+Title : NABOKOSMOS 23 var.  
+
+      ####
+     ## .#
+    ##   #
+   ## ...#
+#### $$ ##
+# @$   ##
+#  $  ##
+#   ###
+#####
+Author: Aymeric du Peloux
+Title : MICROCOSMOS 28 var.
+
+  #####
+  #   ###
+### # $ #
+# $* .# #
+# # +   #
+#  *#.###
+## $  #
+ #  ###
+ ####
+Author: Aymeric du Peloux
+Title : MICROCOSMOS 21 var.  
+
+     ####
+  ####@ #
+  #.* $ #
+###   # ##
+#    #.. #
+#    $ $ #
+####  ####
+   ####
+Author: Brian Damgaard (with YASgen) et Aymeric du Peloux
+Title : MICROCOSMOS 25 var.
+
+  ####
+ ##  #
+## $ ###
+# $@*  #
+#  * #.#
+##* *  #
+ # . . #
+ # #$###
+ #   #
+ #####
+Author: Evgeny Grigoriev (GRIGoRusha) et Aymeric du Peloux
+Title : PICOKOSMOS 20 var.
