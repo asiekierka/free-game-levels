@@ -1,0 +1,572 @@
+Author: Jordi Domènech and other authors
+Collection: The beautiful world of remodels 4
+Email: jd.sokoban2020@gmail.com
+Blog: sokoban-jd.blogspot.com
+Copyright: (c) by Jordi Domènech and the authors of each level
+Date: November 2015 - November 2019
+
+Author's note:
+Remodeling puzzles from other authors has been one of my favorite activities since 2010 and I have spent many hours to it. In the sets of "The beautiful world of remodels" I have gathered a selection of my remodels. Some of my remodels were remodeled, in turn, by other great masters: I also include these levels in this collection, because are of unsurpassed beauty and technical quality! Finally, among the remodels, I have also included some puzzles of mine of similar difficulty.
+
+Although it seems paradoxical, only very good puzzles are remodeled. The reason is simple: improving a good puzzle is a challenge for many creators of Sokoban.
+
+In the years 2010-2012 I enjoyed very good moments sharing remodels with David Holland and stopheart, and later laizhufu and Přemysl Zíka. From all of them I have learned a lot. Thank you so much!
+
+In this set, the best levels are: 4, 5-6, 7, 19, 23.
+
+I am grateful to the following authors your permission to include their arrangements in "The beautiful world of remodels": zhenying, Tian Lang, Tui Leshan, stopheart, David Holland, niwa, gyjgw, Přemysl Zíka, anian, laizhufu and Archanfel.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+These levels are copyright (c) by Jordi Domènech and the authors of each
+level and may be freely distributed for non-commercial use provided they
+remain unchanged, credited with the author's name, and provided the 
+author is notified.
+
+License: Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported
+http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+This collection has been downloaded from my blog:
+Sokoban. The beautiful world of remodels
+http://sokoban-jd.blogspot.com/
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+      # ### ### # ### #
+          # # # # #
+      # ### # # # ### #
+        #   # # #   #
+####  # ### ### # ### #  ####
+#  #                     #  #
+#  #######################  #
+# *   * . * * * * * . *   * #
+#  ##  ## # # # #   ##  ##  #
+# ### ###     *    ### ###* #
+#  ##  ##  $ $ $ $  ##  ##  #
+# *##  ## * *###* * ##  ##* #
+#  ##$ ##* #  #  # *##$ ##  #
+#  ##  ##  $ $@$ $  ##  ##  #
+#.######## #  #  # ########.#
+#    #   . .## ##. .   #    #
+#   * . * *       * * . *   #
+#############################
+Author: laizhufu + Jordi Domenech
+Title: Double 11
+Comment:
+The walls structure is a work of laizhufu. It's a challenge proposed here:
+bbs.mf8-china.com/forum.php?mod=viewthread&tid=105187
+This level refers to the Singles' Day, celebrated in China on November 11 (11/11)
+Date: 2015.11.4
+
+          ####
+          #  #
+       #### .#######
+       #     #     #
+ #######.****#$### #
+ #        #   $  # #
+## ##$##### $    # #
+#  # . *  ##### ## #
+# ##$* *$ #   #  # #
+# #  .....$@$    # #
+# #   ##  ######## #
+# ######  #        #
+#      #### ########
+######      #
+     ########
+Author: David Holland + Jordi Domenech
+Title: dh2 #4 a
+Comment: stoned 4 floors, some changes on the right side
+Date: 2016.4.27
+
+             #
+           ## ##
+          #  *  #
+         #  *.*  #
+        #  #   #  #
+       #  * *#* *  #
+      #  #       #  #
+     #  * ******* *  #
+    #  #     .     #  #
+   #  * ****###**** *  #
+  #  #       $       #  #
+ #  * *******#******* *  #
+#  #         $         #  #
+# *  *#####** **#####*  * #
+#           * *           #
+########### *@* ###########
+          #######
+Author: Jordi Domenech
+Title: Stop wars! and happy New Year 2017
+URL: www.letslogic.com/puzzle_info.php?id=96034
+Date: 2016.12.26
+
+             #
+           ## ##
+          #  *  #
+         #  *$*  #
+        #  #   #  #
+       #  * *#* *  #
+      #  #   *   #  #
+     #  * *#####* *  #
+    #  #     *     #  #
+   #  * *#########* *  #
+  #  #       *       #  #
+ #  # *******#******* #  #
+#  #         *         #  #
+# #  *#####** **####**  * #
+#           * *           #
+########### *+* ###########
+          #######
+Author: Jordi Domenech + stopheart
+Title: 新年快乐之暗流涌动 [The undercurrent of happy New Year] - MF8 94th Sokoban Competition, Main
+Comment: stoned many boxes/goals, moved a goal, several changes
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=106984
+Date: 2017.1.13
+
+     ####
+######  #     #######
+#       #######     #
+#  #### #....##$ $ $##
+## #  # #..#.$   #$  #
+ # #  .......# # $   #
+ # #    #....*  #$$  #
+ # #  # ##@###    #$ #
+ # #  #  . *.. # $#  #
+## ####### ##     #$ #
+#           # $ $ $  #
+#         #  ##### $ #
+#####     ##      #  #
+    ####### $ $$$ $$ #
+          #   #   #  #
+          ############
+Author: Matthias Meger + Jordi Domenech
+Title: Disciple #41 Tough rider - version with early storage arranged
+Comment:
+"Tough rider" is a storage puzzle very nice. However, I have looked at the arrangements for this level and all have the same defect: early storage. I have tried to arrange this problem and I have reduced the map, but the result is not very good: the original level is better. Anyway I publish this arrangement as variant.
+Date: 2017.4.9
+
+     ####
+######  #     #######
+#       #######     #
+#  #### #....##$ $ $##
+## #  # #..#.$   #$  #
+ # # ........# # $   #
+ # #    #....*  #$$  #
+ # #  # ##@###    #$ #
+ # #  #  . *.  # $#  #
+## ####### ##     #$ #
+#           # $ $ $  #
+#         #  ##### $ #
+#####     ##      #  #
+    ####### $ $$$ $$ #
+          #   #   #  #
+          ############
+Author: Matthias Meger + Jordi Domenech + Premysl Zika
+Title: Disciple #41 Tough rider
+Comment:
+PZ: based on JD version, moved a goal
+Date: 2017.4.9 JD, 2017.5.6 PZ
+
+        ####
+#########  #
+#   $      ###
+# $    ##  $@#
+##$######  $$#
+ # #  ...### #
+ # # $...# $ ##
+ # . $# #  $  #
+ ##   # #     #
+  ####  ###  ##
+     #  ...  #
+     #  ######
+     ####
+Author: Alberto Garcia + Premysl Zika + Jordi Domenech
+Title: Primus gradus ad Olympo 103 a (scratch)
+Comment (JD): I tried to give a more aesthetic look to the arrangement of PZ. Original level: The best for you #98
+Date: December 2012 PZ, 2017.4.25 JD
+
+                    #####
+         ######   ###   #
+  #####  #    #   #  *  #
+ ##   #### ## ##### ## ##
+ #  #  * *  #   * *  # #
+ # ## #     ## #     # #
+ # #  #### ##  #### ## #
+ # # *  * * # *  * * # #
+ # #  # # # #  # # # # #
+ # ####     ####     # #
+ # #   # ####   # #### #
+ # #  *  #  #  *  #  # #
+## ## #### $## ####$ # #
+#        .         ..$@#
+#   ####################
+#####
+Author: Bobby + Mark + anian + Jordi Domenech
+Title: Rooms variant4 a2
+Comment: arranged map, added 2 boxes
+Date: 2015.4.17 Mark + anian, 2017.5.20 JD
+
+#######
+#     ########
+# ### #   #  #
+# # $ #$  $$ #
+# $ $$   #   #
+#    ##  # ###
+# @##### * . #
+####...##$   #
+   #..     ###
+   #..   ###
+   #######
+Author: Joseph L. Traub + DrFogh + Jordi Domenech
+Title: Original Extra Sharpen #34 a
+Comment:
+DrFogh: based on XSokoban #83, added 3 boxes, reduced map, major changes
+JD (version a): simplification, major changes
+Date: 2017.7.27 DrFogh, 2017.7.28 JD
+
+   ####
+####  ###
+#   $   #
+# * * * #
+# * * * #
+# * * * #
+# ***** #
+#   +   #
+#########
+Author: yiwan + Jordi Domenech
+Title: Pitchfork
+Comment: added 2 boxes, some changes
+Original level: sokoban.org/level.php?id=535
+Date: 2018.1.22
+
+   ####
+####  ###
+#   $   #
+# * * * #
+# * * * #
+# * * * #
+# * * * #
+# * * * #
+# * * * #
+# * * * #
+# ***** #
+#   +   #
+#########
+Author: yiwan + Jordi Domenech + Archanfel
+Title: A Bit Longer Than Pitchfork (L=8)
+URL: www.letslogic.com/puzzle_info.php?id=97759
+Date: 2019.8.22
+
+    #####
+#####   #
+#    $  #
+# ###* ##
+# #  * #
+# #  **#
+# #  * #
+# #  * #
+# ###* #
+#    . #
+#####@ #
+    ####
+Author: DrFogh + Jordi Domenech
+Title: It Is All Greek #12 Iota var. 1
+Date: 2018.2.2
+
+       #####
+########   #
+#        * #
+#  *#####$##
+## *  * # #
+ # *  * # #
+ # *  * # ##
+ # *  * #  #
+ # ###*    #
+ #    + ####
+ ########
+Author: DrFogh + Jordi Domenech
+Title: It Is All Greek #12 Iota var. 2
+Date: 2018.2.2
+
+   ####
+####  #
+#    $##
+# ## * ###
+# # *+*  #
+# #  *   #
+# # #* ###
+# #  * #
+# #  . #
+# #  ###
+# ##  #
+#  *$ #
+####  #
+   ####
+Author: DrFogh + Jordi Domenech
+Title: Nice Cross (whit rooms) 1
+Date: 2018.2.2
+
+#######
+#  #  #
+# *  $##
+#  # * ###
+## #*+*  #
+ # # *   #
+ # # * ###
+ # # * #
+ # # . ##
+ #  ##  #
+ #    * #
+ # $ #  #
+ ### # ##
+   #  * #
+   ##   #
+    #####
+Author: DrFogh + Jordi Domenech
+Title: Nice Cross (whit rooms) 2
+Date: 2018.2.2
+
+#######
+#  #  #
+# *  $#####
+#  # *    #
+## #*+* * #
+ # # * # ##
+ # # * # #
+ # # * # #
+ #.  . # ##
+ #.#####  #
+ #     $  #
+ # $$# #  #
+ ###   ####
+   #####
+Author: DrFogh + Jordi Domenech
+Title: Nice Cross (whit rooms) 3
+Date: 2018.2.2
+
+#######
+#  #  #
+# *  $#####
+#  # * #  #
+## #*+*.* #
+ # # * #  #
+ # # * # ##
+ # # * # #
+ #   . # ##
+ #.#####  #
+ #        #
+ # $$$ #  #
+ ###   ####
+   #####
+Author: DrFogh + Jordi Domenech
+Title: Nice Cross (whit rooms) 4
+Date: 2018.2.2
+
+        #####
+    ##### @ #####
+    #     $     #
+   ## ****.**** ##
+  ## *    $    * ##
+### *  ***.***  * ###
+#  .  *   $   *  .  #
+# *  *$ **.** $*  * #
+# * *  .  $  .  * * #
+# * * * $*.*$ * * * #
+# * * * *   * * * * #
+#####################
+Author: Nebula + Jordi Domenech
+Title: Level 26
+Original level:
+www.game-sokoban.com/index.php?mode=ulevel&lid=1072
+Date: 2018.2.12
+
+            #####
+  ######### #   #
+  #       ###$# ##
+  # ##### #   #  #
+  # #   # $ #$## ###
+  # # # #$$        #
+  # # **  $###$#$# #
+  # # # #$$ @      #
+  # # # # $.##*######
+  # # # # ......#   #
+  # # # ###.#.# # # #
+  # # #     # #$$   #
+  # # #####.# # ### #
+  # #       # #   # #
+### #*#######*$   # #
+# . .*       .##### #
+# ## ########.#   # #
+#  #         .    # #
+## # #$############ #
+ # #   #            #
+ # ##### ############
+ #       #
+ #########
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 10 #33 a
+Comment: added 3 boxes and 2 walls, moved 2 goals
+Date: 2018.3.14
+
+    ##########
+   ##        ##
+ ### *#####*  ##
+##  *   *   *  ##
+#  *  #####  *  #
+# #  *  *  *  # #
+# # *  ***  * # #
+# # # #   # # # #
+# # # # . # # # #
+# # # # ### # # #
+# # # #     # # #
+# # # ####### # #
+# #  *  *    *  #
+#  *  ####### ###
+##  *$        #
+ #### @########
+    ####
+Author: Nebula + Jordi Domenech
+Title: Level 37 a
+Original level: 
+www.game-sokoban.com/index.php?mode=ulevel&lid=1120
+Date: 2018.3.16
+
+   ####
+   #  ######
+   # $$    #
+   #  #### ##
+  ###  #... #
+###     .@.$#
+#    $ #.#. #
+# $ $ ## $  ##
+#####$#####  #
+   # $  ...$ #
+   #   ####  #
+   #####  ####
+Author: A1master + Eric F. Tchong + Jordi Domenech
+Title: cocktail 03 a
+Comment:
+I couldn't identify the A1master level.
+JD (version a): based on cocktail 03, added 2 boxes, major changes
+URL: www.letslogic.com/puzzle_info.php?id=97448
+Date: 2018.9.30
+
+   ####  #####
+   #  ####   #
+   #       $ #
+   #  ##### ###
+   #  #  #    #
+   #  #  # ## ##
+#####*####  #  #
+#...*. # $$$ $ #
+#..*.*      #  #
+## ######## ####
+# .  $ $ $  #
+# . ##@ $   #
+##########  #
+         ####
+Author: Eric F. Tchong + Jordi Domenech
+Title: cocktail 09 a
+Comment: added a wall, stoned 4 floors, moved 2 goals
+URL: www.letslogic.com/puzzle_info.php?id=97449
+Date: 2018.10.1
+
+#########
+#       #
+# ****  #
+# *   * ##
+# *#  *  #
+# * **#  #
+# * #@*  #
+# * #$ * #
+# * #  * #
+# * # #* #
+# * ***  #
+# * #   ##
+# . #####
+#####
+Author: DrFogh + Jordi Domenech
+Title: Beta - a
+Comment: deleted 3 floors
+Date: 2018.10.4
+
+  #######
+ ##     #
+ #      #
+ # #    ##
+##... #  #
+#  @ ### #########
+#....#  $   $    #
+#....# $ $ $ $ $ #
+#....   $ $ $ $  #
+#....# $ $ $ $ $ #
+####### $ $ $  ###
+      ###  #####
+        ####
+Author: bodler + Jordi Domenech
+Title: Big Deal - a
+Comment: stoned many floors
+Original level:
+www.sokobanonline.com/play/community/bodler/1223_big-deal
+Date: 2018.12.10
+
+###############
+#    .....    #
+# $ $ $ $ $ $ #
+######$.$######
+# $ $ $.$ $ $ #
+#..... . .....#
+# $ $ $.$ $ $ #
+###### + ######
+     #####
+Author: backhoes + Jordi Domenech
+Title: Rummage - a
+Comment: deleted many floors, moved 5 goals
+Original level:
+www.sokobanonline.com/play/community/backhoes/plan-a/127397_rummage
+Date: 2018.12.22
+
+###################
+#   #  #####  #   #
+# $ # $#####$ # $ #
+# .  . * # * .  . #
+#   # $# # #$$#####
+#####. * # * .  . #
+#   # $# # #$ # $ #
+# . $. * + * .#   #
+#   # $# # #$ #####
+#####* * # * .#   #
+#   # $# # #$   $ #
+# .  . * # * .# . #
+###################
+Author: Castle2 + Jordi Domenech
+Title: 003 ENTRANCE - a
+Comment: added a box and 8 walls in the central area, stoned many floors
+Original level:
+www.game-sokoban.com/index.php?mode=ulevel&lid=987
+Date: 2019.11.17
+
+    #####
+#####   ###############
+#.... #$              #
+#....## ########### $ #
+###..#   #     #  # $ #
+#....# $ # $ $  $ # $ #
+#....# $ #$#####  # $ #
+#..### $##  #  $ ## $ #
+#....   #   # #  ## $ #
+#  #$# ## # # #$ #  $##
+## @ # ## $   #  # $  #
+ ##### ## #####$ # $  #
+    #  * * # ##  ## $ #
+    #      # #  $   ###
+    ######## #   ####
+             #####
+Author: Alberto Garcia + TIAOA + Jordi Domenech
+Title: Zig Zag Plus 25 (Remodel) (70)++
+Comment:
+TIAOA: based on Zig-zag plus #25, added 16 boxes, major changes
+JD (version ++): based on TIAOA version, added 4 boxes, major changes
+URL: www.letslogic.com/puzzle_info.php?id=97987
+Date: 2018.7.26 TIAOA, 2019.11.26 JD

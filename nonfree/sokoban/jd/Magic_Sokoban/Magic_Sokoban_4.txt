@@ -1,0 +1,1375 @@
+Authors: Jordi Domènech, Marcus Hof, David Buchweitz and other authors
+Collection: Magic Sokoban 4
+Email: jd.sokoban2020@gmail.com
+Blog: sokoban-jd.blogspot.com
+Copyright: (c) by Jordi Domènech, Marcus Hof, David Buchweitz, and the authors of each level
+Date: January-October 2012
+
+Author's note:
+Small levels, simple and beautiful. Many of these levels are based on the levels of other authors: all them I am grateful. In this fourth set have participated Marcus Hof and David Buchweitz (from Let's Logic - www.letslogic.com). Thanks a lot! - J.D.
+
+In this set, the best levels are: 39, 54, 73, 82, 93-94, 100.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+These levels are copyright (c) by Jordi Domènech, Marcus Hof, David 
+Buchweitz and the authors of each level, and may be freely distributed 
+for non-commercial use provided they remain unchanged, credited with 
+the author's name, and provided the author is notified.
+
+License: Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported
+http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+This collection has been downloaded from my blog:
+Sokoban. The beautiful world of remodels
+http://sokoban-jd.blogspot.com/
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+  ####
+ ##@ #
+## * #
+#  $ #
+#  . #
+######
+Author: Jordi Domenech
+Title: Level 1 Start
+
+ #####
+##.. #
+# $. #
+# $. #
+# $$ #
+# @###
+####
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 2 Pufi L
+Comment: based on Puzzle #49
+
+ #####
+ #   ##
+ #$$@ #
+## ## ##
+#  #.  #
+#      #
+####. ##
+   ####
+Author: Jordi Domenech
+Title: Level 3
+
+####
+#  #######
+#  . $.$ #
+#  .# . @#
+#   #$ $##
+#####   #
+    #####
+Author: David Muriel + Jordi Domenech
+Title: Level 4 Pairs (a)
+Comment: based on Sokoban (Compiler Software) #6
+
+ ####
+ #  ######
+##   $.$ #
+#  .# . @#
+#  .#$#$##
+###     #
+  #######
+Author: David Muriel + Jordi Domenech
+Title: Level 5 Pairs (b)
+Comment: based on Sokoban (Compiler Software) #6
+
+   ####
+ ###  #
+ #.   #
+ #  * #
+### ###
+#   @ #
+#   $ #
+#  ####
+####
+Author: unknown + Jordi Domenech
+Title: Level 6
+Comment: based on Souko Easy #5
+
+########
+#      ##
+# $#..  #
+# $ ..  #
+###$##$##
+  # @  #
+  ######
+Author: Jordi Domenech
+Title: Level 7
+
+####
+#  ####
+# $$. #
+# $.. #
+# ..$ #
+# .$$ #
+#  #@ #
+#######
+Author: David Buchweitz
+Title: Level 8 A Little Something
+
+####
+#  ####
+# $$  #
+# *.. #
+# ..* #
+#  $$ #
+#  #@ #
+#######
+Author: David Buchweitz + Jordi Domenech
+Title: Level 9 A Little Something 2
+
+####
+#  ####
+#     #
+#.$**.#
+#.*+$.#
+# $$$ #
+#     #
+#######
+Author: David Buchweitz + Jordi Domenech
+Title: Level 10 A Little Something 3
+
+ ########
+##  ##  ##
+#  $ .   #
+# $$$..# #
+# @# .   #
+##########
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 11
+Comment: based on Puzzle #16
+
+  ####
+###  #
+#  . ##
+# ... #
+###.$ #
+#   ###
+#  $  #
+# $@$ #
+###$  #
+  #  ##
+  ####
+Author: Jordi Domenech
+Title: Level 12
+
+#######
+#. # .#
+# $+$ #
+# $$$ #
+#.   .#
+#######
+Author: Jordi Domenech
+Title: Level 13
+
+#######
+#     #
+# $ $ #
+# ### #
+# ..#$##
+##.. $ #
+ #   # #
+ #   @ #
+ #######
+Author: Jordi Domenech
+Title: Level 14
+
+    ####
+#####  ###
+# $ $ $$ #
+# # #..# #
+# @  ..  #
+##########
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 15
+Comment: kbr1633 arranged
+
+   ####
+ ###  #
+## $$ #
+# .#  #
+# . ..#
+# .#  #
+##$$$##
+ # @ #
+ #####
+Author: Okiyasu + Jordi Domenech
+Title: Level 16
+
+ ####
+ #  #
+##. ###
+# .$$ #
+# .@# #
+# .$$ #
+##    #
+ ######
+Author: Jordi Domenech
+Title: Level 17 Pufi line (a)
+
+  ####
+  #  #
+ ##. ###
+## .$$ #
+#  .@# #
+# $.$$ #
+###.   #
+  ######
+Author: Jordi Domenech
+Title: Level 18 Pufi line (b)
+
+#####
+#   ###
+# $   #
+##$## ##
+# $..  #
+#  ..  #
+## ######
+# $     #
+#   # @ #
+#########
+Author: Jordi Domenech
+Title: Level 19
+
+    ####
+#####  #
+#  $   ##
+# $$##  #
+# $  #  #
+# $$ #  #
+# @# ...#
+#####...#
+    #####
+Author: Hiroyuki Imabayashi + Jordi Domenech
+Title: Level 20
+Comment: based on Sokoban Basic 2 1-11
+
+#######
+#     #
+# ###.##
+# $ .$.#
+# #  *@#
+# #$.$.#
+#  $ . #
+# #$####
+#   #
+#####
+Author: Miguel A. Garcia Prada + Jordi Domenech
+Title: Level 21
+Comment: based on Sokoban (Compiler Software) #12
+
+  ######
+### @  #
+# $ $ $#
+#  .#. #
+## .##$#
+ #$##. #
+ # .#. ##
+ #$.#.$ #
+ #  $   #
+ #   ####
+ #####
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 22
+Comment: based on Puzzle #39
+
+#########
+#  ##   #
+#     $ #
+# $ @# ##
+##$### #
+# $ .. #
+#   ..##
+#######
+Author: unknown + Jordi Domenech
+Title: Level 23
+Comment: based on Souko Normal #11
+
+  ########
+ ## ..#  #
+ #  . $  #
+## #.##  #
+# $$.##$##
+#  # $   #
+##   # @ #
+ #########
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 24
+Comment: kevin975 variant
+
+#######
+#     #
+# .#$ #
+# . $ #
+# .#$##
+# .  #
+# *$$#
+##.@ #
+ #####
+Author: David Buchweitz
+Title: Level 25 Simple Six
+
+#######
+#     #
+# .#$ #
+# * $ #
+# .#$##
+# *  #
+#.. $#
+###@ #
+  ####
+Author: David Buchweitz + Jordi Domenech
+Title: Level 26 Simple Six+
+
+     #####
+######   #####
+# $@$    $ $ #
+# ###$# ## # #
+# . . . . .  #
+####   #   ###
+   #########
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 27
+Comment: based on kbr1636
+
+ #######
+ #  @  #
+ #  *  #
+####.####
+# ..... #
+# $ $ $ #
+### $ ###
+  # # #
+  # $ #
+  # $ #
+  #   #
+  #####
+Author: David Buchweitz + Jordi Domenech
+Title: Level 28
+Comment: based on Chrysalis Collection 3 #17 Tee
+
+  #########
+  #       #
+  # $ $ $ #
+### ##*## ###
+#....# #....#
+# $### ###$ #
+# $   $   $ #
+#  ## @ ##  #
+#############
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 29
+Comment: kevin660 variant
+
+  ######
+### .  #
+#  $.# #
+# #$.$ #
+#  $.$##
+## #. #
+ # @  #
+ ######
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 30
+Comment: kbr1462 variation (mini)
+
+###########
+#.        #
+# #####.# #
+# #  *  # #
+# . $#$ # #
+# #$ # $# #
+# # $#$ . #
+# #  *  # #
+# #.##### #
+#@       .#
+###########
+Author: Lord Shedoshi + Jordi Domenech
+Title: Level 31
+Comment: Level 1225 variant
+
+##### #####
+#   ###   #
+# #  .  # #
+#  .$.$.  #
+## ##+## ##
+ #$ $.$ $#
+ #   #   #
+ #########
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 32
+Comment: based on Puzzle #38
+
+#########
+### +  ##
+# $ * $##
+#  $.$  #
+#.*.#.*.#
+#  $.$  #
+##$ * $ #
+##  . ###
+#########
+Author: Jordi Domenech
+Title: Level 33
+
+   #######
+ ###     #
+## $$# # #
+# .....  #
+# # #$$$##
+#   # # #
+##### @ #
+    #####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 34
+Comment: based on kbr1642
+
+       #####
+########   #
+#        $@#
+# # #####$##
+# # .....  #
+# #$$ $ #  #
+# # ##### ##
+#         #
+###########
+Author: Jordi Domenech
+Title: Level 35 Simple line
+
+#######
+#     ###
+#   ....###
+### .  .  #
+  # .###$@#
+ #####   ##
+ #   $$$  #
+ #    $ # #
+ ###$ $   #
+   #     ##
+   #######
+Author: Marcus Hof
+Title: Level 36 T start
+
+#########
+#@      #
+# *.*.* #
+# $ * $ #
+# **#** #
+# $ * $ ##
+# *.*.*  #
+#        #
+##########
+Author: Yang Chao + Jordi Domenech
+Title: Level 37
+
+#############
+########## .#
+#          $#
+# #$$$## #..#
+# #   @ $#..#
+# #$$$#  #..#
+# #   # $#..#
+# ## ##  #..#
+#     $     #
+### ####### #
+###   $     #
+###  ########
+#############
+Author: Zeljko Negovanovic + Jordi Domenech
+Title: Level 38
+Comment: Zelja #1 (old) arranged
+
+#######
+#     #
+# ###$####
+# #  $ $ #
+# # #$ $ #
+# # .....#
+# ## ##  #
+#    @  ##
+#########
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 39
+Comment: based on kbr1283
+
+###########
+#         #
+# #*#$#*# #
+# # # # # #
+# #  @  # #
+# *  #  * #
+# #**.**# #
+#    #    #
+###  ######
+  ####
+Author: 风过了无痕 (SokoWind) + Jordi Domenech
+Title: Level 40
+Comment: Riddle Sokoban #11 arranged
+
+  #####
+###   ###
+# $ # $ #
+# #. .# #
+#  ***  #
+# #. .# #
+# $ # $ #
+### @ ###
+  #####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 41
+Comment: kbr1317 variant
+
+  #######
+  #     #
+ ##$# #$#
+ # $    #
+ # #### ##
+##...$   #
+# ...# # #
+#  ### # #
+#      # #
+#### #$$ #
+   # @ ###
+   #####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 42
+Comment: kbr1396 variation
+
+   ####
+####  #
+#   $ ##
+# #. . #
+# $... #
+# $$#$##
+### @ #
+  #####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 43
+Comment: based on kbr1463
+
+     #####
+     #   #
+    ##$# #
+   ##. $ #
+  ##  *  #
+###. * .##
+# $ * ###
+# #$ .#
+# @  ##
+######
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 44
+Comment: based on Puzzle #27
+
+#########
+#  ##   #
+# .$    #
+# $.##$##
+##.$## ####
+# $.      #
+# .$### # #
+#  .# # @ #
+##### #####
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 45
+Comment: based on Puzzle #46
+
+     ######
+  ####. ..#
+  #. #$$# #
+ ## .#  $@#
+ # $ $ $$##
+ #.  #   #
+##.##    #
+#   $.####
+#     #
+#######
+Author: Marcus Hof
+Title: Level 46 Keep pushing
+
+ ####
+ #  ######
+ #$ $ $  #
+ # .*. # #
+##$.+.$* #
+#  .*. # #
+#  $ $   #
+######  ##
+     ####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 47
+Comment: based on kbr1625
+
+#########
+# .   . #
+#.#$$$#.#
+# $ . $ #
+#$#.#.#$#
+# $ . $ #
+#.#$$$#.#
+# . @ . #
+#########
+Author: Jordi Domenech
+Title: Level 48
+
+  #########
+###   @   ###
+# * * * * * #
+#  * *#* *  #
+# * * * * * #
+#    *$*    #
+####  .  ####
+   #######
+Author: Howard Abed + Jordi Domenech
+Title: Level 49 
+Comment: Second Set #6 tiny
+
+    ###
+  ###.###
+ ##  *  ##
+ #  *$*  #
+## *   * ##
+#.*$ # $*.#
+## * @ * ##
+ #  *$*  #
+ ##  *  ##
+  ###.###
+    ###
+Author: 老熊 (Lao Xiong) + Jordi Domenech
+Title: Level 50
+
+#######
+# . $ #
+# # # #
+#.*   #
+# #$# #
+# $@*.#
+# #$# #
+#.*   #
+# # # #
+# $ . #
+#######
+Author: Jordi Domenech
+Title: Level 51 Arabesque mini
+
+    #####
+ ####   #
+ #      #
+##$###.##
+#    #. #
+# $ $ . #
+#  #  . #
+##$###.##
+# $    #
+# @ ####
+#####
+Author: Jordi Domenech
+Title: Level 52 Make a line
+
+ ####
+ #  ##
+ #   #
+##** ##
+#  *  ###
+#+ *    #
+#  **** #
+####  * #
+   #$   #
+   #  ###
+   ####
+Author: Jordi Domenech
+Title: Level 53 No bad
+
+ ####
+ #  #######
+ # $  $   #
+ # ##    .#
+ #  #  ##.#
+ #$ #$....#
+ #  @  # ##
+##$#####  #
+#      $  #
+#   ####  #
+#####  ####
+Author: Morganine + Jordi Domenech
+Title: Level 54
+Comment: based on Sokomet #19
+
+  #######
+  #     #
+### ### #
+#  $$ # #
+# $$. # #
+#  $. # #
+#@.$. # #
+####.## #
+   #.   #
+   ######
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 55
+Comment: based on kbr1289
+
+ ######
+ #    ##
+##***. #
+# $  # #
+#    # #
+# # ## #
+# $$*  #
+##. .@ #
+ #######
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 56
+Comment: based on kbr1442
+
+   ######
+####.   #
+#  $.$# #
+# #$.$  #
+#  $.$###
+## #. #
+ # @. #
+ ######
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 57
+Comment: kbr1462 variation A
+
+   ######
+#### .  #
+#   $.# #
+# ##$.$ #
+# $ $.$##
+# #  . #
+# ###. #
+#   @ ##
+#######
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 58
+Comment: kbr1462 variation B
+
+    #######
+    #     #
+  ###$### #
+  #  $....#
+ ## # ....###
+##    ##    #
+# $$$$#   # #
+#  #@ # #$$ #
+#  ####   ###
+####  #####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 59
+Comment: kbr1492 arranged
+
+   #####
+   #   #
+  ##   ##
+ ##  .  ##
+ #  #.#  #
+##$##*## ###
+#   *@*  $ #
+#   #*##$  #
+###$#.#  ###
+  #  .  ##
+  ##  ###
+   #  #
+   ####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 60
+Comment: based on kbr1504
+
+     ####
+  ####  ####
+  #    $   #
+  #   $#$  #
+  ## $ # $ #
+### $# # #$#####
+# .*.......*   #
+# $ ##@# ###$# #
+#  *.......*.  #
+### $# # #$#  ##
+  #  $ # $ #  #
+  ### $#$  ####
+    #  $ ###
+    ##   #
+     #####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 61
+Comment: kbr1545 arranged
+
+ #########
+##       ####
+#  #####    #
+# ##   #### #
+# #     $@# #
+# #$##.##$# #
+# # # . # # #
+# $..   ..  #
+### ##.##$###
+  #$$     #
+  #   #####
+  #####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 62
+Comment: kbr1569 variant
+
+###############
+#   ######   ##
+#   $  $    $##
+###### #####  #
+###### .   #  #
+#######*## #  #
+#   . . .# #$##
+# @  . . # #  #
+#   . . .# #  #
+## ####### #  #
+## ##      #$##
+#  ## ######  #
+# $ $  $  $   #
+#  #   #   #  #
+###############
+Author: Thomas Jensen + Jordi Domenech
+Title: Level 63
+Comment: WSokoban! #14 variation
+
+ #########
+## . . . ##
+#  $. .$  #
+# $ $.$ $ #
+#####@#####
+# $ $.$ $ #
+#  $. .$  #
+## . . . ##
+ #########
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 64
+Comment: based on Puzzle #75
+
+################
+##     #   #   #
+#  ##.$  $   $ #
+#  .  ## #.##.##
+# ## $ # #$##  #
+#.##$# .  $    #
+#      ##.#  # #
+##$###.$+ ##.# #
+#   #   #$$. # #
+#.# $ #    # $ #
+# $$### ##.# #.#
+#     .$## $ . #
+##.##$#  .  ## #
+# $  $ .###. # #
+#    #         #
+################
+Author: Jordi Domenech
+Title: Level 65 Maze
+
+  #####
+  #   ###
+###$#   #
+# $.. # #
+#  ..$  #
+# $.. ###
+###$#$#
+  # @ #
+  #####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 66
+Comment: kbr1672 variant
+
+   #####
+  ##   #
+  # $# #
+ ##.$. #
+## .$. ##
+#@$*$.  #
+# # # # #
+#   #   #
+#########
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 67
+Comment: kbr1698 variant
+
+ #####
+ # @ #####
+ # $$    #
+ ## ## # #
+  #      #
+###$#$..##
+#   $ #.##
+#   #  ..#
+##########
+Author: Marcus Hof
+Title: Level 68 Think before pushing
+
+   #####
+   #@  ####
+#### $$$  #
+#...# $   #
+# .$# $ $ #
+##. * #   #
+ #     ####
+ ###.. #
+   #####
+Author: Marcus Hof
+Title: Level 69 Starts and ends as a T
+
+ ####
+ #  ########
+ #         ##
+ # #####$#$ #
+ #..##   $  #
+ # .# $  #  #
+## .. #$##$ #
+#  . #    $ #
+# @. #   #  #
+#############
+Author: Marcus Hof
+Title: Level 70 Round and round
+
+  #######
+  #     #
+###$...$###
+# $ .#. $ #
+# #$...$# #
+# #  $  # #
+# ##$#### #
+#    @    #
+###########
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 71
+Comment: based on kbr1309
+
+   #####
+####   #
+#  $ @ #
+# $ #.#####
+#  ##.##  ####
+#  ..... $#  #
+## ##.#   #$ #
+ #  #.# $    #
+ ## $ #####$##
+  # #$     $ #
+  #    ###   #
+  ###### #####
+Author: Thinking Rabbit + Jordi Domenech
+Title: Level 72 
+Comment: Sokoban Perfect #195 variation
+
+   #########
+####   #   #
+# $  #   $@#
+# ##    # ##
+# ##.#### #
+# # ....# #
+# # $ $ $ #
+# ######  #
+#        ##
+##########
+Author: Hiroshi Inoue + Jordi Domenech
+Title: Level 73 
+Comment: Sokoban Game Gear #291 variation 1
+
+   ##########
+####    #   #
+# $  ##   $@#
+# #  $   # ##
+# ##.##### #
+# # .....# ##
+# # $ $ $   #
+# #######   #
+#          ##
+############
+Author: Hiroshi Inoue + Jordi Domenech
+Title: Level 74 
+Comment: Sokoban Game Gear #291 variation 2
+
+   ###########
+   #     #   #
+#### $#  $ $@#
+# $   $  # ###
+# ##.##### #
+# # ....#  ###
+# # *.*.*    #
+# #######$ $ #
+#          ###
+#########  #
+        ####
+Author: Hiroshi Inoue + Jordi Domenech
+Title: Level 75 
+Comment: Sokoban Game Gear #291 variation 3
+
+#################
+#     . . . . . #
+#. # $ $ $ $ $  #
+# $############ #
+#. #     . . #  #
+# $#. # $ $  #$ #
+#. # $###### # .#
+# $#. #   #  #$ #
+#. # $ $. #$ # .#
+# $#  #   # .#$ #
+#. # ######$ # .#
+# $#$ $ $ # .#$ #
+#  . . .     # .#
+# ############$ #
+#  $ $ $ $ $ # .#
+#@. . . . .     #
+#################
+Author: Alberto Borella + Jordi Domenech
+Title: Level 76
+Comment: Level 6 extended
+
+ ###########
+##     #   #
+#  ### $ # #
+# ##   # # ###
+# # *. * #   #
+# #$ *## ### #
+#     ## #   #
+##$#**##***.##
+ #    @*     #
+ ######*  ## #
+     # * ##  #
+     # . #  ##
+     ###   ##
+       #####
+Author: 风过了无痕 (SokoWind) + Jordi Domenech
+Title: Level 77
+Comment: based on Riddle Sokoban #12
+
+  #######
+  #..   #
+### ##  #
+# $..$$ #
+# #   $ #
+# $.*$$##
+# ## # #
+#  ..@ #
+########
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 78
+Comment: based on kbr1469
+
+ ############
+##     *    #
+#  # ## ## $#
+#  * *  ..  #
+## ## ## ##*#
+ #    *   * #
+ #*$##$## # #
+ #       *  #
+ #*##*## ## ##
+ #  .     *  #
+ #.$## ##*#  #
+ #    *  @  ##
+ ############
+Author: Jordi Domenech
+Title: Level 79 Absurd labyrinth
+
+########
+#   #  #
+# $ .  #####
+## ##  ##  #
+ #..#$  $$ #
+ #$  $@##..#
+ #  ## .#  #
+ #####$.   #
+     #  ####
+     ####
+Author: Buddy Casamis + Jordi Domenech
+Title: Level 80
+Comment: based on Bugs1005 #2
+
+ ####
+ #  #########
+ #   $  $ $@#
+ #$ # .$..$ #
+## ## ##. ###
+#  #  .#$##
+#     ..  #
+#######   #
+      #####
+Author: Marcus Hof
+Title: Level 81 Easy Going
+
+ ####
+ #  ########
+ # $ $ $ $ #
+ # # ....  #
+## #$##.####
+#      .##
+#   ##$  #
+###### @ #
+     #####
+Author: Marcus Hof + Jordi Domenech
+Title: Level 82 Easy Going recreation
+
+#####
+#   ######
+#        #
+##.#$$## #
+ #.    # #
+ #.##..# #
+ #  #. $ #
+### #..# #
+#   ##$# #
+# $$  $  #
+#  # #$###
+#### @ #
+   #####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 83
+Comment: based on kbr1593
+
+#############
+#   #       #
+# # $ ##### #
+#  $### . # #
+#  $    . #.#
+##$#$###.## #
+ #  $ $   ..#
+ ## # ##$## #
+  # # #. .$.#
+  # #   @ # #
+  # ####### #
+  #         #
+  ###########
+Author: David Buchweitz + Jordi Domenech
+Title: Level 84 6th Gear (a)
+Comment: based on Chrysalis Collection 5 #18 6th Gear
+
+#############
+#   #       #
+# # $ ##### #
+#  $###   # #
+#  $    . #.#
+##$#$###.## #
+#   $   . ..#
+# $ # ##$## #
+### # #...$.#
+  # #$# # # #
+  # #   @ # #
+  # ####### #
+  #         #
+  ###########
+Author: David Buchweitz + Jordi Domenech
+Title: Level 85 6th Gear (b)
+Comment: based on Chrysalis Collection 5 #18 6th Gear
+
+#####
+#   ########
+# # $      ###
+#  $###### $ #
+#  $    .#.. #
+##$#$###.## ##
+#   $   . ..#
+# $ # ## ## #
+### # #. .$.#
+  # #$# # # #
+  # #   @ # #
+  # ####### #
+  #         #
+  ###########
+Author: David Buchweitz + Jordi Domenech
+Title: Level 86 6th Gear (c)
+Comment: based on Chrysalis Collection 5 #18 6th Gear
+
+#####
+#  @#####
+# #$..  ###
+#  $..#   #
+##$$..$$# #
+ # # #    #
+ #   #  ###
+ ########
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 87
+Comment: based on kbr1632
+
+    #####  ######
+    #   ####    #
+    # $      $. #
+###### #######.##
+# $    # $ $ $  #
+#@#$$$$.*...... #
+#      #   #  . #
+#################
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 88 Guayaba twist (a)
+
+    #############
+    #       #   #
+    # $ $     . #
+###### #######.##
+# $    # $ $ $ ##
+#@#$$$$.*...... #
+#      #####  . #
+########   ######
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 89 Guayaba twist (b)
+
+  #######
+###     #
+# ***** #
+# $   $ #
+# ..#.. #
+# $ @ $ #
+# ***** #
+#     ###
+####  #
+   ####
+Author: Jordi Domenech
+Title: Level 90 Three parallels 7
+
+   ####
+####  ####
+#        #
+# #****# #
+# *      #
+# .****# #
+##     $ #
+# *****# #
+#    @   #
+##########
+Author: Jordi Domenech
+Title: Level 91 Three parallels 8
+
+##########
+#        #
+# ****** #
+# #     $#
+# .***** ##
+#      #  #
+# ******  #
+#    @   ##
+##########
+Author: Jordi Domenech
+Title: Level 92 Three parallels 9
+
+     #######
+ ##### @#  ####
+##  $ $   $$  #
+#  $ $ ##     #
+# ####. ####$##
+#...... #  #  #
+## .$.  #     #
+ # ###### #####
+ #       $ #
+ #  ####   #
+ ####  #####
+Author: unknown + Jordi Domenech
+Title: Level 93 Souko Hard #15 variant 1
+
+     ####
+ ##### @######
+##  $ $      #
+#  $ $ # $ $ #
+# ####.##### ##
+#.*.... #  #  #
+#  . .  #     #
+## ######$#####
+ #       $ #
+ #  ####   #
+ ####  #####
+Author: unknown + Jordi Domenech
+Title: Level 94 Souko Hard #15 variant 2
+
+    #####
+#####   #
+#   #   #
+# *   *##
+# **# * #
+# * . * #
+# * #** #
+# * $ * #
+##  # @ #
+ #  #####
+ ####
+Author: Jordi Domenech
+Title: Level 95 N hard
+
+ ####
+ #  ##
+ #.  #
+##** ##
+#  *  ###
+#@ *    #
+#  **** #
+####  * #
+   #  $ #
+   #  ###
+   ####
+Author: Jordi Domenech
+Title: Level 96 No bad 2
+
+   ####
+####  #
+#  .  #
+# .$. #
+# $*$##
+##.@.##
+##$*$ #
+# .$. #
+#  $  #
+#  ####
+####
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 97
+Comment: based on Puzzle #9
+
+   #####
+   #   #####
+####$# $   #
+#  #. .  # #
+# $$.#.#.$ #
+# @#. . .###
+# $#$ #  #
+# $   ####
+####  #
+   ####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 98
+Comment: kbr1624 arranged
+
+ #########
+##       ####
+#  * * * *  #
+# # #####   #
+# #   #   ###
+#@* * * *  #
+## #####*  #
+ # #   # ###
+ # #$#.#   #
+ #         #
+ #####   ###
+     #####
+Author: Sven Egevad + Jordi Domenech
+Title: Level 99
+Comment: based on SE 1622
+
+################
+##           ###
+## #$##### #$$ #
+##....  $ ...  #
+## # ########$ #
+# $*        #  #
+#  # ###   .# ##
+#  #...# ##.# ##
+####...#$ # #  #
+#   # ## $# #$ #
+# $ #  #   .$  #
+# $$#  ###@ # ##
+# $   $$ #### ##
+#   #  #      ##
+################
+Author: Hacker Chris + Jordi Domenech
+Title: Level 100
+Comment: based on the unsolvable level 55 from Sokoban (Poland, 1991, for ZX Spectrum), by Hacker Chris

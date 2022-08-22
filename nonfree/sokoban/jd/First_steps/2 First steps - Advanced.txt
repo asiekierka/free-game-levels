@@ -1,0 +1,595 @@
+Author: Jordi Domènech and other authors
+Collection: First steps - Advanced
+Email: jd.sokoban2020@gmail.com
+Blog: sokoban-jd.blogspot.com
+Copyright: (c) by Jordi Domènech, and the authors of each level
+Date: March 2017
+
+Author's note:
+If you have solved all puzzles of First steps - Beginner, try to solve this set. Warning: some puzzles are quite difficult, and in general they are for experienced players. If you can't solve some level, leave it for tomorrow and try to solve the next level.
+
+Some puzzles are arrangements of levels by other authors: to all of them my thanks.
+
+Enjoy!
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+These levels are copyright (c) by Jordi Domènech and the authors of each
+level, and may be freely distributed for non-commercial use provided they 
+remain unchanged, credited with the author's name, and provided the author
+is notified.
+
+License: Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported
+http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+This collection has been downloaded from my blog:
+Sokoban. The beautiful world of remodels
+http://sokoban-jd.blogspot.com/
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+#####
+#   #
+# **###
+#     #
+#.**$ #
+#   @ #
+#######
+Author: Jordi Domenech
+Title: Level 1 Baffling
+Set: Magic Sokoban 5 #1
+
+########
+#   #  #
+#.$@ $.#
+#.$##$ #
+#.   $.#
+#.$##$.#
+#      #
+########
+Author: Kevin Cassol
+Title: Level 2
+Set: Magic Sokoban #41
+
+  #######
+  #     #
+  # ### ##
+  # # $  #
+  #  ..  #
+  # #..###
+### ## #
+# $$$  #
+# @ #  #
+########
+Author: Jordi Domenech
+Title: Level 3
+Set: Magic Sokoban #58
+
+ ####
+ #  #####
+ #  ..  #
+ # #..  #
+##$### ##
+# $  $$#
+#    @ #
+#  #####
+####
+Author: Jordi Domenech
+Title: Level 4
+Set: Magic Sokoban 2 #31
+
+      ####
+#######  #
+#   *.$  #
+#   ..#  #
+### ###$##
+ #     $ #
+ #  ## @ #
+ #  ######
+ ####
+Author: Marcus Hof + Jordi Domenech
+Title: Level 5
+Set: Magic Sokoban 2 #42
+
+ ######
+ #    #
+ # ##$###
+ # # $  #
+ # #    #
+## # ## ##
+#  ...*$ #
+#   ## @ #
+##########
+Author: Jordi Domenech
+Title: Level 6
+Set: Magic Sokoban 3 #68
+
+ ####
+ #  ########
+ # $ $ $ $ #
+ # # ....  #
+## #$##.####
+#      .##
+#   ##$  #
+###### @ #
+     #####
+Author: Marcus Hof + Jordi Domenech
+Title: Level 7 Easy-going
+Set: Magic Sokoban 4 #82
+
+      ####
+   ####  #
+   #  #  #
+#### * $ #
+#  $ * @ #
+# #. .####
+#   ###
+#####
+Author: Jordi Domenech
+Title: Level 8 Rock Festival
+Set: Magic Sokoban #92
+
+#######
+#     #
+#  ** #
+# *  *#
+##.$$.##
+ #*  * #
+ # **  #
+ #  @  #
+ #######
+Author: Jordi Domenech
+Title: Level 9 O
+Set: Magic Sokoban #63
+
+#########
+#   ##  #
+#   ...$#
+## # #. #
+#  # ##$##
+#    $ $ #
+#  ### @ #
+#### #####
+Author: Shaggath + Jordi Domenech
+Title: Level 10
+Set: Magic Sokoban 5 #29
+
+#########################
+#  *   *  *.*    *    * #
+# . $ * *  $  # *$*  *  #
+#@ *   *   *  *  .  *   #
+#########################
+Author: Jordi Domenech
+Title: Level 11 Walking
+Set: Magic Sokoban #57
+
+    ####
+#####  ###
+#  ##    #
+#    $$$ #
+#  # $ $ #
+##$### ###
+#...   #
+#... @ #
+########
+Author: Hirohiko Nakamiya + Jordi Domenech
+Title: Level 12
+Set: Magic Sokoban #60
+
+   ####
+  ## .####
+ ##@.$   #
+ # .$ #  #
+##.$ #   #
+#.$## $  #
+#       ##
+#  ##  ##
+########
+Author: Jordi Domenech
+Title: Level 13 Stairs
+Set: Magic Sokoban 2 #66
+
+    #####
+#####   #
+#  $    #
+#  $## ##
+##.$.. .#
+ # $#   #
+ # @#####
+ #  #
+ ####
+Author: David W. Skinner + Jordi Domenech
+Title: Level 14
+Set: Magic Sokoban 5 #59
+Comment: Sasquatch IV #2 variant
+
+#######
+#. #  #####
+#.$# $#   #
+#. #   ...#
+# $# $#####
+#  #  #
+# $# $#
+#     #
+# @#  #
+#######
+Author: Peter Asztalos + Jordi Domenech
+Title: Level 15
+Set: Magic Sokoban 5 #60
+
+ ####
+ #  ##
+ #   #
+##** ##
+#  *  ###
+#+ *    #
+#  **** #
+####  * #
+   #$   #
+   #  ###
+   ####
+Author: Jordi Domenech
+Title: Level 16
+Set: Magic Sokoban 4 #53
+
+#####  ####
+#   ####  #
+# *     . #
+##$#####  #
+ # #  #  ##
+ # .      #
+## # @ #  #
+#  #####$##
+# *     * #
+#  ####   #
+####  #####
+Author: Jordi Domenech
+Title: Level 17 Round and round...
+Set: Life #2
+
+ ####
+ #  #######
+ # $  $   #
+ # ##    .#
+ #  #  ##.#
+ #$ #$....#
+ #  @  # ##
+##$#####  #
+#      $  #
+#   ####  #
+#####  ####
+Author: Morganine + Jordi Domenech
+Title: Level 18
+Set: Magic Sokoban 4 #54
+
+   #########
+####   #   #
+# $  #   $@#
+# ##    # ##
+# ##.#### #
+# # ....# #
+# # $ $ $ #
+# ######  #
+#        ##
+##########
+Author: Hiroshi Inoue + Jordi Domenech
+Title: Level 19
+Set: Magic Sokoban 4 #73
+
+#######
+#     #
+#  ***###
+##  $   #
+ # ***  #
+ #  +   #
+ ########
+Author: Jordi Domenech
+Title: Level 20 Baffling 2
+Set: Magic Sokoban 5 #58
+
+    ####
+ ####  #
+ #  **.#   #
+## ## .#  #
+ #    .####
+ ###$$$   #
+   #      #
+   #@###  #
+   ### ####
+Author: Marcis Berzins
+Title: Level 21 Puppy
+Set: Magic Sokoban 5 #27
+
+########
+#      #
+#***** #
+#    * #
+#  # * #
+# $#*  #
+#   *  #
+## *## #
+#  * . #
+# * # ##
+# *   @#
+########
+Author: Jordi Domenech
+Title: Level 22 Seven
+Set: Miniatures #67
+
+##########
+#  . . . #
+#  $ $ $ #
+##.#######
+#     $  #
+#@ $     #
+#######.##
+# $ $ $  #
+# . . .  #
+##########
+Author: Ghislain Martin + Jordi Domenech
+Title: Level 23 Donkey Kong
+Set: Magic Sokoban 6 #38
+
+###################
+#   # .   $   #   #
+# $   # @    ...$ #
+##.############# ##
+#     #   $ $ . $ #
+#   #         #   #
+###################
+Author: Jordi Domenech
+Title: Level 24 Dark rooms
+Set: Life #6
+
+####
+#  #####
+# *  . #
+# ** * #
+# * ** #
+# *$ * #
+#   @  #
+########
+Author: Jordi Domenech
+Title: Level 25 N minor
+Set: Magic Sokoban #78
+
+  ######
+###    #
+#  @ # #
+#. * # #
+# #*## #
+#  * $ #
+## * # #
+ # *   #
+ #######
+Author: Kevin Cassol
+Title: Level 26
+Set: Magic Sokoban #67
+
+##########
+#        #
+# ###### #
+# #  $ $$##
+# #     $ #
+# # ##### #
+# #...  $ #
+#  .$.# @ #
+#### .#####
+   ####
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 27
+Set: Magic Sokoban 2 #79
+
+   ####
+   #  #####
+   #      #
+####$$$$$@#
+#  #  #   #
+#  # ######
+#  *  #
+#.....#
+#     #
+#  ####
+####
+Author: David Buchweitz + Jordi Domenech
+Title: Level 28
+Set: Magic Sokoban 3 #47
+
+ #########
+ #  #... #
+ #  $... #
+ #  ### ##
+### #   #
+# $$##$##
+#     $ #
+#  #  $ #
+#  #  @ #
+#########
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 29
+Set: Magic Sokoban 3 #74
+
+       ####
+   #####  #
+ ### @    #
+ #   $##. #
+ # #$$ #.##
+ # #    .##
+##$#####. #
+# $     . #
+#   ###   #
+##### #####
+Author: Milutin Negovanovic + Jordi Domenech
+Title: Level 30
+Set: Magic Sokoban 5 #42
+
+#####
+# @ #######
+# $     $ #
+##$####.# #
+#     ... #
+# $ $ #.###
+#####    #
+    ##   #
+     #####
+Author: Morganine + Jordi Domenech
+Title: Level 31
+Set: Magic Sokoban 5 #98
+
+ #####
+ #   ####
+ #$# #  #####
+ #     ...  #
+ #$####.##  #
+## # ... # ###
+# $  ### #   #
+# ##$# # #   #
+#    ###$## ##
+####  *     ##
+  # $ # ###  #
+  # # @ # #$ #
+  #   ### #  #
+  #####   ####
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 32
+Set: Alberto Garcia remixed #56
+
+#####  ####
+#   ####  #
+#         #
+## #####  #
+##$# @ # ###
+# $ .#$#$  #
+# # . $    #
+# ...#######
+######
+Author: Thomas Reinke + Jordi Domenech
+Title: Level 33
+Set: Magic Sokoban 5 #73
+
+       #########
+ #######   #   #
+ #       #     #
+##.####### ## ##
+#  #  #.... # #
+#   $ # $ $$# #
+#  #  ##### $ #
+#### ##  @    #
+   #    ###  ##
+   ###### ####
+Author: Jordi Domenech
+Title: Level 34 London Underground
+Set: Life #39
+
+########
+#      #####
+#  $ $ #   #
+# $ $  $$# #
+###### #   #
+ #   # #..##
+ # $    ..#
+ ##$##### ##
+ #  #..    #
+ # @ ..#   #
+ ###########
+Author: Jordi Domenech
+Title: Level 35 Twins
+Set: Life #33
+
+#######
+#     #
+# ### ###
+# # $   #
+# #     #
+# $$ #$##
+# $  # ##
+## ###. #
+ # .+.. #
+ ########
+Author: Morganine + Jordi Domenech
+Title: Level 36
+Set: Magic Sokoban 6 #54
+
+ ####
+ #  ############
+ # * * *       ##
+## # +...#*# $  #
+#  ##*####  #   #
+#      $ $$ #####
+#  # *      #
+#############
+Author: Sven Egevad + Jordi Domenech
+Title: Level 37
+Set: Magic Sokoban 6 #79
+
+##########
+#     #  #
+#  $  $$ #
+#  # #   #
+#### ###.#
+#  #   #.#
+# $  $ #.#
+#  ##.##.#
+##.##  #.#
+# $  $ #.#
+#   #  #.#
+### ####.#
+### #  @ #
+#  $  $$ #
+#        #
+##########
+Author: J. Franklin Mentzer + Jordi Domenech
+Title: Level 38 For Frank Mentzer
+Set: Life #12
+
+          ####
+          #  #######
+         ##        #
+         #  #### $ #
+     #####  . ###$ #
+     #  ## ## #  $ #
+     # $  $ # # $$ ##
+#### #  #   # # $   #
+#  ####  #### #     #
+# $      ###. #######
+#  #######  . #
+## ###    ...##
+#       # ..##
+#   # # @ .##
+#####   ####
+    #####
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 39
+Set: Alberto Garcia remixed #49
+
+              *
+            #####
+            #   #
+          * # . # *
+          ####.####
+          #   *   #
+        * #  #    # *
+        #### ### ####
+        #   * # *   #
+      * #  #     #  # *
+      #### ### ### ####
+      #   *   *   * # #
+    * #    #  #  #    # *
+    #### ### ### ### ####
+    #   * # *   * # *   #
+  * #  #    #   #    #  # *
+  #### ### ### ### ### ####
+  # # *   * # * # *   *   #
+* #    #  #   #   #  #    # *
+#### ### ### ### ### ### ####
+#   *   * # *   * # *   *   #
+#    # #      #      # #    #
+## ### ### ####### ### ### ##
+# *   *   *   $   *   *   * #
+#   #   #   # $ #   #   #   #
+############# @ #############
+            #####
+Author: Jordi Domenech
+Title: Level 40 From Southern Europe, Merry Christmas 2013 to all lovers of Sokoban
+Set: Magic Sokoban 6 #99

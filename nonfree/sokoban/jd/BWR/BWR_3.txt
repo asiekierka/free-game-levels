@@ -1,0 +1,1759 @@
+Author: Jordi Domènech and other authors
+Collection: The beautiful world of remodels 3
+Email: jd.sokoban2020@gmail.com
+Blog: sokoban-jd.blogspot.com
+Copyright: (c) by Jordi Domènech and the authors of each level
+Date: November 2012 - October 2015
+
+Author's note:
+Remodeling puzzles from other authors has been one of my favorite activities since 2010 and I have spent many hours to it. In the sets of "The beautiful world of remodels" I have gathered a selection of my remodels. Some of my remodels were remodeled, in turn, by other great masters: I also include these levels in this collection, because are of unsurpassed beauty and technical quality! Finally, among the remodels, I have also included some puzzles of mine of similar difficulty.
+
+Although it seems paradoxical, only very good puzzles are remodeled. The reason is simple: improving a good puzzle is a challenge for many creators of Sokoban.
+
+In the years 2010-2012 I enjoyed very good moments sharing remodels with David Holland and stopheart, and later laizhufu and Přemysl Zíka. From all of them I have learned a lot. Thank you so much!
+
+In this set, the best levels are: 2 and 4, 9, 12, 14, 16, 18-19, 20, 22, 23, 26, 28, 31, 32, 39, 41-42, 52, 77.
+
+I am grateful to the following authors your permission to include their arrangements in "The beautiful world of remodels": zhenying, Tian Lang, Tui Leshan, stopheart, David Holland, niwa, gyjgw, Přemysl Zíka, anian, laizhufu and Archanfel.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+These levels are copyright (c) by Jordi Domènech and the authors of each
+level and may be freely distributed for non-commercial use provided they
+remain unchanged, credited with the author's name, and provided the 
+author is notified.
+
+License: Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported
+http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+This collection has been downloaded from my blog:
+Sokoban. The beautiful world of remodels
+http://sokoban-jd.blogspot.com/
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+ ####################
+ #                  ####
+ # **** #@*****  ***.. #
+ # *  * ##*   * **  ** #
+ # * #**  * # * #  # * #
+ # * # *  *   * * ## * #
+ # * # ****  ** * ## * #
+ # *        **  * ## * #
+ # * *****#**   *    * #
+ # * #        # * **** #
+ # * ******$**  * *    #
+ # *       # **** *** ##
+## * ****# #        * #
+# $* *   ************ #
+#    #                #
+#######################
+Author: Eric F. Tchong + Jordi Domenech
+Title: Santanero++
+Comment: added 3 walls, stoned 4 boxes, moved a goal
+Date: 2012.11.24
+
+ ####################
+ #                  ####
+ # **** #@*****$$.**.  #
+ # *  * ##*   *.**  ** #
+ # * #**  * # * *  # * #
+ # * # *  *   * * ## * #
+ # * # ****  ** * ## * #
+ #$#        **  * ## * #
+ # . *****#**   *    # #
+ # * #        # * **** #
+ # * *********  * *    #
+ # *       # ***. *** ##
+## * ****# #        * #
+#  *$* $ ********#*** #
+#    #                #
+#######################
+Author: Eric F. Tchong + stopheart & anian + Jordi Domenech
+Title: Santanero - d1
+Comment:
+stopheart (version c): added a box, 2 walls, stoned a box, moved 2 boxes
+anian (c1): based on c, stoned 15 boxes
+JD: (d1): based on c1, unstoned 10 boxes, added a wall, moved a goal and 2 boxes
+Date: 2012.11.26 stopheart&anian/JD
+
+ ####################
+ #                  ####
+ # $*** #@*****$$.**.  #
+ # *  * ##*   *.**  ** #
+ # * #**  *.# * *  # * #
+ # * # *  *   * * ## * #
+ # * # ****  ** * ## * #
+ #$#        **  * ## * #
+ # . *****#**   *    # #
+ # * #        # * **** #
+ # * *********  * *    #
+ # *       # ***. *** ##
+## * ****# #        * #
+#  *$* # ********#**$ #
+#    #                #
+#######################
+Author: Eric F. Tchong + stopheart & anian + Jordi Domenech + zhenying
+Title: Santanero - c
+Comment:
+stopheart (version c): added a box, 2 walls, stoned a box, moved 2 boxes
+anian (c1): based on c, stoned 15 boxes
+JD: (d1): based on c1, unstoned 10 boxes, added a wall, moved a goal and 2 boxes
+zhenying (c): based on d1, change box for wall, moved a goal
+Date: 2012.11.26 stopheart&anian/JD, 2012.11.30 zhenying
+
+ ####################
+ #                  ####
+ # **#* # ******$.**.  #
+ # *  #@ #*   * **  *$ #
+ # * #**  * # * *  # * #
+ # * # *  *   * * ## * #
+ # * # ****  ** * ## * #
+ # #      . **  * ## * #
+ # * #*******   *    # #
+ # * #        # * **** #
+ # * #***###**  * *    #
+ # * .     # ***. *** ##
+## * ##### #        * #
+# *.$# $ $*******#**$ #
+#    #                #
+#######################
+Author: Eric F. Tchong + Jordi Domenech + stopheart & anian
+Title: Santanero+ e
+Comment:
+JD (Santanero+): added 2 walls, stoned a box
+stopheart & anian (e): based on Santanero+, stoned many boxes, moved 3 boxes and 3 goals
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=page%3D1&page=115
+Date: 2012.11.23 JD, 2012.11.27 stopheart&anian
+
+    #####
+  ###   #
+###     #
+#  *** ##
+#  *@* #
+#  * * #
+# $* * #
+#  * * #
+# $* #.#
+#  * * #
+# $* * #
+#  * *.#
+#### *.#
+#   $*.#
+#   #  #
+########
+Author: Eric F. Tchong + Jordi Domenech
+Title: Chuchubi 15 #46 4 balls up - a
+Comment: major changes
+Date: 2013.1.28
+
+    #####
+  ###   #
+###  .  #
+# .$$* ##
+# .*+* #
+# .$ * #
+# *$ * #
+# .* * #
+# *$ # #
+# .$ * #
+# **.* #
+#  $ * #
+#### * #
+#   $* #
+#   #  #
+########
+Author: Eric F. Tchong + Jordi Domenech + Tian Lang
+Title: Chuchubi 15 #46 4 balls up - b
+Comment:
+JD (version a): major changes
+TL (b): based on a, rearranged goals
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=&page=122
+Date: 2013.1.28 JD, 2013.3.23 TL
+
+   #####
+####   #
+#      ###
+#  *#$** #
+## * * * #
+ # * * * #
+ # *@* * #
+ # ***.* #
+ #       #
+ ####  ###
+    ####
+Author: Eric F. Tchong + Jordi Domenech
+Title: Serena 6 #30 One to fix - a
+Comment: reduced map, deleted a box/goal
+Date: 2013.1.29
+
+####################
+#  #    #         ##
+# $$*.$ # $$ $ # $##
+#  #..###  ##$## $ #
+#  #  ## $.. $     #
+# ##  #  #.$#$ ###.#
+#  ##*#$    #@ # $ #
+#      $ #######   #
+#..#$ # $# .  $  ###
+#..#  #  # .####$$ #
+#$$########.#    $ #
+#          .#..# # #
+##.########$#*.$$$ #
+#  ... $ #...$ # # #
+# $...    ...      #
+####################
+Author: XSokoban + Jordi Domenech
+Title: Old style
+Comment: based on XSokoban #90, added 9 boxes, many changes
+Date: 2013.2.17
+
+                ####
+                #  #
+#################  #
+#  #    # $ $ $    #
+# $*$.$ #     ###$##
+#  #  ###.*##$#   ##
+#  # .##.    $ $   #
+# ##  # .# $#  ###.#
+#..##$#$.   #@ # $ #
+#  .   $.#######   #
+#..#$ # *# $  $  ###
+#  # .#  # ..###$$ #
+#$$########.#    $ #
+#          .#..# # #
+##.########$#*.$$$ #
+#. . . $ ##..$ # # #
+# $ .      ..      #
+####################
+Author: XSokoban + Jordi Domenech + Premysl Zika
+Title: Old style - version 2
+Comment:
+JD: based on XSokoban #90, added 9 boxes, many changes
+PZ (version 2): rearranged goals, added a wall and a floor, several changes in the top right corner
+Date: 2013.2.17 JD, 2013.3.3 PZ
+
+#######################
+#           #   #     #
+# * * *** * # * # *$* #
+# * * *   * # * # * * #
+# * * *   * # * # * * #
+##**.#**# * # * # * *##
+# * * *   * # * # * * #
+# * * *   * # *   *@* #
+# * * *** *** *** *** #
+#     #   #           #
+#######################
+Author: Eric F. Tchong + Jordi Domenech
+Title: Dushi 4 #36 Hellu - a
+Comment: added 9 walls
+Date: 2013.4.9
+
+#####
+#   ###############
+# $     #   #     #
+#.*...#   #  .$ * #
+## #$########### ##
+ # # #   #   $   #
+ # # # .$.$. # # #
+ # # # $ * $ # # #
+ #$# ##.*@*.## #$#
+ # # # $ * $ # # #
+ # # # .$.$. # # #
+ #   $   #   # # #
+## ###########$# ##
+# * $.  #   #...*.#
+#     #   #     $ #
+###############   #
+              #####
+Author: David Holland + zhenying + Jordi Domenech + Premysl Zika
+Title: Magic Sokoban 5 #65 a
+Comment:
+zhenying said in his blog that his remodel is an adaptation of "Garcia 2003". I don't know this level, but probably the original level is Maelstrom #7 by David Holland.
+zhenying: simplification, major changes
+JD: based on zhenying's version, added 2 boxes, changed 2 boxes for walls, some changes in the top and bottom. See Magic Sokoban 5 #65 
+PZ (version a): based on JD's version, added 4 boxes, some changes in the top right and bottom left corners
+URL: www.zusbreznice.cz/rozvrhy-zika-premysl-sokoban-remodeled.cz
+Date: 2006.9.17 zhenying, September 2013 JD, 2013.9.9 PZ
+
+   #####
+   #   ############
+####$  $   @  ##  #
+#  # ########     #
+# $$        ####$ #
+#  # ###$## $  #  #
+# $# #   #..#   $ #
+#  # #$  #..# ##  #
+#  # # $ #..#  ####
+# $# # $ #  ## #
+##     $ #...  #
+ #####  ##..# ##
+  #  #  #...#$#
+  # $#$ #...# #
+  # $   #...# ##
+  #  ## #####  #
+  #   $  $     #
+  ##  #######  #
+   ####     ####
+Author: unknown + Jordi Domenech + Premysl Zika
+Title: Magic Sokoban 5 #71 Old style - b
+Comment:
+JD: based on level unsolvable Cb7 phg10 (Philippe Galmel), removed 2 boxes, stoned some floors, moved a goal, several changes. See Magic Sokoban 5 #71
+PZ (version b): added a box, a wall, major changes on the right side
+URL: www.zusbreznice.cz/rozvrhy-zika-premysl-sokoban-remodeled.cz
+Date: September 2013 JD, 2013.9.10 PZ
+
+     ##########
+     #     .$ #
+  #### #### # #####
+  #    #  # #     #
+  # ####  # #.### #
+  # #  #  # #$  # ###
+### # $$$ # # $ #   #
+#   .$   $#.$ $#### #
+#$#####$..*.. $   # #
+#.     ...#..$    # #
+# ######*###*###### #
+# #    $..#...     .#
+# #   $ ..*..$#####$#
+# ####$ $.#$   $.   #
+#   # $ # # $$$ # ###
+### #  $# #  #  # #
+  # ###.# #  #### #
+  #     # #  #    #
+  ##### # #### ####
+      # $. @   #
+      ##########
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 7 #27 a
+Comment: added 4 boxes, redraw map
+Date: 2013.9.17
+
+ #####
+ #   #
+ # #$#####
+ #   #   #
+ # * ... #
+ # * # # #
+ # * # $ #
+ # * # ###
+ # *$# #
+ # . # #
+ # * # #
+ # * # ##
+##$* #  #
+#  * ##*##
+#  * . $ #
+#  * # @ #
+##########
+Author: TIAOA + Jordi Domenech
+Title: SBM 1+ final
+Comment: simplification, major changes
+Date: 2013.9.23
+
+#######
+#     ######
+# #$*      #
+# # * #*** #
+# # *  *@* #
+#   ** * * #
+#### *   * #
+   # ****# #
+   #     . #
+   #########
+Author: Eric F. Tchong + Jordi Domenech
+Title: Dushi 5 #17 Grass hopper - a
+Comment: stoned a box/goal, added a wall, moved a box/goal, added 2 floors
+Date: 2013.9.30
+
+#######
+#     ######
+# #$*$     #
+# # . #*** #
+# # *  *@* #
+#  .** * # #
+#### *   # #
+   # ##### #
+   #       #
+   #########
+Author: Eric F. Tchong + Jordi Domenech + Premysl Zika
+Title: Dushi 5 #17 Grass hopper - d
+Comment:
+JD (version a): stoned a box/goal, added a wall, moved a box/goal, added 2 floors
+PZ (b-d): based on a, stoned 6 boxes/goals, moved a goal and a box
+URL: www.zusbreznice.cz/rozvrhy-zika-premysl-sokoban-remodeled.cz
+Date: 2013.9.30 JD, 2013.10.25 PZ
+
+                   ####
+  ##################  #
+  #  # $ $ $ $ $ $ $  #
+  # *.........+....## #
+  # .################ ##
+  ##.# $ $ $ $ $   $   #
+   #.#           #     #
+####.############## #$##
+#   .#####    #   # $ #
+#.*....  # #      # # #
+#  ####$ # # ### ## # #
+# #      # # $ # ## # #
+# $  $ $ # # # # ## # #
+####.##### # $ # ## # #
+   #       # #   ## # #
+   #  # # ##$### ## # #
+   #### # $ $ # $     #
+      #       #   #####
+      #############
+Author: TIAOA + Jordi Domenech
+Title: SBM 32+
+Comment: added 3 boxes, major changes
+Date: 2013.10.4
+
+                   #####
+  ##################   #
+  # .# $ $ $ $ $ $ $   #
+  # ...............## ##
+  # .################ ##
+  ##.# $ $ $ $ $   $   #
+   #.#           #     #
+####.############## #$##
+#@ *. #  #    #   # $ #
+#.**.... # #    $ # # #
+#..####$ # # ### ## # #
+# #      # #   # ## # #
+# $  $ $ # # # # ## # #
+#### ##### # $ # ## # #
+   #       # #   ## # #
+   #$ # #$##$###$## # #
+   #  # # $ $ # $     #
+   ####       #   #####
+      #############
+Author: TIAOA + Jordi Domenech + anian + gyjgw
+Title: SBM 32+ a5x
+Comment:
+JD (SBM 32+): added 3 boxes, major changes
+anian (a2-a3): based on SBM 32+, added 2 boxes
+gyjgw (a5x): based on a3, added 2 boxes, 5 floors
+Date: 2013.10.4 JD, 2013.10.7 anian, 2013.10.9 gyjgw
+
+                   ####
+  ##################  #
+  #  # $ $ $ $ $ $ $  #
+  # *.........+....## #
+  # .################ ##
+  ##.# $ $ $ $ $   $   #
+   #.#           #     #
+####.############## #$##
+# .  ######  ## . # $ #
+#.$.     #        # # #
+# .####$ # # ### ## # #
+# #      # # #   ## # #
+# $  $ $ # # # # ## # #
+#### ##### # # # ## # #
+   #       # # $ ## # #
+   #  # # ##$### ## # #
+   #### # $ $ # *   . #
+      #       #   #####
+      #############
+Author: TIAOA + Jordi Domenech + Premysl Zika
+Title: SBM 32+ b
+Comment:
+JD (SBM 32+): added 3 boxes, major changes
+PZ (b): based on SBM 32+, removed a box, rearranged some goals, several changes in the central area
+URL: www.zusbreznice.cz/rozvrhy-zika-premysl-sokoban-remodeled.cz
+Date: 2013.10.4 JD, 2013.10.24 PZ
+
+#################
+#@      #       #
+# * * ***** . * #
+# *** *   * *** #
+# $ * *   *   * #
+### # ***** # ###
+  # ### ##### #
+  # #   #   # #
+  # #       # #
+  # ##.###### ##
+  #          $ #
+  ##########   #
+           #####
+Author: Yang Chao + Jordi Domenech
+Title: 404 Not found - To Yang Chao
+Comment: added a box, a wall, major changes at the bottom
+Date: 2013.10.30
+
+#####
+# @ #
+##$ #####
+# *     ######
+# * *** #    #
+# * * * #  # #
+# * * *****  #
+# * *     *  #
+# * * #   *# #
+# * * *****  #
+# * * * #    #
+# * * * ######
+# * * * #
+# * * * ###
+# * * *   #
+# *** **. #
+#         #
+###########
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 8 #24 a
+Comment: just moved a wall
+Date: 2013.11.8
+
+#####
+# @ #
+##$ #####
+# *     ######
+# # ### ##   #
+# # # # #  # #
+# # * *****  #
+# * *     *  #
+# * * #   *# #
+# * # *****  #
+# * # . #   ##
+# * #$.$#####
+# * # . #
+# * #$.$###
+# * # .$  #
+# *** **. #
+#         #
+###########
+Author: David Buchweitz + Jordi Domenech + Premysl Zika
+Title: Chrysalis Collection 8 #24 b
+Comment:
+JD (version a): just moved a wall
+PZ (b): based on a, stoned many boxes/goals, added 2 walls, rearranged some boxes
+URL: www.zusbreznice.cz/rozvrhy-zika-premysl-sokoban-remodeled.cz
+Date: 2013.11.8 JD, 2013.11.14 PZ
+
+        ####
+ ########  ###
+ #           #
+ # #######.# #
+## #  ...  # #
+#  #  $$$  # #
+# #####@#### #
+# #   $$$  # #
+# #   ...  # #
+# ##$####### #
+#            #
+####  ########
+   ####
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 8 #13 a
+Comment: stoned 2 floors
+Date: 2013.11.13
+
+          ####
+          #  #
+###########$ #
+#            #
+#.********** #
+#         @# #
+#.********** #
+# $          #
+###########  #
+          #  #
+          ####
+Author: TIAOA + Jordi Domenech
+Title: SBM 82 a
+Comment: reduced map, stoned a box/goal and 2 floors, moved a box
+Date: 2013.11.30
+
+####
+#  ############
+# $* .        #
+#  #.######## #
+## #  .   # $ #
+ # #  ### # # #
+ # ## # # .   #
+ # ##$# ## ## #
+ # #  #  # ## #
+ # # $#  # ## #
+ # #  #  # ## #
+ # # $#  # ## #
+ # #  #  # ## #  #####################
+ # # $#  # ## #  # *** *** *   * *** #
+ # #  #  # ## #### *   *   *   *   * #
+ # # $#  # ## #  # *   *   *   *   * #
+ # #  #  # ## #  . **  **  *   * *** #
+ # # $#  # ## #  # *   *   *   * *   #
+ # #  #  # ## #  # *   *   *   * *   #
+ # # $#  # ## ## # *   *** *** * *** #
+ # #  #  # ## ## ################## ###
+ # # $#  # ## #  #  *** ***  *  * * #.#
+ # #  #  # ## #  #    * * *  *  * * #.#
+ # # $#  # ## #  #    * * * **  * * #.#
+ # #  #  # ## #  .  *** * *  *  *** #.#
+ # # $#  # ## #  #  *   * *  *    * # #
+ # #  #  # ## ##### *   * *  *    * # #
+ # # $#  # ## #   # *** *** ***   * . #
+ # #  #  # ## # # #### ############## #
+ # # ##### ## # .      #            # ####
+ # #     # #  ## ## #  #            # #  #
+ # ## ##   #     ## #################    #
+ # #  ####*##### # *                  #  #
+ # # *  #    * # #   ##################*##
+## #  #    # # # #####               *   #
+#  ######### #         ###############   #
+#       @   .# #########             #####
+############   #
+           #####
+Author: Eric F. Tchong + Archanfel + Jordi Domenech
+Title: Feliz 2014+++
+Comment:
+Archanfel (version +): some changes that force to cross the words "FELIZ 2014"
+JD: based on Archanfel's version, added 15 boxes, major changes
+Date: 2013.12.13 Archanfel, 2013.12.19 JD
+
+#######################
+#  #*** *** * $ . *** #
+#.$#*   * # * $ * # * #
+#  #*   * # *   *   * #
+#.$ *** *** *   *  ** #
+#  #*   *   * # * *   #
+#.$#* # *   * # * *   #
+#  #*   *** *** * *** #
+#.*################ ###
+#  # *** ***  * * * #.#
+#.$#   * * *  * * * #.#
+#  #   * * * ** * * #.#
+#.$. *** * *  * *** #.#
+#  # *   * *  *   * #.#
+#.$# *   * *  *   * #.#
+#  # *** *** ***  *  .#
+####### #############.#
+# $ $ $ $ $ $ $ $ # $ #
+#                    @#
+#######################
+Author: Eric F. Tchong + Archanfel + Jordi Domenech + laizhufu
+Title: Feliz 2014 a
+Comment:
+Archanfel (version +): some changes that force to cross the words "FELIZ 2014"
+JD: (version +++): based on Archanfel's version, added 15 boxes, major changes
+laizhufu: based on JD's version, removed most of the level except the area FELIZ 2014, rearranged many goals, added 6 walls
+URL: sokoban.org/level.php?id=140
+Date: 2013.12.13 Archanfel, 2013.12.19 JD, 2013.12.27 laizhufu
+
+  #####
+  #   #
+ ##$@$#
+ # ...#
+ # $. #
+ ##$.$#
+  # . #
+  #$.$#
+  # . #
+  #$.$#
+  # . #
+  #$.$#
+  # . #
+  #$.$#
+  # . #
+  #$.$#
+  # . #
+ ## #$#
+ #    #
+ # $ $###
+###..* ##
+###    ##
+#########
+Author: Eric F. Tchong + Jordi Domenech
+Title: Chuchubi 8 #40 Big one - a
+Comment: stoned a box/goal, rearranged all boxes
+Date: 2013.12.30
+
+       ####
+########  #
+#   ..... #
+# $ $  #* #
+##$#####. #
+# $     . #
+# $  ##.* #
+# # $$   ##
+# ## $####
+#  @  #
+#######
+Author: dahkjdas + Jordi Domenech
+Title: da君的58关卡 #16 a
+Comment: redraw map, major changes
+Date: 2014.1.21
+
+ #########
+ #       #
+## ##### #
+#   .. #$##
+# $##.$ @ #
+#  #..# # #
+# $#.*# $ #
+#  #..# $ #
+## #.*# $ #
+#  #..# $ #
+#  $ ##$$ #
+####      #
+   ########
+Author: Eric F. Tchong + Jordi Domenech
+Title: Atlas 2 #70 Little gem stones 2 - a
+Comment: deleted a box/goal, added 3 walls, rearranged some boxes
+Date: 2014.2.11
+
+####
+#  ###############
+# $              #
+# .############  #
+##.*.*.*.*..  # ##
+# ..........$ # #
+# ##$#$#### ### #
+#    $@     $ # #
+# $$  $$$$$$  # #
+#  $ $          #
+##############$ #
+             #  #
+             ####
+Author: Eric F. Tchong + Jordi Domenech
+Title: Chuchubi 5 #14 Gladiator valley - a
+Comment: reduced map, major changes
+Date: 2014.2.11
+
+####
+#  ###############
+# $              #
+# .############  #
+##.*.*.*.* ..## ##
+# ........ * ## #
+# ##$#$#### ### #
+#    $@     $ # #
+# $$# #$$$$$  # #
+#  $  $         #
+##############$ #
+             #  #
+             ####
+Author: Eric F. Tchong + Jordi Domenech + Premysl Zika
+Title: Chuchubi 5 #14 Gladiator valley - b
+Comment:
+JD (version a): reduced map, major changes
+PZ (b): based on a, removed a box, added 2 walls, stoned 2 floors
+URL: www.zusbreznice.cz/rozvrhy-zika-premysl-sokoban-remodeled.cz
+Date: 2014.2.11 JD, 2014.9.28 PZ
+
+   #########
+   #   #   #
+   # $     #
+  ###$### ##
+  # @ #   #
+###...$ # #
+# .***#   #
+# #...# ###
+# #   #$##
+# # $  $ #
+# ##$#   #
+#    #####
+######
+Author: monry + Jordi Domenech
+Title: monry-light #102 一体問題シリーズ (a)
+Comment: added a box, major changes
+Date: 2014.2.18
+
+    ########
+    #   #  #
+    # $  $ #
+   ###$##  #
+#### @ #  ##
+#  #...#   #
+#   ***  # #
+#  #...#   #
+## #   #$###
+ # # $  $ #
+ # ##*#   #
+ #    #####
+ ######
+Author: monry + Jordi Domenech
+Title: monry-light #102 一体問題シリーズ (b)
+Comment: added a box, major changes
+Date: 2014.2.18
+
+     #########
+   ###  @    ####
+#### $$##### #  #
+#  # $  $ $  $  #
+# $    ##.#$ #  #
+#  ######....# ##
+## # .....#$ # #
+#  #  ###.  ## #
+#    $### #### #
+#  # $         #
+#############  #
+            ####
+Author: A1master + Jordi Domenech
+Title: 1,000,001 candlelights #27 1990 - a
+Comment: major changes
+URL: sokoban.org/level.php?id=179
+Date: 2014.3.30
+
+#########
+#       ##
+#.** *** #
+# *  * * #
+# *  * * #
+# * #* * #
+# *  * * #
+# *  *@* ##
+#*** ***  #
+#       $ #
+########  #
+       ####
+Author. Eric F. Tchong + Jordi Domenech
+Title: Dushi 7 #57 IQ for gamers - a
+Comment: stoned 10 floors, added a wall
+Date: 2014.5.2
+
+ #####
+##   #   ####
+#  #.#####  #
+#   .*.* $  #
+#  #.  $@#  #
+#  #.### #$##
+# $ .  $ # #
+## ####### ##
+#         $ #
+#   #####   #
+#####   #####
+Author: Thomas Reinke + Jordi Domenech
+Title: TBox #50 a
+Comment: added a box and a wall, major changes at the bottom
+Date: 2014.6.7
+
+##### ####
+#  .###  #
+#  .$  . #
+###.###.$######
+  #.#  .$  .  #
+  # ## .###.# ###
+  # #   # # $   #
+ ## ###$# # ### #
+ # $$ @ # # #   #
+ #    # ### ## ##
+ ###  # $   #  #
+   ######## # ###
+         # $$   #
+         #  #   #
+         #  #####
+         ####
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 9 #50 EOF - a
+Comment: added 4 boxes, some changes
+Date: 2014.6.22
+
+############
+#          #
+# ######## #
+# #      # #
+# #.**** # #
+#  *   * # #
+## * # * # #
+ # * #@* # #
+ # ****$   #
+ #       ###
+ #########
+Author: Sven Egevad + Jordi Domenech
+Title: SE 134 a
+Comment: added a wall inside the square, some changes
+Date: 2014.8.16
+
+   ##############
+  ##      #     #
+  #  $$$  # #   ##
+  # $   $ # #    #
+  # $ # $ # #..# #
+  # $$$$$ # #..# #
+  # $ # $ # #  # #
+  # $   $.#    # #
+  #  #@# .#      #
+#########.## #####
+#       # ... #
+#         ... #
+######### ... #
+        #######
+Author: A1master + anian + Jordi Domenech
+Title: 1,000,001 candlelights #59 Four dots - b
+Comment:
+anian (version a): added a wall to N3
+JD (b): based on a, deleted all the top, added some walls and redraw map
+Date: 2014.10.9 anian, 2014.10.31 JD
+
+ ######
+ #    ##############
+ # ## #            #
+ # # .# ########## #
+ # #$ #$ $ $ $ $ # #
+ # # .# . . . . .  #
+ # #$ #  ### #######
+ # # .  .# $   $  #
+ # #$ #$ $. . . # #
+ # # .# .##$## $# #
+ # #$ ##$##. #. # #
+ # # . . .$ $# $# #
+ #  $   $ #.  . # #
+#######@###  # $# #
+#  . . . . . #. # #
+# # $ $ $ $ $# $# #
+# ########## #. # #
+#            # ## #
+##############    #
+             ######
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 9 #8 a
+Comment: added 4 walls
+Date: 2014.11.3
+
+ #########
+ #   #   #          ####
+ #   *   ############  #
+ ## ### #  . . . . .   #
+  #. ## # $ $ $ $ $ #  #
+  # $# .# ###########*##
+  #. #$ #$ $ $ $ $ ##  #
+  # $# .#.. . . . .    #
+  #. #$ #$ # ########  #
+  # $# .#  # $ $.$   ###
+  #. #$ #$ #.   . #$ #
+  # $# .@ .##### $# .#
+  #. #$ #####.  . #$ #
+  # $# .   .# $# $# .#
+###   $.$ $ #  #. #$ #
+#  ######## # $# $# .#
+#    . . . . ..#. #$ #
+#  ## $ $ $ $ $# $# .#
+##*########### #. #$ #
+#  # $ $ $ $ $ # ## .#
+#   . . . . .  # ### ##
+#  ############   *   #
+####          #   #   #
+              #########
+Author: David Buchweitz + Jordi Domenech + anian + Tian Lang
+Title: Chrysalis Collection 9 #8 a4
+Comment:
+JD (version a): added 4 walls
+anian (a3): based on a, added 4 walls, moved 4 goals
+TL (a4): based on a3, extension, added 24 boxes
+URL: sokoban.org/level.php?id=404
+Date: 2014.11.3 JD, 2014.11.4 anian, 2014.11.6 TL
+
+     #####
+     #   #######
+     # #       #
+     #  ###### #
+ ######$ $ $ # #
+ #    #  ...   #####
+ # ## #$.# #####   #
+ # #  #  # $ $ $ # #
+ # #$.#$.# . .  #  #
+ # # .@  #####.$# ##
+## #$.#####   . # #
+#  #  . . #.$#.$# #
+# # $ $ $ #  #  # #
+#   ##### #.$# ## #
+#####   ...  #    #
+    # # $ $ $######
+    # ######  #
+    #       # #
+    #######   #
+          #####
+Author: David Buchweitz + Jordi Domenech + anian + Premysl Zika
+Title: Chrysalis Collection 9 #8 a5
+Comment:
+JD (version a): added 4 walls
+anian (a3): based on a, added 4 walls, moved 4 goals
+PZ (a5): based on a3, removed 8 boxes, rearranged goals, some changes
+Date: 2014.11.3 JD, 2014.11.4 anian, 2014.11.9 PZ
+
+                   #
+ ############     # #
+ #          ##### # #
+ ############   #  #
+ # . . . . .  . #  #
+ # $ $ $ $ $ # ##  #
+## ########### #   #
+# . . . . . ## ######
+# $ $ $ $ $ ## #   #
+########### ## #   #
+ # . . . . . # ##  #
+ # $ $ $ $ $ # # # #
+ ########### # #  ##
+ # $           #   #
+ # @ ########  #
+ #####      ####
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 9 #10 a
+Comment: added a box, major changes at the top
+Date: 2014.11.3
+
+      ##########
+      #        #
+      # ###### ##     #####
+      #      #  #######   #
+    ### #$## ## ##   $  # #
+    #   $.$   # #   $.# # #
+    # #$...$# # # #$..  # #
+    # $..$..$ # # $..$# # #
+  ###$..$@$..$# #$..$ # # #
+ ## $..$ # $..$ $..$#     #
+## $..$ ### $..$..$   #####
+#  ..$ ## ## $...$#####
+# #.$ ##   ## $.$ #
+#  $ ##     ## $  #
+##  ##       #  ###
+ ####        ####
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 9 #31 a
+Comment: added 7 walls
+Date: 2014.11.4
+
+     ###########
+  ####         ####
+  #  # ####### #  #
+  #  $         $  #
+  # ######$###### #
+  # #     $     # #
+  # #. $ #$# $ .# #
+### #.####.####.# ###
+# $. .    @    . .$ #
+#   # ######### #   #
+##### #   #   # #####
+    # # $ * $ # #
+  ### ###.#.### ###
+  #       #       #
+  #  ###  #  ###  #
+  #### #  #  # ####
+       #######
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 9 #35 a
+Comment: added 2 boxes, moved a goal
+Date: 2014.11.5
+
+     #################
+  ####               ####
+  #  # #############    #
+  #  $ $ $ $ $ $ $ #### #
+ ## # #. .$. . . . .  # #
+##    ## ####.#$##$#  # #
+#  #   $.#  $$#    #  # #
+# #### $. .##.##.#+ *## #
+# #  ###*###.    ###  # #
+# #          #*#   $  # #
+# # $######### #####  . #
+# #                ##*###
+# ###########  # #    #
+#           #### ######
+###########      #
+          ########
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 9 #44 a
+Comment: added 2 boxes, stoned 2 floors, small change at the top
+Date: 2014.11.6
+
+       ########
+########  #.  #
+#  ##  #    # #
+# $#        # #
+#  #   ###.## ####
+# $## ##....# #  #
+#   #  #....# #$ #
+#   #  #....# #  #
+##$ #  #....# #$ ##
+ #  ##### ###     #
+ #$ $ $ #  $   #$ #
+ #  $ $ #@#$####  #
+ #$        $ $ $$ #
+ #  ########      #
+ ####      ########
+Author: Sven Egevad + Marek Letrab + zhenying + Jordi Domenech
+Title: SE 10 a3
+Comment:
+ML (version a): four floors replaced by 4 boxes, stoned 2 floors
+zhenying (a2): based on a, deleted 3 boxes, major changes at the bottom
+JD (a3): stoned 4 floors, added a wall, moved a box
+Date: 2008.5.8 zhenying, 2014.11.22 JD
+
+       ####
+       #  #
+       #  #
+       #  #
+######### #
+#   $ $ $$#
+#@  $..*. #
+#### *...$#
+   #$...* #####
+   # .*..$#   #
+   #$$ $ $    #
+   # ##########
+   #  #
+   #  #
+   #  #
+   ####
+Author: David W. Skinner + Jordi Domenech
+Title: Sasquatch V #30 a
+Comment: stoned 5 floors
+Date: 2014.11.24
+
+         ####
+         #  #
+         #  #
+         #  #
+########### #
+#   $ $.* $$#
+#@  $..*.*. #
+#### *  $ .$#
+   #*.$   *.#
+   #.*   $.*#
+   #$. $  * #####
+   # .*.*..$#   #
+   #$$ *.$ $    #
+   # ############
+   #  #
+   #  #
+   #  #
+   ####
+Author: David W. Skinner + Jordi Domenech
+Title: Sasquatch V #31 a
+Comment: stoned 5 floors
+Date: 2014.11.25
+
+      ####
+ ######  ###
+ #         #
+ #*.*****  #
+##*$    * ##
+# . ### * #
+# * * * * #
+# * * + * #
+# * * $ * #
+# $####*# #
+#         #
+###########
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 10 #9 a
+Comment: major changes
+Date: 2014.11.30
+
+            #####
+     #####  #   ##
+     #   #### *  #
+     #  *$  # *  #
+     ##  **   ** #
+      ##  **   * #
+       # # **  * ####
+       #     ****   #
+       #### **   ** #
+          # *  .. * #
+###########  *.  ** #
+#   #       #* ***  #
+# *   ####### * *  ##
+# **       #  * *  #
+#   *** ##   *  ** #
+# # * ***   ** # * #
+# # *   ****   # * #
+# # *$  #  ##### * #
+# #  **          * #
+#  #  * *********$ #
+## # * *     *  *  ##
+ #  *   * ## *# **  #
+ # * ## * ## *   ** #
+ # * ## * ## * #  * #
+ # *    *    *   @* #
+ ####################
+Author: Eric F. Tchong + Jordi Domenech
+Title: Rudolph the red-nose reindeer - a
+Comment: added 9 walls
+Date: 2014.12.2
+
+            #####
+      ####  #   #
+      #  #### * ##
+      # *$  # *  #
+      #  **   ** #
+      ##  **   * #
+       # # **  # ####
+       #     ****   #
+       #### *#   *# #
+          # *  #. * #
+###########  *.  #* #
+#   #       #* *#*  #
+# * #$####### * *# ##
+# **.      #  * *  #
+#   *#*#*#   *  ** #
+# # * #*#*#*#*#* * #
+# # *   *#*#*#*# * #
+# # *$  #*#*#*#* * #
+# #  *#          * #
+#  #  * ********** #
+## # * *     *  *  ##
+ #  *   *### *# **  #
+ # *### *# # *###** #
+ # *# # *# # *# # * #
+ # *# # *# #@*# # * #
+ #### #### #### #####
+Author: Eric F. Tchong + Jordi Domenech + anian + laizhufu
+Title: 梅花鹿 (Chital deer) MF8 67th Sokoban Competition, Extra
+Comment:
+JD (version a): added 9 walls
+anian + laizhufu (梅花鹿): based on a, stoned all the central area and 7 boxes/goals, added many walls, moved a goal
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=103773
+Date: 2014.12.2 JD, 2014.12.12 anian/laizhufu
+
+       ###########
+      ##  $. . $ ##
+   ####  * ### .$ ####
+ ###   . $## ## .$.  ###
+##   * #$.#   #.$##.$  ##
+# $. # #  #   #  ####.$ #
+#   ##$#$.#   #.$#  #   #
+##$.#       #       #.$##
+#   #  #$.#   #.$#$##   #
+# $.####  # @ #  # # .$ #
+##  $.##$.#   #.$# *   ##
+ ###  .$. ## ##$ .   ###
+   #### $. ### *  ####
+      ## $ . .$  ##
+       ###########
+Author: Eric F. Tchong + Jordi Domenech
+Title: Dushi 9 #1 Return to Sorrento - a
+Comment: added 2 boxes, 3 walls
+Date: 2014.12.5
+
+           #
+          # #
+         #   #
+        #  *  #
+       #  * *  #
+      #  * $ *  #
+     ## * $#$ * ##
+    #  * * $ * *  #
+   #  # . * * . #  #
+  #  # # . * . # #  #
+ #  #   # * * #   #  #
+#  #     # @ #     #  #
+ #  #   # * * #   #  #
+  #  # # . * . # #  #
+   #  # . * * . #  #
+    #  * * $ * *  #
+     ## * $#$ * ##
+      #  * $ *  #
+       #  * *  #
+        #  *  #
+         #   #
+          # #
+           #
+Author: David W. Skinner + York Shen + Marek Letrab + Jordi Domenech
+Title: Sasquatch VII #48 d+
+Comment:
+YS+ML (version d): added 8 boxes
+JD (d+): based on d, stoned two diamonds
+Date: 2004.1.5 YS+ML, 2014.12.16 JD
+
+       *
+    *## ##*
+    #  #  #
+    #  $  #
+    # $#$ #
+     #.#.#
+    #  #  #
+    #  #  #
+   *#..*..#*
+   ##$$#$$##
+    #  #  #
+   *## # ##*
+   #   #   #
+  *#...*...#*
+  ##$$$#$$$##
+   #   #   #
+    ## # ##
+  *#   #   #*
+ *#....*....#*
+ ##$$$$#$$$$##
+  #    #    #
+   ### # ###
+ *# $  #  $ #*
+ #..... .....#
+*#$$$$$#$$$$$#*
+##     #     ##
+ ####. + .####
+    #######
+Author: A1master + Jordi Domenech
+Title: 1,000,002 candlelights #21 Elka (Merry Christmas) - a
+Comment: added a box, moved 2 goals, stoned 4 floors
+Date: 2014.12.25
+
+      ####
+ ######  #
+ #    #$.#
+## ## #  #
+# $ $$$$ #
+#.*.*.*..#
+#    @   #
+#  #######
+####
+Author: David W. Skinner + Jordi Domenech
+Title: Sasquatch VI #12 a
+Comment: stoned 2 floors
+Date: 2014.12.27
+
+  ######
+  #   @####
+  # ##$$  #
+###.#   # #
+#  $#.#$  #
+#   ...  ##
+###$#.#$ #
+  #     ##
+  ###  ##
+    ####
+Author: David Holland & sokgen + Jordi Domenech
+Title: dh1 #3 CrissCross - a
+Comment: added a wall
+Date: 2015.1.12
+
+   ####
+ ###  #####
+## $    $ #
+# $ $ #.# #
+# ## #..# #
+# #  ...# #
+# #   $ $@#
+# ## ######
+#    #
+######
+Author: David Holland + Jordi Domenech
+Title: Maelstrom Collection #6 a
+Comment: stoned 2 floors, moved 2 goals
+Date: 2015.1.13
+
+    #######
+#####     #
+#     ### #
+#  #### $ ###
+# $   # #   #
+# $@# #.$.  #
+# $$$ ..## ##
+### ###.## #
+  # # ...  #
+ ## #$## ###
+ # $.$.  #
+ #     ###
+ #######
+Author: David Buchweitz + Jordi Domenech
+Title: One
+Comment: based on Chrysalis Collection 10 #13, major changes
+Date: 2015.1.14
+
+        ####
+#########  ##
+#   #       #
+# $   $@$   #
+##$###*########
+ # #  *    #  #
+ # #  * **....#
+ # # #* *  #  #
+ # #  *** ## ##
+## #      ## #
+#  ######### ##
+#           * #
+#  ########   #
+####      #####
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 10 #23 a
+Comment: extension, major changes
+Date: 2015.2.1
+
+   #########
+   #       #
+#### ***** ####
+#  # *   * #  #
+# $$$*   *... #
+#  # *   * #  #
+## # ***** # ##
+ # #   @   # #
+ # ######### #
+ #           #
+ #############
+Author: kazuo + monry + Jordi Domenech
+Title: Move it
+Comment: extension
+Date: 2015.2.18
+
+###########
+#   #.    #
+# $  .#  $##
+# ###* # * #
+#    * # * #
+#### * # * #
+   # *   * #
+   # ***** #
+   #@      #
+   ######  #
+        ####
+Author: Sven Egevad + Jordi Domenech
+Title: SE 133 a
+Comment: added 3 walls, deleted a wall, added 2 floors
+Date: 2015.2.23
+
+  #####
+  #   #####
+### *  $  #
+#   *  *  ##
+# ***  *** #
+### ####   #
+ ## #@ # ###
+ #  #  # #
+ #  #*## ###
+ #  *  *   #
+ #***  ***.#
+ #         #
+ ###########
+Author: Eric F. Tchong + stopheart + Jordi Domenech
+Title: Chuchubi 12 #6 Game fudge - b1
+Comment:
+JD (version a): stoned 5 floors, added 2 floors on the left side, moved a goal
+stopheart (b): based on a, added 2 walls
+JD (b1): based on b, stoned the central area, added a wall
+Date: 2010.10.30 JD, 2010.10.31 stopheart, 2015.2.23 JD
+
+     #########
+     #       #
+###### ##### #
+#      #  #  #
+# ###### *$* #
+#        * * #
+## ****  * * #
+ # *  *  * * #
+ # * .**** * #
+ # *       * #
+ # ********* #
+ #     @     #
+ #############
+Author: Eric F. Tchong + A1master + Jordi Domenech
+Title: 1,000,001 candlelights #55 Dushi 05 small J-pond - a
+Comment: based on A1master's version, moved a wall, major changes at the top
+Date: 2015.4.22
+
+###################################
+#...    ...  ...  ...  .... $  ...#
+# #### #   # ###  # #####$ $ #  $ #
+# #   $ # #  #  # #$ $  # $ # #$ $#
+#  # $@$# #  #  # # $  # $  # # $ #
+##  # $ # # $###  #   # $  # # # ##
+#  # $ $ # $ #   $#  # $ $ #   #  #
+# #   $  #$ $#$ $ # #     # $ $ # #
+# #### $ # $ # $ $# ##### #$ $  # #
+#...   ....  ...$ ...  ...     ...#
+###################################
+Author: Jordi Domenech
+Title: Syriza - Tribute to Syriza and the Greek people
+Date: 2015.5.2
+
+#############
+#     @     #
+# *#*****#* #
+# *       * #
+# #   #   # #
+# * ***** * #
+# * *   * * #
+# # *   * # #
+# * #*.*# * #
+# *  * *  * #
+# **#*$*#** #
+#     #     #
+#############
+Author: Sven Egevad + Jordi Domenech
+Title: SE 905 a
+Comment: stoned 10 boxes
+Date: 2015.5.5
+
+  #######
+  #  *  #
+ ## *** ##
+##   *   ##
+## * * *  #
+#@*.***.* #
+#  * * * ##
+##   *   ##
+ ##  *  ##
+  ###.###
+  # $.$ #
+  # $.$ #
+  # $.$ #
+  #     #
+  #######
+Author: Sven Egevad + Jordi Domenech
+Title: SE 913 c
+Comment: added 2 walls
+Date: 2015.5.5
+
+##############
+#            #
+# #####.#### #
+# # $ $ $  # #
+# # .*.*. $# #
+# #$..$ .* # #
+# * *   $.$# #
+# #$.$   * * #
+# # *. $..$# #
+# #$ .*.*. # #
+# #  $ $ $ # #
+# ####*##### #
+#           +#
+##############
+Author: David W. Skinner + Jordi Domenech
+Title: Sasquatch XII #37 a
+Comment: added 3 boxes
+Date: 2015.5.6
+
+ ####
+ #  ########
+ #  $ $ $  #
+ # #.....# #
+ # .$$#  . ##
+ #$.$@$ #.  #
+ # .#$$$$*$ #
+##$.  #  . ##
+#  #.....# #
+#    $ $ $ #
+#########  #
+        ####
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 10 #29 a
+Comment: added 2 walls, stoned 2 floors
+Date: 2015.5.6
+
+    ####      ####
+  ###  ########  #
+  #    # $     $ #
+  #  #.$ $# ###  #
+  ## #. .$.   # ##
+   # #. .$.## # #
+   # #.#+#.#  # #
+#### #.$.$.# ## ##
+#    #.$.$.# ##  #
+#  # $$$$$.#     #
+## #    #  # #####
+#  #########  #
+# $         $ #
+#  #########  #
+####       ####
+Author: David Buchweitz + Jordi Domenech
+Title: Chrysalis Collection 10 #37 a
+Comment: added a box, stoned 3 floors, moved 3 boxes to the corners, minor changes
+Date: 2015.5.7
+
+ ############
+##          #
+# $######## #
+#         # #
+# *###### # #
+# *     # # #
+# * *** # # #
+# * * * # # #
+# # * . # # #
+# * *   # # #
+# * ##### # #
+# *       # #
+# *######## #
+#     @     #
+##  #########
+ ####
+Author: Eric F. Tchong + Jordi Domenech
+Title: Dushi 10 #26 Game room parlor (A)
+Comment: stoned 5 boxes/goals, added a wall, added 2 floors at the bottom. The wall in C9 is a idea of stopheart + gyjgw
+Date: 2015.5.22, 2015.6.6
+
+ #####
+ #   #########
+ #           #
+ ##$######## #
+ #         # #
+ #**###### # #
+ # *     # # #
+ # * *** # # #
+ # * * * # # #
+ # * * . # # #
+## * *   # # #
+#  * ##### # #
+#  *       # #
+## **####### #
+ #     @     #
+ #############
+Author: Eric F. Tchong + Jordi Domenech
+Title: Dushi 10 #26 Game room parlor (B)
+Comment: stoned 3 boxes/goals, added a box, major changes at the top and the right side
+Date: 2015.5.22
+
+        #####
+        #   ##
+        #    #
+##########*# #
+#          # #
+#  ####### # #
+## *     # # #
+ # * *** # # #
+ # * * * # # #
+ # * * . # # #
+ # * * $ # # #
+ # * ##### # #
+ # *       * #
+ # *######*# #
+ #     @     #
+ ##  #########
+  ####
+Author: Eric F. Tchong + Jordi Domenech
+Title: Dushi 10 #26 Game room parlor (D)
+Comment: major changes
+Date: 2015.5.23, 2015.6.6
+
+ ###########
+ #         ##
+ # ####***  #
+ # *     *  #
+ # * *** # ##
+ # # # * # #
+ # # # . # #
+ # # * $ # #
+## # ##### #
+#  * #   # #
+# $. #     #
+## ** #.####
+ #  @  $ #
+ #####   #
+     #####
+Author: Eric F. Tchong + Jordi Domenech
+Title: Dushi 10 #26 Game room parlor (E)
+Comment: major changes
+Date: 2015.6.10
+
+#####
+#   #########
+#           #
+##*######## #
+#         # #
+#**###### # #
+# . #   # # #
+# *$#     # #
+# * ## ## # #
+# *     # # #
+# * #   # # #
+# * ##### # #
+# *       # #
+# ######### #
+#     @     #
+#############
+Author: Eric F. Tchong + Marko Dzekic + Jordi Domenech
+Title: Dushi 10 #26 remodel a
+Comment:
+MD: based on version (B), stoned the central area, deleted a box and moved a box
+JD: based on MD's version, added a box, open the central area, stoned 2 floors and 2 boxes/goals
+Date: 2015.5.30
+
+ #############
+##@          #
+#  *.*.*.*.* #
+# $.$ $ $ $. #
+## *$#####$* #
+ # . #     * #
+ # *$# # #$* #
+ # * .   # . #
+ # *$##### ###
+ # .$ $ $  #
+ # *.*..####
+ #      #
+ ########
+Author: Sven Egevad + Jordi Domenech
+Title: SE 1361 a
+Comment: added a box, change wall for box/goal, added a wall and 2 floors
+Date: 2015.6.2
+
+     ####
+    #   #
+   #  # ###
+  #  #  *  #
+ #  #  * *  #
+#  #  * * *  #
+# #  * * * *  #
+#   * * * * *  ####
+#  * * * * * *    #
+# * * * . * * *@$ #
+###################
+Author: Andrej Cerjak + Jordi Domenech
+Title: AC Easy #14 Triangle - a
+Comment: major changes
+Date: 2015.6.18
+
+##########
+# .  #   #
+# .    $ #
+# . ###$##
+# . #   #
+# . # # #
+# .   # #
+# . ### #
+# ....# ##
+#####$#  #
+# $      #
+# $ # #  #
+# $ # ####
+# $ # #
+# $ # #
+# $ # #
+# $ $ #
+#  ## #
+#  @  #
+#######
+Author: TIAOA + Jordi Domenech
+Title: SBM LLL 34 mini
+Comment: extreme simplification
+Date: 20015.8.5
+
+####
+#  #####
+#      ####
+# $ $  #  #####
+##### ##    $ #
+ #  #  $  #   #
+ #     ##$#####
+ # $##  # ...#
+ ## ##$ ##.#.#
+ #   #   #...#####
+ # $ #$ $#...#   #
+ ### #   #...    #
+  #  # $ $ $ ## ##
+  # $## #######  #
+  #       @      #
+  #############  #
+              ####
+Author: David W. Skinner + Jordi Domenech
+Title: Sasquatch #42 c
+Comment: arranged map
+Date: 2015.10.6
+
+          #### ####
+          #  ###  #
+          # $ $   #
+ #######  # $  $  #
+ #  #  ####   ## ##
+ # $$  #  #   $  #
+ #  #$  $ # $ #  #
+ ## #  #  ###$####
+  # #$ # #    #
+  # #  #.. $# #
+### ###  .  # ###
+# ..### @.##  * #
+# ..* ##### $ . #
+##...$     ...* #
+ #  #############
+ ####
+Author: David Holland + Jordi Domenech
+Title: Maelstrom Collection #15 g
+Comment: major changes
+Date: 2015.10.17

@@ -1,0 +1,1708 @@
+Author: Jordi Domènech
+Collection: Pufiban
+Email: jd.sokoban2020@gmail.com
+Blog: sokoban-jd.blogspot.com
+Copyright: (c) by Jordi Domènech
+Date: June 2009
+
+Author's note:
+170 authentic tiny "pufis" with only 3 or 4 boxes. Every level shows the limit of moves to solve it optimally. It is ideal for learning to play with limitation of moves.
+
+Pufiban is dedicated to Jacques Duthen and his excellent collection Sokogen (1999).
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+These levels are copyright (c) by Jordi Domènech and may be freely
+distributed for non-commercial use provided they remain unchanged,
+credited with the author's name, and provided the author is notified.
+
+License: Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported
+http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+This collection has been downloaded from my blog:
+Sokoban. The beautiful world of remodels
+http://sokoban-jd.blogspot.com/
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+ #####
+##.@ #
+# $$ #
+#.  ##
+#####
+Author: Jordi Domenech
+Title: Level 1
+Limit: 10
+
+#####
+#   ##
+#$ *@#
+#..$ #
+######
+Author: Jordi Domenech
+Title: Level 2
+Limit: 10
+
+#####
+# . ##
+#  $ ##
+##  $+#
+ ######
+Author: Jordi Domenech
+Title: Level 3
+Limit: 16
+
+  ###
+###+####
+#  $$  #
+#   .  #
+########
+Author: Jordi Domenech
+Title: Level 4
+Limit: 16
+
+  #####
+###   #
+# $   #
+#.@$.##
+######
+Author: Jordi Domenech
+Title: Level 5
+Limit: 17
+
+ #####
+ #   #
+##   #
+# $*##
+# @ .#
+######
+Author: Jordi Domenech
+Title: Level 6
+Limit: 21
+
+#####
+#  .##
+#  $@#
+##$  #
+ # . #
+ #####
+Author: Jordi Domenech
+Title: Level 7
+Limit: 22
+
+#####
+#   ##
+#   @#
+##$$ #
+#. .##
+#####
+Author: Jordi Domenech
+Title: Level 8
+Limit: 22
+
+######
+#.   ###
+# $ $  #
+# .#@  #
+########
+Author: Jordi Domenech
+Title: Level 9
+Limit: 23
+
+#####
+#.@ #
+#  $##
+# $ .#
+##   #
+ #####
+Author: Jordi Domenech
+Title: Level 10
+Limit: 24
+
+######
+# @#.#
+#$$ .#
+#.$  #
+#   ##
+#####
+Author: Jordi Domenech
+Title: Level 11
+Limit: 24
+
+#####
+#  .####
+#@$ $  #
+## .   #
+ #######
+Author: Jordi Domenech
+Title: Level 12
+Limit: 24
+
+######
+# $ .##
+#.  $ #
+#  $@.#
+#######
+Author: Jordi Domenech
+Title: Level 13
+Limit: 25
+
+######
+# . .#
+#@$$##
+##   #
+ #   #
+ #####
+Author: Jordi Domenech
+Title: Level 14
+Limit: 25
+
+######
+# .  ###
+#. $$  #
+#    *@#
+########
+Author: Jordi Domenech
+Title: Level 15
+Limit: 25
+
+ ######
+## .$ #
+#  $$ #
+#@.  .#
+#######
+Author: Jordi Domenech
+Title: Level 16
+Limit: 26
+
+######
+#.@  #
+##*$.#
+#  $ #
+#   ##
+#####
+Author: Jordi Domenech
+Title: Level 17
+Limit: 26
+
+ #####
+## . #
+# $  #
+#@$$ #
+#.# .#
+######
+Author: Jordi Domenech
+Title: Level 18
+Limit: 27
+
+#######
+#. #@ #
+#$$ $ #
+#.   .#
+#######
+Author: Jordi Domenech
+Title: Level 19
+Limit: 28
+
+######
+#.$  #
+#+$  #
+#. $ #
+#  ###
+####
+Author: Jordi Domenech
+Title: Level 20
+Limit: 28
+
+######
+#  . #
+# $ .#
+##$$ #
+#.@ ##
+#####
+Author: Jordi Domenech
+Title: Level 21
+Limit: 29
+
+   #####
+####   #
+#  $@$ #
+# .  .##
+#######
+Author: Jordi Domenech
+Title: Level 22
+Limit: 29
+
+#####
+#.  ##
+#@.$ #
+# $  #
+###  #
+  ####
+Author: Jordi Domenech
+Title: Level 23
+Limit: 30
+
+#######
+#  $..#
+#   $@#
+#  $.##
+######
+Author: Jordi Domenech
+Title: Level 24
+Limit: 31
+
+######
+#. $+#
+##$ .#
+#  $ #
+#   ##
+#####
+Author: Jordi Domenech
+Title: Level 25
+Limit: 31
+
+  ####
+###  #
+# $  #
+# .$@#
+# .$.#
+######
+Author: Jordi Domenech
+Title: Level 26
+Limit: 33
+
+ #####
+##@ .#
+#.$ .#
+#$ $ #
+#   ##
+#####
+Author: Jordi Domenech
+Title: Level 27
+Limit: 33
+
+ #####
+ #@ .#
+##$$*#
+#  . #
+#    #
+######
+Author: Jordi Domenech
+Title: Level 28
+Limit: 34
+
+#####
+# .@#
+# .$##
+# $  #
+##   #
+ #####
+Author: Jordi Domenech
+Title: Level 29
+Limit: 35
+
+#####
+#.  #
+#@ $##
+# *$ #
+#.   #
+######
+Author: Jordi Domenech
+Title: Level 30
+Limit: 35
+
+#######
+#   *.#
+# $$*@#
+#   .##
+#   ##
+#####
+Author: Jordi Domenech
+Title: Level 31
+Limit: 35
+
+ #####
+##.@.#
+# $$##
+# .$ #
+#    #
+######
+Author: Jordi Domenech
+Title: Level 32
+Limit: 36
+
+   #####
+####.* #
+# $ $  #
+# @  . #
+########
+Author: Jordi Domenech
+Title: Level 33
+Limit: 36
+
+########
+#. .$. #
+# $ $@ #
+#   ####
+#####
+Author: Jordi Domenech
+Title: Level 34
+Limit: 36
+
+  #####
+ ##   #
+##    #
+#.*$$##
+#.. $@#
+#######
+Author: Jordi Domenech
+Title: Level 35
+Limit: 36
+
+########
+#   .  #
+#@$ $  #
+#####. #
+    ####
+Author: Jordi Domenech
+Title: Level 36
+Limit: 37
+
+#####
+# $.####
+#  $@$ #
+# ..   #
+########
+Author: Jordi Domenech
+Title: Level 37
+Limit: 37
+
+ ######
+## .  #
+# $$  #
+#.$   #
+#.@#  #
+#######
+Author: Jordi Domenech
+Title: Level 38
+Limit: 37
+
+#######
+#.*   #
+#+#$  #
+# $   #
+#  #  #
+#######
+Author: Jordi Domenech
+Title: Level 39
+Limit: 37
+
+#######
+#  #  #
+#   .$#
+#  $*.#
+#   $+#
+#######
+Author: Jordi Domenech
+Title: Level 40
+Limit: 37
+
+######
+#.*  #
+#.$  #
+#@$  #
+###  #
+  ####
+Author: Jordi Domenech
+Title: Level 41
+Limit: 38
+
+######
+#.$  #
+#@$..#
+#  $ #
+#  ###
+####
+Author: Jordi Domenech
+Title: Level 42
+Limit: 39
+
+  #####
+###   #
+#@$  .#
+#.$$  #
+#. #  #
+#######
+Author: Jordi Domenech
+Title: Level 43
+Limit: 40
+
+#####
+#.*@###
+#. $$ #
+#.$   #
+###   #
+  #####
+Author: Jordi Domenech
+Title: Level 44
+Limit: 40
+
+ #####
+##. .#
+# $ ###
+# @$  #
+# .$  #
+#######
+Author: Jordi Domenech
+Title: Level 45
+Limit: 40
+
+#######
+# $ . #
+#  $  #
+# *$#.#
+##@  .#
+ ######
+Author: Jordi Domenech
+Title: Level 46
+Limit: 40
+
+#####
+#.. ###
+#$  $@#
+# .$  #
+#  #  #
+#######
+Author: Jordi Domenech
+Title: Level 47
+Limit: 41
+
+#####
+# . ####
+# $ $  #
+#. .$ @#
+########
+Author: Jordi Domenech
+Title: Level 48
+Limit: 42
+
+########
+#.$.   #
+#@$$   #
+#. #   #
+########
+Author: Jordi Domenech
+Title: Level 49
+Limit: 42
+
+#####
+#.  #
+# . ###
+#@$$  #
+# *   #
+#######
+Author: Jordi Domenech
+Title: Level 50
+Limit: 43
+
+ ######
+ #@ ..#
+##$$ .#
+#   $ #
+#   ###
+#####
+Author: Jordi Domenech
+Title: Level 51
+Limit: 43
+
+  #####
+###   #
+#     #
+# *$$##
+#..*@#
+######
+Author: Jordi Domenech
+Title: Level 52
+Limit: 44
+
+#######
+#  # .#
+#  $*.#
+#@$   #
+###   #
+  #####
+Author: Jordi Domenech
+Title: Level 53
+Limit: 44
+
+#######
+# ... #
+# $$* #
+#   $ #
+#@ ####
+####
+Author: Jordi Domenech
+Title: Level 54
+Limit: 44
+
+   ####
+####  #
+#@$   #
+# **  #
+#.*   #
+#######
+Author: Jordi Domenech
+Title: Level 55
+Limit: 44
+
+#######
+#  .$ #
+#  $$ #
+###  .#
+  # @.#
+  #####
+Author: Jordi Domenech
+Title: Level 56
+Limit: 45
+
+ ######
+##   @#
+#.$$$ #
+#..$ ##
+# .  #
+######
+Author: Jordi Domenech
+Title: Level 57
+Limit: 45
+
+#######
+# .  .#
+#*$$ @#
+#   ###
+#   #
+#####
+Author: Jordi Domenech
+Title: Level 58
+Limit: 45
+
+#######
+#   $.#
+#   $.#
+#  #$.#
+#  #@ #
+#######
+Author: Jordi Domenech
+Title: Level 59
+Limit: 45
+
+   ####
+ ###  #
+##    #
+#@$$  #
+#.* . #
+#######
+Author: Jordi Domenech
+Title: Level 60
+Limit: 45
+
+#####
+#   ###
+# @$  #
+# $ *.#
+## $..#
+ ######
+Author: Jordi Domenech
+Title: Level 61
+Limit: 45
+
+#####
+#.  ###
+#   $ #
+#.$$ @#
+#. #  #
+#######
+Author: Jordi Domenech
+Title: Level 62
+Limit: 45
+
+########
+#   #  #
+# .$$  #
+#$.*   #
+#.. $@ #
+########
+Author: Jordi Domenech
+Title: Level 63
+Limit: 46
+
+#######
+#   $+#
+#  ** #
+#    ##
+#  ###
+####
+Author: Jordi Domenech
+Title: Level 64
+Limit: 46
+
+#######
+# ... #
+# .$$ #
+# $$  #
+##@#  #
+ ######
+Author: Jordi Domenech
+Title: Level 65
+Limit: 47
+
+#######
+#   * #
+#  $$ #
+###  .#
+  # @.#
+  #####
+Author: Jordi Domenech
+Title: Level 66
+Limit: 49
+
+#####
+# . #
+#. @###
+# $$  #
+# $ . #
+#######
+Author: Jordi Domenech
+Title: Level 67
+Limit: 49
+
+#######
+#  .$ #
+#  ** #
+# $ .@#
+###   #
+  #####
+Author: Jordi Domenech
+Title: Level 68
+Limit: 49
+
+   ####
+ ###  #
+## $$@#
+# . * #
+# .   #
+#######
+Author: Jordi Domenech
+Title: Level 69
+Limit: 49
+
+#######
+#.  $ #
+# #@$ #
+#  $ .#
+#.  ###
+#####
+Author: Jordi Domenech
+Title: Level 70
+Limit: 50
+
+#######
+#+$   #
+#***  #
+#     #
+#  #  #
+#######
+Author: Jordi Domenech
+Title: Level 71
+Limit: 50
+
+  #####
+###   #
+# $   #
+# **  #
+#.@#  #
+#######
+Author: Jordi Domenech
+Title: Level 72
+Limit: 50
+
+    ####
+#####  #
+# *    #
+#.**$  #
+#@*    #
+########
+Author: Jordi Domenech
+Title: Level 73
+Limit: 50
+
+######
+#.#  ##
+#.$   #
+# $ $ #
+#@#.  #
+#######
+Author: Jordi Domenech
+Title: Level 74
+Limit: 51
+
+  #####
+###.  #
+# $ $ #
+# @$  #
+#..#  #
+#######
+Author: Jordi Domenech
+Title: Level 75
+Limit: 51
+
+  #####
+###   #
+#  $  #
+#.*.$@#
+#. $ ##
+######
+Author: Jordi Domenech
+Title: Level 76
+Limit: 51
+
+### ####
+#.###  #
+# ..$  #
+#   $$ #
+####@ ##
+   ####
+Author: Jordi Domenech
+Title: Level 77
+Limit: 52
+
+####
+#  #####
+#  # . #
+#@$$$. #
+# $  ..#
+########
+Author: Jordi Domenech
+Title: Level 78
+Limit: 52
+
+#####
+# . #
+# . ###
+#@$$$ #
+# .   #
+#######
+Author: Jordi Domenech
+Title: Level 79
+Limit: 53
+
+#######
+# .   #
+#@$$$ #
+### . #
+  # . #
+  #####
+Author: Jordi Domenech
+Title: Level 80
+Limit: 53
+
+  #####
+###   ##
+#@$$   #
+# .$$  #
+#.*..  #
+########
+Author: Jordi Domenech
+Title: Level 81
+Limit: 53
+
+#######
+#.    ##
+#.# $$ #
+#..$$  #
+# .  $@#
+########
+Author: Jordi Domenech
+Title: Level 82
+Limit: 53
+
+   ####
+ ###. #
+## $$ #
+#@ .$ #
+#  .  #
+#######
+Author: Jordi Domenech
+Title: Level 83
+Limit: 54
+
+#######
+#@* . #
+###$  #
+# $ * #
+# .   #
+#######
+Author: Jordi Domenech
+Title: Level 84
+Limit: 55
+
+#######
+# *   #
+#@# ..#
+# $$  #
+# $ . #
+#######
+Author: Jordi Domenech
+Title: Level 85
+Limit: 56
+
+#######
+#  .  #
+# @.* #
+## $$ #
+ ###  #
+   ####
+Author: Jordi Domenech
+Title: Level 86
+Limit: 57
+
+ #######
+##  $. #
+#  .*  #
+# $  $ #
+#####.@#
+    ####
+Author: Jordi Domenech
+Title: Level 87
+Limit: 57
+
+#######
+# . $ #
+# # *@#
+#   $*#
+#   . #
+#######
+Author: Jordi Domenech
+Title: Level 88
+Limit: 58
+
+########
+#.#    #
+#.   $ #
+#.*$$# #
+##+$   #
+ #######
+Author: Jordi Domenech
+Title: Level 89
+Limit: 58
+
+ #####
+ #   ###
+## # . #
+#@$$$. #
+# $  ..#
+########
+Author: Jordi Domenech
+Title: Level 90
+Limit: 59
+
+ #######
+##   #.#
+#@$ $ .#
+#  $ $.#
+#   # .#
+########
+Author: Jordi Domenech
+Title: Level 91
+Limit: 60
+
+  ######
+  #.   #
+#### * #
+#    $*#
+#    *@#
+########
+Author: Jordi Domenech
+Title: Level 92
+Limit: 60
+
+#######
+#  .$@#
+#. $$ #
+# .# ##
+#    #
+######
+Author: Jordi Domenech
+Title: Level 93
+Limit: 61
+
+ #######
+## .   #
+#  $   #
+#.$$$###
+## .@.#
+ ######
+Author: Jordi Domenech
+Title: Level 94
+Limit: 61
+
+ #######
+##@*   #
+# * $  #
+#. $ ###
+#.#  #
+######
+Author: Jordi Domenech
+Title: Level 95
+Limit: 62
+
+#######
+# . $ #
+#     #
+#.# $##
+#  .$@#
+#######
+Author: Jordi Domenech
+Title: Level 96
+Limit: 63
+
+ #####
+##.  #
+#..$ ###
+# $$$  #
+#.   *@#
+########
+Author: Jordi Domenech
+Title: Level 97
+Limit: 63
+
+########
+#  #   #
+#@ # $ #
+#.**   #
+# *. $ #
+########
+Author: Jordi Domenech
+Title: Level 98
+Limit: 64
+
+########
+#.  #  #
+#   $$ #
+#..# $ #
+## . $@#
+ #######
+Author: Jordi Domenech
+Title: Level 99
+Limit: 64
+
+########
+# $  . #
+#@$ # .#
+# $$ . #
+#  #  .#
+########
+Author: Jordi Domenech
+Title: Level 100
+Limit: 64
+
+########
+#.     #
+#. #$  #
+#.*$@$ #
+#.  $ ##
+#######
+Author: Jordi Domenech
+Title: Level 101
+Limit: 65
+
+ ####
+##  ####
+#@$    #
+#  **. #
+# $  . #
+########
+Author: Jordi Domenech
+Title: Level 102
+Limit: 65
+
+#######
+# .  @#
+#$$$. #
+#.  # #
+#  $. #
+#######
+Author: Jordi Domenech
+Title: Level 103
+Limit: 65
+
+#####
+#. .####
+#@.$$  #
+## $   #
+ ###   #
+   #####
+Author: Jordi Domenech
+Title: Level 104
+Limit: 66
+
+########
+#.#. $ #
+# . #  #
+#  $$$@#
+#..  $ #
+########
+Author: Jordi Domenech
+Title: Level 105
+Limit: 66
+
+    ####
+#####  #
+# $ $  #
+#.  $$ #
+#... @##
+#######
+Author: Jordi Domenech
+Title: Level 106
+Limit: 66
+
+########
+#..#   #
+#   $$ #
+#. $#@ #
+# .  $ #
+########
+Author: Jordi Domenech
+Title: Level 107
+Limit: 66
+
+  ####
+###  ###
+# $. $ #
+#..*$$ #
+# @.   #
+########
+Author: Jordi Domenech
+Title: Level 108
+Limit: 66
+
+  ######
+###+$  #
+#.#$$  #
+# . $  #
+#..  $ #
+########
+Author: Jordi Domenech
+Title: Level 109
+Limit: 67
+
+ #######
+##  .. #
+# $*.  #
+#  $$  #
+#  #@###
+######
+Author: Jordi Domenech
+Title: Level 110
+Limit: 68
+
+ #######
+## ....#
+# $$   #
+#  $ $@#
+#  #####
+####
+Author: Jordi Domenech
+Title: Level 111
+Limit: 69
+
+########
+#. .   #
+# .$ $ #
+# $*@###
+###  #
+  ####
+Author: Jordi Domenech
+Title: Level 112
+Limit: 70
+
+  ####
+###. #
+#@.$ ###
+# $ $  #
+## .   #
+ #######
+Author: Jordi Domenech
+Title: Level 113
+Limit: 70
+
+ #######
+##.$.#@#
+#.#  $ #
+#$ $ $ #
+# . . ##
+#######
+Author: Jordi Domenech
+Title: Level 114
+Limit: 70
+
+#######
+# $ . #
+#.#   #
+# $$  #
+#@*.  #
+#######
+Author: Jordi Domenech
+Title: Level 115
+Limit: 71
+
+#######
+# . $ #
+#. $$@#
+# $# ##
+# .  .#
+#######
+Author: Jordi Domenech
+Title: Level 116
+Limit: 71
+
+ #######
+##@$ . #
+# $ $  #
+#..$ ###
+#.#  #
+######
+Author: Jordi Domenech
+Title: Level 117
+Limit: 71
+
+######
+#    ###
+#..#$$@#
+#.   $ #
+#..$ $ #
+########
+Author: Jordi Domenech
+Title: Level 118
+Limit: 71
+
+######
+#  . #
+#. # ##
+#  $$@#
+# . $ #
+#######
+Author: Jordi Domenech
+Title: Level 119
+Limit: 73
+
+######
+#.   #
+#.# $###
+#. $$  #
+#.   $@#
+########
+Author: Jordi Domenech
+Title: Level 120
+Limit: 73
+
+ #######
+##@..  #
+# $$   #
+#  .$###
+# *  #
+######
+Author: Jordi Domenech
+Title: Level 121
+Limit: 74
+
+########
+#@$   .#
+##$$$ .#
+#    #.#
+#   ##.#
+########
+Author: Jordi Domenech
+Title: Level 122
+Limit: 74
+
+########
+#+  #  #
+##$ #  #
+#. $ $ #
+# . $ .#
+########
+Author: Jordi Domenech
+Title: Level 123
+Limit: 75
+
+########
+#  . $@#
+#.* #$##
+# *  $ #
+#.     #
+########
+Author: Jordi Domenech
+Title: Level 124
+Limit: 76
+
+ #######
+##   . #
+#@$ $  #
+#. *# ##
+# *   #
+#######
+Author: Jordi Domenech
+Title: Level 125
+Limit: 76
+
+#######
+#  .  #
+#@..$ #
+## $$ #
+ ###  #
+   ####
+Author: Jordi Domenech
+Title: Level 126
+Limit: 77
+
+########
+#   #  #
+#.# $ @#
+#..$ $ #
+# . $ ##
+#######
+Author: Jordi Domenech
+Title: Level 127
+Limit: 77
+
+########
+#..#   #
+#@ $$  #
+# *  # #
+# $.   #
+########
+Author: Jordi Domenech
+Title: Level 128
+Limit: 77
+
+########
+# .$.$ #
+#+$    #
+#.##$  #
+#.$    #
+########
+Author: Jordi Domenech
+Title: Level 129
+Limit: 77
+
+########
+#.. #  #
+#.$$#@ #
+# *  $ #
+#.   $ #
+########
+Author: Jordi Domenech
+Title: Level 130
+Limit: 77
+
+    ####
+#####  #
+#  *@$ #
+#  .*$ #
+##  .  #
+ #######
+Author: Jordi Domenech
+Title: Level 131
+Limit: 77
+
+########
+#.$ .  #
+#+#$$# #
+#$ $ . #
+# .   ##
+#######
+Author: Jordi Domenech
+Title: Level 132
+Limit: 77
+
+######
+# .  ###
+#  #$ @#
+#$   $ #
+#.. #  #
+########
+Author: Jordi Domenech
+Title: Level 133
+Limit: 78
+
+########
+#..$ $ #
+#  $   #
+#.@#$  #
+#  . ###
+######
+Author: Jordi Domenech
+Title: Level 134
+Limit: 79
+
+########
+#..#   #
+# .$ $ #
+#@* $  #
+####   #
+   #####
+Author: Jordi Domenech
+Title: Level 135
+Limit: 79
+
+########
+#@  # .#
+# # $$ #
+#. $   #
+#.  ####
+#####
+Author: Jordi Domenech
+Title: Level 136
+Limit: 79
+
+ #######
+## $  .#
+# $ $..#
+# @$ #.#
+#  #   #
+########
+Author: Jordi Domenech
+Title: Level 137
+Limit: 79
+
+#######
+#  #  #
+#  $$ #
+#*..$ #
+#@ .  #
+#######
+Author: Jordi Domenech
+Title: Level 138
+Limit: 80
+
+ #######
+## ..  #
+#  .*$ #
+#  $@$ #
+#####  #
+    ####
+Author: Jordi Domenech
+Title: Level 139
+Limit: 81
+
+########
+#.#.   #
+#.*  $ #
+# $#$  #
+#@ #   #
+########
+Author: Jordi Domenech
+Title: Level 140
+Limit: 82
+
+########
+#.. #@ #
+#   $$ #
+#. # $ #
+## . $ #
+ #######
+Author: Jordi Domenech
+Title: Level 141
+Limit: 82
+
+########
+# $.. .#
+#@ ##$##
+#  $   #
+# $.   #
+########
+Author: Jordi Domenech
+Title: Level 142
+Limit: 83
+
+########
+#   # @#
+#.#  * #
+#  $.$ #
+#    ###
+######
+Author: Jordi Domenech
+Title: Level 143
+Limit: 83
+
+ #######
+##  #  #
+#  $@$ #
+# .**$ #
+# . .  #
+########
+Author: Jordi Domenech
+Title: Level 144
+Limit: 88
+
+########
+#.*    #
+#. $$  #
+#.$#   #
+##@$.  #
+ #######
+Author: Jordi Domenech
+Title: Level 145
+Limit: 88
+
+  ####
+### @###
+#  $$  #
+#.*.*  #
+#.$    #
+########
+Author: Jordi Domenech
+Title: Level 146
+Limit: 90
+
+######
+# .. #
+#.* $###
+# $ $ @#
+#   $. #
+########
+Author: Jordi Domenech
+Title: Level 147
+Limit: 91
+
+########
+#  $  .#
+# . $$ #
+# .# $@#
+#  . ###
+######
+Author: Jordi Domenech
+Title: Level 148
+Limit: 92
+
+#######
+#@$ . #
+#* *# ##
+# $ $  #
+#.   . #
+########
+Author: Jordi Domenech
+Title: Level 149
+Limit: 92
+
+########
+#.$    #
+#.$$$$ #
+#. #   #
+#+.  ###
+######
+Author: Jordi Domenech
+Title: Level 150
+Limit: 94
+
+########
+#   #@ #
+#.#  $ #
+#  $.* #
+#    ###
+######
+Author: Jordi Domenech
+Title: Level 151
+Limit: 94
+
+######
+#.  @###
+#..#   #
+#.$$$$ #
+#.$    #
+########
+Author: Jordi Domenech
+Title: Level 152
+Limit: 96
+
+########
+# *    #
+#@.$$  #
+#..# $ #
+#    ###
+######
+Author: Jordi Domenech
+Title: Level 153
+Limit: 99
+
+ #######
+##  .  #
+# $$ @ #
+# ..$###
+# $ .#
+######
+Author: Jordi Domenech
+Title: Level 154
+Limit: 100
+
+########
+#   .$ #
+#  $*..#
+# $ #  #
+###   @#
+  ######
+Author: Jordi Domenech
+Title: Level 155
+Limit: 100
+
+ #######
+##     #
+# $@#$.#
+#  $ $.#
+#  # ..#
+########
+Author: Jordi Domenech
+Title: Level 156
+Limit: 101
+
+#######
+#   *@#
+#.* $###
+#   $  #
+## .   #
+ #######
+Author: Jordi Domenech
+Title: Level 157
+Limit: 101
+
+########
+#.@  $ #
+#.#$$  #
+#.. $# #
+# *    #
+########
+Author: Jordi Domenech
+Title: Level 158
+Limit: 101
+
+#######
+# $  .#
+#..$# ##
+#@$ $  #
+##.    #
+ #######
+Author: Jordi Domenech
+Title: Level 159
+Limit: 101
+
+ #######
+##  .  #
+# *.$  #
+# @$# ##
+# $.  #
+#######
+Author: Jordi Domenech
+Title: Level 160
+Limit: 101
+
+    ####
+#####  #
+#@$ $  #
+#.*.$  #
+#.$.   #
+########
+Author: Jordi Domenech
+Title: Level 161
+Limit: 102
+
+  ######
+  # .$ #
+###$ ..#
+# @ $$ #
+# .   ##
+#######
+Author: Jordi Domenech
+Title: Level 162
+Limit: 103
+
+########
+#      #
+#.*#   #
+#.* $$##
+# .  $@#
+########
+Author: Jordi Domenech
+Title: Level 163
+Limit: 103
+
+ #######
+##     #
+#.$#$ @#
+#. $ $##
+#..   #
+#######
+Author: Jordi Domenech
+Title: Level 164
+Limit: 105
+
+######
+#.  .###
+#@$#$  #
+#$. .$ #
+#    $.#
+########
+Author: Jordi Domenech
+Title: Level 165
+Limit: 113
+
+#######
+#@  . #
+# * .$##
+#.$#$  #
+#.$    #
+########
+Author: Jordi Domenech
+Title: Level 166
+Limit: 113
+
+########
+# *    #
+#  $$  #
+# .# $ #
+#. .@###
+######
+Author: Jordi Domenech
+Title: Level 167
+Limit: 116
+
+########
+# .  $.#
+#  $.* #
+#  $ $@#
+# .#####
+####
+Author: Jordi Domenech
+Title: Level 168
+Limit: 118
+
+########
+#.$    #
+#.*#$  #
+#.$  $##
+#.  @ #
+#######
+Author: Jordi Domenech
+Title: Level 169
+Limit: 119
+
+#######
+# .   #
+#.$$$$##
+# .# * #
+#.   @ #
+########
+Author: Jordi Domenech
+Title: Level 170
+Limit: 178

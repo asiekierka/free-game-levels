@@ -1,0 +1,1327 @@
+Author: Jordi Domènech and other authors
+Collection: First steps - Beginner
+Email: jd.sokoban2020@gmail.com
+Blog: sokoban-jd.blogspot.com
+Copyright: (c) by Jordi Domènech, and the authors of each level
+Date: March 2017
+
+Author's note:
+First steps - Beginner is a selection of small puzzles from Magic Sokoban and other collections of mine for those who start playing Sokoban. Despite their simple appearance, they are not easy: it is rare to find the solution on the first attempt, and you always have to think to solve them.
+
+A tip to learn Sokoban: the most important thing is not to find the solution, but to "understand it". When you have solved a puzzle, don't leave it: try to solve it again.
+
+Every level shows the limit of moves to solve it optimally. It is ideal for learning to play with limitation of moves.
+
+Some puzzles are arrangements of levels by other authors: to all of them my thanks.
+
+Enjoy!
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+These levels are copyright (c) by Jordi Domènech and the authors of each
+level, and may be freely distributed for non-commercial use provided they 
+remain unchanged, credited with the author's name, and provided the 
+author is notified.
+
+License: Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported
+http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+This collection has been downloaded from my blog:
+Sokoban. The beautiful world of remodels
+http://sokoban-jd.blogspot.com/
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+  ####
+ ##@ #
+## * #
+#  $ #
+#  . #
+######
+Author: Jordi Domenech
+Title: Level 1 Start
+Set: Magic Sokoban 4 #1
+Limit: 22
+
+######
+#    #
+# #$ #
+# .$.#
+#  @ #
+######
+Author: Jordi Domenech
+Title: Level 2 Duh! - For David W. Skinner
+Set: Magic Sokoban 7 #1
+Limit: 25
+
+######
+#    #
+#. $ #
+#.#$##
+#    #
+#  @ #
+######
+Author: Jordi Domenech
+Title: Level 3
+Set: Magic Sokoban 6 #1
+Limit: 34
+
+ ######
+ #    #
+##... #
+# $$$ #
+#@  ###
+#####
+Author: David W. Skinner + Jordi Domenech
+Title: Level 4
+Set: Microban variations #5
+Limit: 28
+
+ ####
+##  #
+# * ##
+# *$ #
+# .  #
+# # ##
+# @ #
+#####
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 5
+Set: Alberto Garcia remixed #1
+Limit: 58
+
+ #####
+## . #
+#  * #
+# $* #
+#  * #
+###@ #
+  ####
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 6
+Set: Alberto Garcia remixed #2
+Limit: 36
+
+ #######
+ #  .  #
+ # #.  #
+##$## ##
+# $   #
+#   @ #
+#######
+Author: Jordi Domenech
+Title: Level 7
+Set: Magic Sokoban 2 #1
+Limit: 69
+
+####
+#  #
+# $#####
+#      #
+#.$.$. #
+#  # @ #
+########
+Author: Jordi Domenech
+Title: Level 8
+Set: Magic Sokoban 3 #2
+Limit: 36
+
+########
+#      #
+# #... #
+#   # ##
+##$$$ #
+ #  @ #
+ ######
+Author: Ian Parberry + Jordi Domenech
+Title: Level 9
+Set: Magic Sokoban 6 #5
+Limit: 51
+
+ #####
+ #   #
+ # # #
+##*..#
+# $ ##
+# $  #
+# @  #
+######
+Author: David W. Skinner + Jordi Domenech
+Title: Level 10
+Set: Microban variations #40
+Limit: 47
+
+ #####
+ # . ##
+ # .  #
+ # .  #
+## # ##
+# $$$#
+#  @ #
+######
+Author: Jordi Domenech
+Title: Level 11
+Set: Magic Sokoban 7 #2
+Limit: 57
+
+######
+#.   #
+#.   #
+## . #
+#  ###
+# $$ #
+#  $ #
+#  @ #
+######
+Author: Jordi Domenech
+Title: Level 12
+Set: Magic Sokoban #5
+Limit: 50
+
+ #####
+##.. #
+# $. #
+# $. #
+# $$ #
+# @###
+####
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 13
+Set: Magic Sokoban 4 #2
+Limit: 35
+
+ ####
+ #  ##
+##$  #
+# $$ ##
+# #.  #
+# @.. #
+#######
+Author: Jordi Domenech
+Title: Level 14 Take it down
+Set: Magic Sokoban 2 #19
+Limit: 63
+
+  #####
+  #  .##
+###.$. #
+#  $$# #
+#   @  #
+########
+Author: Jordi Domenech
+Title: Level 15
+Set: Magic Sokoban #14
+Limit: 82
+
+ #####
+ #   ##
+ #$$@ #
+## ## ##
+#  #.  #
+#      #
+####. ##
+   ####
+Author: Jordi Domenech
+Title: Level 16
+Set: Magic Sokoban 4 #3
+Limit: 67
+
+   #####
+   #   #
+####$  #
+#   $ ##
+# # #  #
+# @ . .#
+########
+Author: Shaggath + Jordi Domenech
+Title: Level 17 Big German boot
+Set: Magic Sokoban #20
+Limit: 81
+
+ ######
+ #    #
+ # #$$##
+ #     #
+##$### #
+#  # . #
+#    . #
+###  + #
+  ######
+Author: Jordi Domenech
+Title: Level 18
+Set: Magic Sokoban #8
+Limit: 85
+
+ ########
+ #      #
+ #$## # #
+ #. # $ #
+##..# ###
+#     $ #
+# @ #   #
+#########
+Author: Jordi Domenech
+Title: Level 19
+Set: Magic Sokoban 2 #24
+Limit: 65
+
+##########
+#  #  ...#
+# $$$#@  #
+#    ## ##
+###     #
+  ####  #
+     ####
+Author: Jordi Domenech
+Title: Level 20
+Set: Magic Sokoban 5 #9
+Limit: 93
+
+     ####
+######  #
+#   ##@ #
+#    #$.#
+##    $.#
+ ##  #$.#
+  ####  #
+     ####
+Author: David W. Skinner + Jordi Domenech
+Title: Level 21
+Set: Microban variations #107
+Limit: 89
+
+     #####
+###### . #
+#   ##$. #
+#@$$$  . #
+##  #  . #
+ #  ######
+ ####
+Author: Jordi Domenech
+Title: Level 22
+Set: Magic Sokoban #1
+Limit: 58
+
+#########
+#   #   #
+#   .   #
+## #*####
+#   * $ #
+#   * @ #
+#########
+Author: Jordi Domenech
+Title: Level 23
+Set: Miniatures #5
+Limit: 62
+
+#########
+#   @   #
+# $ $ $ #
+##.#.#.##
+# $ $ $ #
+# . . . #
+#########
+Author: Jordi Domenech
+Title: Level 24
+Set: Magic Sokoban 2 #11
+Limit: 53
+
+#####
+#   ####
+#.$ #  #
+#.$  $.#
+#.$# $.#
+#  # @ #
+########
+Author: Sven Egevad + Jordi Domenech
+Title: Level 25 Just push
+Set: Magic Sokoban 3 #9
+Limit: 58
+
+    ####
+#####  #
+#   #  #
+# $ @  #
+## ###.##
+ #$$ #. #
+ #    . #
+ #####  #
+     ####
+Author: Monry + Jordi Domenech
+Title: Level 26 Tribute to Monry
+Set: Magic Sokoban 3 #4
+Limit: 124
+
+ ####
+ #  #
+##. ###
+# .$$ #
+# .@# #
+# .$$ #
+##    #
+ ######
+Author: Jordi Domenech
+Title: Level 27
+Set: Magic Sokoban 4 #17
+Limit: 61
+
+ #####
+ # @ ###
+##$$$$ #
+#  # # #
+#  ....#
+#  #   #
+########
+Author: Jordi Domenech
+Title: Level 28 Move it
+Set: Magic Sokoban 6 #14
+Limit: 79
+
+#######
+#. .  #
+#. *  #
+## # ##
+# $$$ #
+#  @  #
+#######
+Author: Jordi Domenech
+Title: Level 29 Magic box
+Set: Miniatures #6
+Limit: 47
+
+######
+#    #
+#$$$ #
+#....#
+# $$.#
+#  @ #
+######
+Author: Jordi Domenech
+Title: Level 30
+Set: Magic Sokoban #2
+Limit: 18
+
+ ####
+ #  ###
+ #$.  #
+ # .# #
+##$.  #
+# $ ###
+# @ #
+#####
+Author: David W. Skinner + Jordi Domenech
+Title: Level 31
+Set: Microban variations #41
+Limit: 94
+
+   ####
+####@ #
+#  $$$##
+# ##   #
+# ## # #
+#  ... #
+#   ####
+#####
+Author: Evgeny Grigoriev + Jordi Domenech
+Title: Level 32
+Set: Magic Sokoban 2 #26
+Limit: 93
+
+#######
+#     #
+# .$$ #
+##. ###
+# .$$ #
+# . # #
+#   @ #
+#######
+Author: David W. Skinner + Jordi Domenech
+Title: Level 33
+Set: Microban variations #82
+Limit: 71
+
+  #####
+###  .#
+#   # #
+#@$$$.#
+#   # #
+#  ## #
+#    .#
+#######
+Author: Jordi Domenech
+Title: Level 34
+Set: Magic Sokoban #15
+Limit: 90
+
+   ####
+ ###  #
+ #.   #
+ #  * #
+### ###
+#   @ #
+#   $ #
+#  ####
+####
+Author: unknown + Jordi Domenech
+Title: Level 35 Breaking
+Set: Magic Sokoban 4 #6
+Comment: based on Souko Easy #5
+Limit: 64
+
+#######
+#     #
+# *** #
+# *+* ##
+# ***  #
+#    $ #
+####   #
+   #####
+Author: Jordi Domenech
+Title: Level 36
+Set: Miniatures #29
+Limit: 41
+
+#####
+#   ####
+#      #
+# $ $$@#
+##$##  #
+ # #####
+##.. #
+# .. #
+#    #
+######
+Author: David W. Skinner + Jordi Domenech
+Title: Level 37
+Set: Microban variations #13
+Limit: 84
+
+ #########
+ #       #
+ # ##### #
+##$#...# #
+# $  $$  #
+#   #.@  #
+##########
+Author: Jordi Domenech
+Title: Level 38
+Set: Magic Sokoban 2 #14
+Limit: 92
+
+##########
+#        #
+# ###### #
+# #    # ##
+# #    #  #
+#  .****$ #
+#### @ #  #
+   ########
+Author: Jordi Domenech
+Title: Level 39
+Set: Magic Sokoban 3 #15
+Limit: 86
+
+#########
+#  ...  #
+#  # #  #
+# $$@$  #
+#  ###  #
+#### ####
+Author: Roger Delaporte + Jordi Domenech
+Title: Level 40 Two halves
+Set: Magic Sokoban 3 #21
+Limit: 68
+
+#######
+#   # #
+# $ * #
+##* . #
+# *  ##
+# @   #
+#######
+Author: Thomas Reinke + Jordi Domenech
+Title: Level 41 Don't panic
+Set: Magic Sokoban 3 #22
+Limit: 37
+
+#######
+#  #  #
+#     #
+#     #
+#### ##
+#  @  #
+# $**.#
+#  #  #
+#######
+Author: Marcis Berzins + Jordi Domenech
+Title: Level 42 Fix one
+Set: Magic Sokoban 5 #10
+Limit: 110
+
+#######
+#     #
+# $ $ #
+# ### #
+# ..#$##
+##.. $ #
+ #   # #
+ #   @ #
+ #######
+Author: Jordi Domenech
+Title: Level 43
+Set: Magic Sokoban 4 #14
+Limit: 137
+
+    ####
+#####  ###
+# $ $ $$ #
+# # #..# #
+# @  ..  #
+##########
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 44
+Set: Magic Sokoban 4 #15
+Limit: 70
+
+#######
+#...  #
+# $@$ ##
+## ##  #
+ #  $  #
+ #  #  #
+ #######
+Author: Marcis Berzins
+Title: Level 45
+Set: Magic Sokoban 5 #11
+Limit: 89
+
+########
+#  #   #
+#. ..  #
+#$$### ##
+# $     #
+#   # @ #
+#########
+Author: Jordi Domenech
+Title: Level 46
+Set: Miniatures #8
+Limit: 117
+
+########
+#   #  #
+#. ..$ ##
+##$##$  #
+#       #
+# @ #####
+#####
+Author: Jordi Domenech
+Title: Level 47
+Set: Magic Sokoban 2 #46
+Limit: 122
+
+ #######
+ #     #
+ # ### #
+ #. $  #
+##.#$###
+# . $  #
+#   @# #
+### ## #
+  #    #
+  ######
+Author: Jordi Domenech
+Title: Level 48 Move it 2
+Set: Magic Sokoban 7 #8
+Limit: 98
+
+ ####
+ #  ##
+## $ #
+# .*.##
+# #$  #
+#  @  #
+#######
+Author: Jordi Domenech
+Title: Level 49
+Set: Magic Sokoban #11
+Limit: 49
+
+  #####
+  #   #
+### #$##
+#  $ $ #
+#... @ #
+########
+Author: Jordi Domenech
+Title: Level 50 Zapatito
+Set: Magic Sokoban #45
+Limit: 65
+
+########
+#      #
+# $$   #
+##@##  #
+ #$ #$##
+ #.... #
+ #     #
+ #######
+Author: Jordi Domenech
+Title: Level 51 Pufi line
+Set: Magic Sokoban #16
+Limit: 129
+
+    ######
+#####  . #
+# $  **. #
+# $      #
+# @#######
+####
+Author: Marcus Hof + Jordi Domenech
+Title: Level 52
+Set: Magic Sokoban 3 #26
+Limit: 84
+
+######
+#.  .#
+# $$ #
+#.$@##
+# $$ #
+#.  .#
+######
+Author: Jordi Domenech
+Title: Level 53
+Set: Magic Sokoban #24
+Limit: 24
+
+#######
+#     ##
+# *$*$ #
+# #  # #
+# . .@ #
+########
+Author: Jordi Domenech
+Title: Level 54
+Set: Magic Sokoban 2 #17
+Limit: 64
+
+########
+#  . . #
+# .#.# #
+# $$$$ #
+##    ##
+ ###@ #
+   ####
+Author: Howard Abed + Jordi Domenech
+Title: Level 55
+Set: Magic Sokoban 2 #29
+Limit: 80
+
+ #######
+ #     #
+ #$### #
+ #  .. #
+ # #.. #
+##$## ##
+# $ $ #
+#   @ #
+#######
+Author: Jordi Domenech
+Title: Level 56 Tiny square
+Set: Magic Sokoban 2 #33
+Limit: 121
+
+      ####
+ ######  #
+ #       #
+ # ####  #
+##$$  # ##
+# $... * #
+# @ ##   #
+##########
+Author: Jordi Domenech
+Title: Level 57
+Set: Magic Sokoban 3 #19
+Limit: 91
+
+ #######
+##  #  ###
+#   $$@$ #
+#  # ... #
+#  #  #  #
+##########
+Author: Marcis Berzins
+Title: Level 58
+Set: Magic Sokoban 5 #12
+Limit: 86
+
+     #####
+######   #
+#   #  . #
+# $ # $.##
+##   $$.#
+ #  ##@.#
+ #  #####
+ ####
+Author: Marcis Berzins
+Title: Level 59
+Set: Magic Sokoban 5 #15
+Limit: 165
+
+  ########
+ ##  #   #
+ # .     #
+ # .### ##
+ # .. # #
+##$##$# #
+#    $  #
+#   #$# #
+#####@  #
+    #####
+Author: Jordi Domenech
+Title: Level 60
+Set: Magic Sokoban 6 #16
+Limit: 313
+
+#######
+#     #
+#   $$#
+# ##  ##
+#  #$  #
+##.#   #
+# .##$##
+# .    #
+# . @  #
+########
+Author: Jordi Domenech
+Title: Level 61
+Set: Miniatures #13
+Limit: 217
+
+  #####
+###   ##
+#   $  #
+# ##$#.#
+# # @ .#
+# #$##.#
+#  $ #.##
+##      #
+ ####   #
+    #####
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 62
+Set: Alberto Garcia remixed #11
+Limit: 149
+
+#######
+#  $. #
+#  $. #
+###  ###
+ # $.  #
+ #@$.  #
+ #######
+Author: David W. Skinner + Jordi Domenech
+Title: Level 63
+Set: Microban variations #51
+Limit: 50
+
+   ####
+   #  #
+   # .###
+   #$.  #
+#### .$ #
+#  $$.###
+#   @ #
+#######
+Author: David W. Skinner + Jordi Domenech
+Title: Level 64 Line up
+Set: Microban variations #53
+Limit: 95
+
+######
+#    ##
+#  $  #
+##$$$ #
+ # #  #
+ # ## ##
+ # $...#
+ #  . .#
+ # @####
+ ####
+Author: David W. Skinner + Jordi Domenech
+Title: Level 65
+Set: Microban variations #16
+Limit: 173
+
+  #########
+### @ #   #
+# * * * . #
+#   $ #   #
+####*## ###
+ #       #
+ #   #   #
+ #########
+Author: David W. Skinner + Jordi Domenech
+Title: Level 66
+Set: Microban variations #31
+Limit: 120
+
+        ####
+#########  #
+#   ## $   #
+#  $   ##  #
+### #...# ##
+  # #.$.#$##
+  # #.$ #  #
+  #   $    #
+  # @#######
+  ####
+Author: David W. Skinner + Jordi Domenech
+Title: Level 67
+Set: Microban variations #32
+Limit: 261
+
+####
+#  #####
+#      #
+# .#.# #
+##$$$$ #
+# . .###
+# @  #
+######
+Author: David W. Skinner + Jordi Domenech
+Title: Level 68
+Set: Microban variations #84
+Limit: 98
+
+#######
+#     #
+# # # #
+# $.# #
+##$ . #
+ #@* ##
+ ##  #
+  ####
+Author: Serg Belyaev + Jordi Domenech
+Title: Level 69
+Set: Magic Sokoban 6 #32
+Limit: 88
+
+   #####
+ ###   #
+ #   $ #
+##$..$##
+# $.. #
+# @ ###
+#####
+Author: Jordi Domenech
+Title: Level 70 Pufi square
+Set: Magic Sokoban #25
+Limit: 55
+
+#####
+#   #
+# $ #
+#@$$##
+##$..#
+ # ..#
+ #   #
+ #####
+Author: Frantisek Pokorny + Jordi Domenech
+Title: Level 71 Pufi square 2
+Set: Magic Sokoban #32
+Limit: 56
+
+  #######
+###     #
+#   $ $ #
+# ##$#####
+# #.$.   #
+# #.@.   #
+# ###### #
+#        #
+##########
+Author: Jordi Domenech
+Title: Level 72
+Set: Magic Sokoban 7 #30
+Limit: 111
+
+  #######
+  #  .  #
+ ###$#  #
+ #  . . #
+###$#$ ##
+#  . . .#
+# $#$#$ #
+#  @ #  #
+#########
+Author: Jordi Domenech
+Title: Level 73 Strange tree
+Set: Magic Sokoban #21
+Limit: 113
+
+ ######
+ #    #
+ # ##$####
+ # # $   #
+ # # @ $ #
+## #$## ##
+# ..    #
+# ..#   #
+#########
+Author: Jordi Domenech
+Title: Level 74
+Set: Magic Sokoban #26
+Limit: 179
+
+ #####
+ #   #####
+ # # ..  #
+ # # ..  #
+##$#$## ##
+# $ $   #
+# @ #   #
+#########
+Author: Jordi Domenech
+Title: Level 75
+Set: Magic Sokoban #28
+Limit: 171
+
+########
+#  #   #
+#.. .  #
+#.. ## #
+### ##$##
+# $$$ $ #
+#   @   #
+#########
+Author: Jordi Domenech
+Title: Level 76
+Set: Magic Sokoban 2 #37
+Limit: 155
+
+ #########
+ #  ##   #
+##   $$$ #
+#. .#$@$ #
+#...#    #
+#   ######
+#   #
+#####
+Author: Jordi Domenech
+Title: Level 77
+Set: Magic Sokoban #35
+Limit: 124
+
+  #####
+  #   #
+  #*# #
+  #   #
+###*#.####
+#        #
+#   #*$# #
+##### @  #
+    ######
+Author: Sven Egevad + Jordi Domenech
+Title: Level 78
+Set: Magic Sokoban 3 #36
+Limit: 129
+
+  ####
+ ##  ####
+ # ...  #
+ #   .# #
+##$#$## #
+# $ $ @ #
+#     ###
+#######
+Author: David Buchweitz + Jordi Domenech
+Title: Level 79
+Set: Magic Sokoban 5 #8
+Limit: 131
+
+#########
+#  ..#  #
+# #..$  #
+#  $ #  #
+##  ## ##
+ # $@$  #
+ ####   #
+    #####
+Author: Marcis Berzins
+Title: Level 80
+Set: Magic Sokoban 5 #22
+Limit: 180
+
+    #####
+#####@  #
+#   $$$ #
+#..**. ##
+#      #
+########
+Author: Marcis Berzins
+Title: Level 81
+Set: Magic Sokoban 5 #23
+Limit: 135
+
+########
+#  ##  ###
+#   ..   #
+#  $#.$$ #
+###  .$@##
+  #######
+Author: Marcis Berzins
+Title: Level 82
+Set: Magic Sokoban 5 #24
+Limit: 123
+
+#######
+#     #
+# * * #
+##. $##
+# * * #
+#     #
+# @#  #
+#######
+Author: Jordi Domenech
+Title: Level 83 Fix one 2
+Set: Magic Sokoban #19
+Limit: 43
+
+ ######
+ #    #
+## ## #
+#   **#
+# $   #
+##$#..#
+ # ## #
+ #  @ #
+ ######
+Author: Sven Egevad + Jordi Domenech
+Title: Level 84 Pairs
+Set: Magic Sokoban 6 #20
+Limit: 99
+
+ ########
+ #      #
+ #$.*.$ #
+## * * ##
+# $.*.$#
+#   @  #
+########
+Author: Ghislain Martin + Jordi Domenech
+Title: Level 85
+Set: Magic Sokoban 6 #33
+Limit: 93
+
+  ####
+###  ####
+#       #
+#  $$#  #
+## #@$ ##
+#  ### #
+#  ... #
+########
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 86 How do I do it?
+Set: Alberto Garcia remixed #21
+Limit: 154
+
+ #########
+ #       #
+ #.##### #
+ #.    # #
+##.##$$$ #
+#  ##  ###
+#     @#
+#  #####
+####
+Author: Sven Egevad + Jordi Domenech
+Title: Level 87
+Set: Magic Sokoban 2 #44
+Limit: 174
+
+ #######
+ #     #
+ #.##  ##
+## ## $ #
+# $  $$ #
+# ... # #
+#  #### #
+# @     #
+#########
+Author: Jordi Domenech
+Title: Level 88
+Set: Miniatures #19
+Limit: 189
+
+########
+#  . . #
+#  $ $ #
+#####*@#
+#  $ $ #
+#  . . #
+########
+Author: Jordi Domenech
+Title: Level 89
+Set: Magic Sokoban 2 #45
+Limit: 126
+
+   ####
+####  #####
+#  .*.#@  #
+#  .# $$# #
+## ## #   #
+ #    $  ##
+ #  #   ##
+ ########
+Author: David Buchweitz + Jordi Domenech
+Title: Level 90
+Set: Magic Sokoban 6 #37
+Limit: 155
+
+####   #####
+#  #####   #
+# $$       #
+#  ###### ##
+## #    # #
+ # #    # #
+## ## #.  #
+# $   #. ##
+#   # @. #
+##########
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 91
+Set: Alberto Garcia remixed #35
+Limit: 238
+
+#########
+#       #
+#@$ $ $ #
+#### #  #
+#  #$#$##
+# ...  #
+# ..*# #
+##     #
+ #######
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 92 Underground six
+Set: Alberto Garcia remixed #36
+Limit: 151
+
+###############
+# $. . . . .  #
+# # $ $ $ $ @ #
+# ########## ##
+#            #
+##############
+Author: David Buchweitz + Jordi Domenech
+Title: Level 93
+Set: Chrysalis variations #83
+Limit: 317
+
+#######
+#  +  #
+# *$* #
+#. # .#
+#  #  #
+#  #  #
+# $#$ #
+#  #  #
+#######
+Author: David W. Skinner + Jordi Domenech
+Title: Level 94
+Set: Microban variations #43
+Limit: 93
+
+######
+#    #
+# ##$###
+# # $  #
+# ..*. #
+##  $  #
+ #@# ###
+ #   #
+ #####
+Author: David W. Skinner + Jordi Domenech
+Title: Level 95
+Set: Microban variations #44
+Limit: 97
+
+########
+#  #   #
+#      #
+#  ## ###
+## ##$$ #
+## ## #@#
+# . .$. #
+#   #####
+#####
+Author: David W. Skinner + Jordi Domenech
+Title: Level 96
+Set: Microban variations #49
+Limit: 111
+
+########
+#  #   #
+#  #...#
+# $$$$$#
+#  #.*.#
+#  #   #
+#  @  ##
+#######
+Author: David W. Skinner + Jordi Domenech
+Title: Level 97
+Set: Microban variations #58
+Limit: 115
+
+ ########
+ #      #
+ #  $ $ #
+### ##.##
+# *  #.#
+# *  #.#
+#@*  # #
+## ### ##
+#     $ #
+#   #   #
+#########
+Author: Jordi Domenech
+Title: Level 98
+Set: Magic Sokoban 7 #33
+Limit: 145
+
+#######
+#  #  #
+# *   #
+#  #  #
+## # #########
+ # #     #   #
+ # ## ##   $ #
+ # #  #  ## ##
+ # #$ #  .# #
+ # #  # ..# #
+ # #$###### #
+ #      @   #
+ #########  #
+         ####
+Author: Jordi Domenech
+Title: Level 99
+Set: Magic Sokoban 7 #37
+Limit: 361
+
+    #####
+    #   #
+    #.  #
+  ###  .##
+  #  . . #  #####
+### # #  #  #   ####
+#   # ## ####$$    #
+# .  .        $$$$ #
+#####.###$#@#      #
+    #     ##########
+    #######
+Author: Jordi Domenech
+Title: Level 100 Original #1 reverse mode
+Set: Life #5
+Limit: 356

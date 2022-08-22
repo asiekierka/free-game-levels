@@ -1,0 +1,1376 @@
+Authors: Jordi Domènech, Marcus Hof, Marcis Berzins and other authors
+Collection: Magic Sokoban 5
+Email: jd.sokoban2020@gmail.com
+Blog: sokoban-jd.blogspot.com
+Copyright: (c) by Jordi Domènech, Marcus Hof, Marcis Berzins, and the authors of each level
+Date: October 2012 - September 2013
+
+Author's note:
+Small levels, simple and beautiful. Many of these levels are based on the levels of other authors: all them I am grateful. In this fifth set have participated Marcus Hof and Marcis Berzins. Thanks a lot! 
+
+In this set, the best levels are: 1, 11, 22, 27, 29, 37, 41-42, 59, 60, 73, 83, 93, 98.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+These levels are copyright (c) by Jordi Domènech, Marcus Hof, Marcis 
+Berzins and the authors of each level, and may be freely distributed 
+for non-commercial use provided they remain unchanged, credited with 
+the author's name, and provided the author is notified.
+
+License: Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported
+http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+This collection has been downloaded from my blog:
+Sokoban. The beautiful world of remodels
+http://sokoban-jd.blogspot.com/
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+#####
+#   #
+# **###
+#     #
+#.**$ #
+#   @ #
+#######
+Author: Jordi Domenech
+Title: Level 1
+
+     ####
+ #####  #
+ #  $   #
+ #.#@$  #
+##. $ ###
+# .  ##
+#   ##
+#####
+Author: Marcis Berzins + Jordi Domenech
+Title: Level 2
+Comment: based on C-Soko #5 Two Boxes 5
+
+########
+#  ..  ##
+# $$@$$ #
+##  ..  #
+ ########
+Author: Roger Delaporte + Jordi Domenech
+Title: Level 3
+Comment: based on rd306
+
+  #####
+###   #
+#  .. ###
+# $$@$$ #
+### ..  #
+  #   ###
+  #####
+Author: Roger Delaporte + Jordi Domenech
+Title: Level 4
+Comment: based on rd306
+
+####
+#  ########
+#..       ###
+#..#$$ $ $  #
+#   @####   #
+######  #####
+Author: Marcus Hof + Jordi Domenech
+Title: Level 5
+Comment: Revenge 17 #4 arranged
+
+  ######
+###.   #
+# .@.$ #
+# #.$###
+# #$ #
+# $ ##
+#   #
+#####
+Author: Jordi Domenech
+Title: Level 6
+
+########
+#   #  #
+#  ... #
+##$#   #
+# $    #
+# $#####
+# @#
+####
+Author: Jordi Domenech
+Title: Level 7
+
+  ####
+ ##  ####
+ # ...  #
+ #   .# #
+##$#$## #
+# $ $ @ #
+#     ###
+#######
+Author: David Buchweitz + Jordi Domenech
+Title: Level 8
+Comment: based on Chrysalis Collection 6 #49
+
+##########
+#  #  ...#
+# $$$#@  #
+#    ## ##
+###     #
+  ####  #
+     ####
+Author: Jordi Domenech
+Title: Level 9
+
+#######
+#  #  #
+#     #
+#     #
+#### ##
+#  @  #
+# $**.#
+#  #  #
+#######
+Author: Marcis Berzins + Jordi Domenech
+Title: Level 10
+Comment: C-Soko #20 Three Boxes 4 arr.
+
+#######
+#...  #
+# $@$ ##
+## ##  #
+ #  $  #
+ #  #  #
+ #######
+Author: Marcis Berzins
+Title: Level 11
+Comment: C-Soko #24 Three Boxes 8
+
+ #######
+##  #  ###
+#   $$@$ #
+#  # ... #
+#  #  #  #
+##########
+Author: Marcis Berzins
+Title: Level 12
+Comment: C-Soko #30 Three Boxes 14 arr.
+
+    #####
+  ###   #
+  #    .#
+### $ #.##
+#  $$#.. #
+#   $    #
+####@ ####
+   ####
+Author: Jordi Domenech
+Title: Level 13 Tetris
+
+#####
+#   ######
+# .      #
+#...###  #
+#...     #
+####  #  #
+  ### ####
+  # $ $ #
+  # $ $ #
+  # $$$ #
+  #  @  #
+  #######
+Author: unknown + Jordi Domenech
+Title: Level 14
+Comment: based on IG-Sokoban #12
+
+     #####
+######   #
+#   #  . #
+# $ # $.##
+##   $$.#
+ #  ##@.#
+ #  #####
+ ####
+Author: Marcis Berzins
+Title: Level 15
+Comment: C-Soko #38 Four Boxes 6 arr.
+
+########
+#   #  #
+# $    #
+# $##  #
+##@*.  #
+# $.. ##
+#  ####
+#  #
+####
+Author: Marcis Berzins + Jordi Domenech
+Title: Level 16
+Comment: based on C-Soko #8 Two Boxes 8
+
+#####
+#   ##
+#    #
+#.$. #
+#$*$##
+#.$.#
+#   #
+# @ #
+#####
+Author: Jordi Domenech
+Title: Level 17
+
+ ########
+##      #
+# $ ### #
+# #.$.# #
+#  $* @ #
+# #.$.# #
+# ###   #
+#     ###
+#######
+Author: Serg Belyaev + Jordi Domenech
+Title: Level 18
+Comment: svb268 arranged
+
+########
+#   #  #
+#   $$ #
+## ##  #
+ #  # ##
+ #$$#..#
+ #. @..#
+ #$##  #
+ #    ##
+ ######
+Author: Jordi Domenech
+Title: Level 19
+
+  ####
+ ##  #####
+##   ..  #
+#  #$..  #
+#  $@## ##
+### $  $#
+  ###   #
+    #####
+Author: Thomas Reinke + Jordi Domenech
+Title: Level 20
+Comment: TBox #13 arranged
+
+ #####
+##   ###
+#  .$. #
+# #$*$ #
+#  .$. #
+#### # #
+   # @ #
+   #####
+Author: Jordi Domenech
+Title: Level 21
+
+#########
+#  ..#  #
+# #..$  #
+#  $ #  #
+##  ## ##
+ # $@$  #
+ ####   #
+    #####
+Author: Marcis Berzins
+Title: Level 22
+Comment: C-Soko #40 Four Boxes 8
+
+    #####
+#####@  #
+#   $$$ #
+#..**. ##
+#      #
+########
+Author: Marcis Berzins
+Title: Level 23
+Comment: C-Soko #48 Five Boxes 3
+
+########
+#  ##  ###
+#   ..   #
+#  $#.$$ #
+###  .$@##
+  #######
+Author: Marcis Berzins
+Title: Level 24
+Comment: C-Soko #44 Four Boxes 12
+
+  #######
+  #  .* #
+###  $$@#
+#  $ # ##
+#    #  #
+####..  #
+   ######
+Author: Marcis Berzins
+Title: Level 25
+Comment: C-Soko #52 Five Boxes 7 arr.
+
+#######
+# .$  #
+#..   #
+#.  ###
+#.# $ #
+#  $$ #
+##$#  #
+ # @  #
+ ######
+Author: Marcis Berzins
+Title: Level 26
+Comment: C-Soko #53 Five Boxes 8 arr.
+
+    ####
+ ####  #
+ #  **.#   #
+## ## .#  #
+ #    .####
+ ###$$$   #
+   #      #
+   #@###  #
+   ### ####
+Author: Marcis Berzins
+Title: Level 27 Puppy
+Comment: C-Soko #55 Five Boxes 10 Puppy (arr.)
+
+ ######
+##    #
+#  #  #
+# ##$.##
+# ..*. #
+# # $  #
+# ##$$@#
+#    ###
+######
+Author: Jordi Domenech
+Title: Level 28 Turn L
+
+#########
+#   ##  #
+#   ...$#
+## # #. #
+#  # ##$##
+#    $ $ #
+#  ### @ #
+#### #####
+Author: Shaggath + Jordi Domenech
+Title: Level 29
+Comment: V2009 #114 arranged
+
+       ####
+    ####  #
+    #     #
+    #  #  #
+#####$ #*##
+#   #.##  #
+#  $.@.$  #
+#####.#   #
+    #$ ####
+    #  #
+    #  #
+    ####
+Author: 老熊 (Lao Xiong) + Jordi Domenech
+Title: Level 30
+
+###########
+#    #    #
+# ## . ## #
+# ## *  # #
+#   * * $ #
+##$#.#.#$##
+# $ * *   #
+# #  * ## #
+# ## + ## #
+#    #    #
+###########
+Author: 风过了无痕 (SokoWind) + Jordi Domenech
+Title: Level 31
+Comment: based on Riddle Sokoban #7
+
+ ########
+ #.     #
+ #. # $ #
+##.## ###
+# . # $ #
+#   $ $ #
+#  ## @ #
+#########
+Author: Sven Egevad + Jordi Domenech
+Title: Level 32
+Comment: SE 787 variant
+
+#######
+#  .. #
+#@$.. #
+##$#  #
+# $   #
+# $ ###
+#   #
+#####
+Author: Shaggath + Jordi Domenech
+Title: Level 33
+Comment: V2009 #38 variant
+
+    ####
+    #  #
+    #  ####
+#####$$   #
+#    $  # #
+#  $$ #$  #
+### $## # #
+  #@....# #
+  ###. .. #
+    #######
+Author: Marcus Hof + Jordi Domenech
+Title: Level 34
+Comment: Revenge 39 #6 arranged
+
+  ####
+###  #
+# $  #
+# #.$#
+# #. #
+# #.$###
+#  .$  #
+# #. # #
+# ##$  #
+#  @ ###
+######
+Author: Jordi Domenech
+Title: Level 35
+
+  ####
+###  #
+# $ $#
+# #. #
+# #.$#
+# #. ###
+# $.   #
+# #. # #
+# ## $ #
+#  @ ###
+######
+Author: Jordi Domenech
+Title: Level 36
+
+      ####
+    ###  #
+  ###    #
+###  $$$@#
+#..  $  ##
+#.. $#  #
+#.#  ####
+######
+Author: Marcis Berzins
+Title: Level 37
+Comment: C-Soko #54 Five Boxes 9 arr.
+
+ ##############
+##   . . .    #
+# $  *$* * #$ #
+# @# * *$*  $ #
+#    . * . ####
+############
+Author: Jordi Domenech
+Title: Level 38
+
+############
+# . . . .$ #
+# #$#$#$#$ #
+# . . . . .#
+# #$#$#$#$ #
+# . .$. .  #
+# #$#$#$#$##
+# . . . .  #
+# #$#$#$#$ #
+# . .$. . .#
+###$#$#$#  #
+#@         #
+############
+Author: Milutin Negovanovic + Jordi Domenech
+Title: Level 39
+Comment: Mitija 1 #15+
+
+    ####
+#####  ####
+# $ ..    #
+#@$$..#$$ #
+# $ ..  ###
+######  #
+     #  #
+     ####
+Author: Jordi Domenech
+Title: Level 40
+Comment: based on Sokoban Perfect #290
+
+   #######
+ ### @   #
+ #   $##.#
+ # #$$ #.#
+ # #    .#
+ # #  ##.#
+##$##### ##
+#         #
+#   ###   #
+##### #####
+Author: Milutin Negovanovic + Jordi Domenech
+Title: Level 41
+Comment: based on Red Star #20
+
+       ####
+   #####  #
+ ### @    #
+ #   $##. #
+ # #$$ #.##
+ # #    .##
+##$#####. #
+# $     . #
+#   ###   #
+##### #####
+Author: Milutin Negovanovic + Jordi Domenech
+Title: Level 42
+Comment: based on Red Star #20
+
+  #####
+###   ###
+# $ #   #
+# #$$$  #
+# . ...##
+# @ ####
+#####
+Author: Jordi Domenech
+Title: Level 43
+
+  ########
+ #       #
+#  *.*.* #
+# * $ $  #
+# *$######
+# . #
+# . #
+# *$######
+# * $ $  #
+#  *.*.* #
+ #      @#
+  ########
+Author: laizhufu + Jordi Domenech
+Title: Level 44 C
+
+   #####
+####   #
+# @$$$ #
+# ##   #
+# #. ###
+# # $ #
+# #.# ##
+#. .   #
+#      #
+########
+Author: Shaggath + Jordi Domenech
+Title: Level 45
+Comment: V2009 #26 arranged
+
+ ####
+ #  #
+ #  ######
+ #   $   #
+##$##$#$ #
+#   #... ###
+#    .+.#  #
+##$##...$  #
+ #  ##$##  #
+ #  #  ##$##
+ #  #  $   #
+ ####  #   #
+    ########
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 46
+Comment: based on kbr1205
+
+    ######
+  ###  @ #
+  # $$ # #
+  #      #
+  ### ####
+###... #
+#   ** #
+# # ...#
+# # ######
+# $$$    #
+###   $  #
+  #  #####
+  ####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 47
+Comment: kbr1016 variation
+
+#########
+# .... @#
+# ## .  #
+# #  # ##
+# #$ # #
+# $  # ##
+##$ ##  #
+ #   $$ #
+ #   #  #
+ ########
+Author: David W. Skinner + Jordi Domenech
+Title: Level 48
+Comment: Sasquatch IV #11 arranged
+
+   ########
+ ###  #   #
+##  *   $ #
+# ....##$ #
+# # #.##  #
+# $ $.  $##
+####### $ #
+      # @ #
+      #####
+Author: Marcus Hof + Jordi Domenech
+Title: Level 49 Be careful at end
+Comment: based on Revenge 39 #38
+
+  #####
+###   ##
+#. $   #
+#..#   #
+# *$ $##
+# .**$ #
+###@   #
+  ######
+Author: Marcus Hof
+Title: Level 50 Beginners only
+
+   ######
+   # ...#
+ ### # .#
+ # $ $..#
+## $ $  #
+#  $$####
+#  @ #
+######
+Author: Marcus Hof + Jordi Domenech
+Title: Level 51 Easier than it looks
+Comment: based on Revenge 39 #1
+
+ ####
+ #  ###
+ #$ $ ####
+ #@ #... #
+##$##.#.$##
+#  $ .# $ #
+#  #      #
+##    ##  #
+ ##########
+Author: Marcus Hof + Jordi Domenech
+Title: Level 52
+Comment: based on Revenge 39 #7
+
+    #########
+    #   #.  #
+#####.....$ #
+#    .  ## ##
+#  ###  ## #
+## # ##### ##
+## ### @ #  #
+#    $$$$$$ #
+#   #    #  #
+#######  ####
+      ####
+Author: Blaz Nikolic + Jordi Domenech
+Title: Level 53
+Comment: Blazz2 #4 extension
+
+#########
+###...###
+# * * * #
+# * * * #
+# * * * #
+#  $$$  #
+### @ ###
+#########
+Author: Ghislain Martin + Jordi Domenech
+Title: Level 54 Why+
+Comment: based on SokoStation #285
+
+#########
+#   .   #
+# * . * #
+# * . * #
+# *.*.* #
+# $$$$$ #
+### @ ###
+#########
+Author: Ghislain Martin + Jordi Domenech
+Title: Level 55 Why++
+Comment: based on SokoStation #285
+
+#####
+# @ #
+# # #####
+# $$#   #
+# $.. # #
+# *#.##$##
+# ..   $ #
+##   #   #
+ #########
+Author: Premysl Zika + Jordi Domenech
+Title: Level 56
+Comment: based on Primus gradus ad Olympo #38
+
+  ####
+###  ####
+# $ $ $ #
+# #...# #
+#  *@*  #
+# #...# #
+# $ $ $ #
+####  ###
+   ####
+Author: Jordi Domenech
+Title: Level 57
+
+#######
+#     #
+#  ***###
+##  $   #
+ # ***  #
+ #  +   #
+ ########
+Author: Jordi Domenech
+Title: Level 58
+
+    #####
+#####   #
+#  $    #
+#  $## ##
+##.$.. .#
+ # $#   #
+ # @#####
+ #  #
+ ####
+Author: David W. Skinner + Jordi Domenech
+Title: Level 59
+Comment: Sasquatch IV #2 variant
+
+#######
+#. #  #####
+#.$# $#   #
+#. #   ...#
+# $# $#####
+#  #  #
+# $# $#
+#     #
+# @#  #
+#######
+Author: Peter Asztalos + Jordi Domenech
+Title: Level 60
+Comment: AKK Informatika #12 arranged
+
+###########
+#    ##   #
+# $  #. . #
+# #* # *# #
+# #  #  # #
+# #* $ *# #
+# #  #  # #
+# ####### #
+#    @    #
+###########
+Author: Sven Egevad + Jordi Domenech
+Title: Level 61
+Comment: SE 1004 variation
+
+#########
+#   # . #
+#     . #
+### ##*##
+  #   .###
+  # ##.  ##
+ ##$#     #
+ # $  $ $ #
+ # @ ######
+ #####
+Author: Morganine + Jordi Domenech
+Title: Level 62
+Comment: Sokomet #63 variant
+
+  #######
+  #  @  #
+### ###$##
+# $$$    #
+# # $$##.#
+#      #.#
+####  ...#
+   ###.# #
+     #   #
+     #####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 63
+Comment: based on kbr1941
+
+ #########
+ #       #
+ # #####$#####
+ # #   #     #
+ # # $    $  #
+## ## ##### ##
+#  #...  #   #
+#   ...# # $ #
+#  #...# # $ #
+##   @ # $$$ #
+ ####### $   #
+       ###   #
+         #####
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 64
+Comment: based on Dushi 4 #3 Svengali
+
+#####         #####
+#   ###########   #
+# *     #   #   # #
+#.*.  #   #   #   #
+##.#$########### ##
+ # # #   #   $   #
+ # # # .$.$. # # #
+ # # # $ * $ # # #
+ #$# ##.*@*.## #$#
+ # # # $ * $ # # #
+ # # # .$.$. # # #
+ #   $   #   # # #
+## ###########$#.##
+#   #   #   #  .*.#
+# #   #   #     * #
+#   ###########   #
+#####         #####
+Author: unknown + zhenying + Jordi Domenech
+Title: Level 65
+
+#########
+#   *   #
+#  * *  #
+# *   * #
+# **#** #
+# *   * #
+# * $ * #
+#$* * *$#
+#.*   *.#
+# ***** #
+# * * * #
+#   +   #
+#########
+Author: 风过了无痕 (SokoWind) + Jordi Domenech
+Title: Level 66
+Comment: based on Riddle Sokoban #16
+
+#####      ####
+#   ########  #
+#           * #
+## #########  #
+ # #       # ##
+ # # ##### # #
+ # # #   # # ####
+ #@# # # .$.$.  #
+ # # #   $.$.$  #
+ # # ##### # ####
+## #       # #
+#  ######### ##
+#           * #
+#  ########   #
+####      #####
+Author: Thomas Reinke + Jordi Domenech
+Title: Level 67
+Comment: Patera #1+
+
+############
+# ........ #
+# .####### ##
+##.###      #
+ #.## $$$$$ #
+ #.## $ @ $ #
+ #.## $ # $.#
+ #.## $   $ #
+ #.   $$$$$ #
+ #  #       #
+ ############
+Author: dzxmer + Jordi Domenech
+Title: Level 68
+Comment: Dzxmer Box #4+
+
+########
+#      #
+# $****#
+#  *  .#
+#  * #@#
+## ****##
+#  $  . #
+#  *  . #
+##$**** #
+ #      #
+ ########
+Author: Jordi Domenech
+Title: Level 69 E to S - To Erim Sever
+
+###################
+# ...  . #. .  .  #
+# *$$ .$. * * .$. #
+# *.. * * *.$ * * #
+# $$* * * *$. * * #
+# ..*#$.$#* *#$.$ #
+##$$$  $  $ $  $ ##
+# .. # . #. $#. . #
+# *$. .$. *.  * * #
+# *.$ *.* *$. * * #
+# *$. *@* * $.* $ #
+# *.$ * * *  $* . #
+# $$  $ $ $   $ $ #
+###  #  ###  #  ###
+  ####### #######
+Author: John C. Davis + Jordi Domenech
+Title: Level 70 Sokoban!
+Comment: Level 2+
+
+   #####
+   #   ########
+####$  $   @  #
+#  # ######## ##
+# $$        #  #
+#  # ###$## $$ #
+# $# #   #..#  #
+#  # #$  #..# ##
+#  # # $ #. #  #
+# $# # $ #  ## #
+#      $ #...  #
+######  ##..# ##
+  #  #  #...#$#
+  # $#$ #...# #
+  # $   #...# #
+  #  ## ##### #
+  #   $  $    #
+  ##  #####   #
+   ####   #####
+Author: unknown + Jordi Domenech
+Title: Level 71 Old style
+Comment: Cb7 phg10 arranged
+
+ #########
+ #       #
+ # ##.##$#
+ # # . . #
+ # #$.## #
+ # .$ ## ##
+##$##.##$ #
+#       $@#
+#   #  #  #
+###########
+Author: Sven Egevad + Jordi Domenech
+Title: Level 72
+Comment: based on SE 374
+
+#####  ####
+#   ####  #
+#         #
+## #####  #
+##$# @ # ###
+# $ .#$#$  #
+# # . $    #
+# ...#######
+######
+Author: Thomas Reinke + Jordi Domenech
+Title: Level 73
+Comment: based on TBox #34
+
+            ####
+   ##########  #
+   #           #
+   # ###$###*  #
+####$*      * ##
+#   * #  $  * #
+# #**@ ###*** #
+# #  #   #   ##
+# #  #   #   #
+# *******###$#
+# ..         #
+##..##########
+ ####
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 74
+Comment: based on Dushi 4 #1 Serpentine
+
+#######################
+#           #   #     #
+# * * *** * # . # *$* #
+# * * *   * # * # * * #
+# * * *   * # * # * * #
+##**.#**#$* # * # * *##
+# * * *   * # * # * * #
+# * * *   * # *   *@* #
+# * * *** *** *** *** #
+#     #   #           #
+#######################
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 75
+Comment: based on Dushi 4 #36 Hellu
+
+ #########
+##   #   ##
+# $* * *$ #
+# . * * . #
+# * *@* * #
+#  * * *  #
+#   ###   #
+##### #####
+Author: Jordi Domenech
+Title: Level 76
+
+###################
+#......    $......#
+#. #$##$##$##$# $.#
+#.$   $        $ .#
+#.$# ###$###$# ##.#
+#.   $     $    $.#
+# #$###$# ##$# ##$#
+#  $    $@   $    #
+#$## #$## #$####$ #
+#.$       $     $.#
+#.$# ###$###$# ##.#
+#.       $     $ .#
+#.$##$#$#####$ #$.#
+#...... $   ......#
+###################
+Author: Jordi Domenech
+Title: Level 77 Rayas
+
+        ######
+#### #### .  #
+#  ###  # $  #
+#      . ## ##
+#.$###$.$ # #
+#  #  $.  # ##
+### $ $.$$$  #
+ # ....#.... #
+ #  $$$.$ $ ###
+ ## #  .$  #  #
+  # # $.$###$.#
+ ## ## .      #
+ #  $ #@ ###  #
+ #  . #### ####
+ ######
+Author: dzxmer + Jordi Domenech
+Title: Level 78
+Comment: Dzxmer Box #21 variation
+
+########
+#  ##  #
+#   $  #
+#  ### ####
+##  #  #  #
+ #$$*     #
+ #  .  #  #
+ ###*###$##
+   #...   #
+   # @ #  #
+   #####  #
+       ####
+Author: Marcus Hof + Jordi Domenech
+Title: Level 79 L
+Comment: based on Revenge 39 #4
+
+###########
+#        ##
+# ## # ## #
+# ##$ $ # #
+#  $...$  #
+#.##*@*##.#
+#  $...$  #
+# # $ $## #
+# ## # ## #
+##        #
+###########
+Author: unknown + Jordi Domenech
+Title: Level 80
+
+   #######
+  ##  @  #
+  # $#$# ##
+  # ....  #
+  # # #.  #
+### # #.###
+# $$$$#  #
+#        #
+#######  #
+      ####
+Author: Marcus Hof + Jordi Domenech
+Title: Level 81
+Comment: based on Revenge 39 #47
+
+  #########
+  #       #
+### ##### #
+#  $ .....#
+# $    # .#
+## #####$##
+#   $ $ $ #
+#   #   @ #
+###########
+Author: Marcus Hof + Jordi Domenech
+Title: Level 82
+Comment: Revenge 39 #15 variant
+
+ #######
+ #  #  ##
+##   ...#
+#  ##...#
+#   # ####
+#   #$   #
+## $@$ $ #
+ # $$##  #
+ ###     #
+   #######
+Author: Marcus Hof
+Title: Level 83 Long way home
+
+#########
+#       #
+# ***** #
+#      ##
+# **+** #
+##  $   #
+# ***** #
+#       #
+###  ####
+  ####
+Author: Jordi Domenech
+Title: Level 84 Three parallels 10
+
+   ####
+####  ###
+#       #
+# ***** #
+# $    ##
+# .*#** #
+##      #
+# ***** #
+#   @   #
+#########
+Author: Jordi Domenech
+Title: Level 85 Three parallels 11
+
+ ####
+ #  #####
+##      #
+# **#** #
+#   #   #
+# #*#*# #
+#   #   #
+# .* *$ #
+#   # @ #
+#########
+Author: Jordi Domenech
+Title: Level 86 Three parallels 12
+
+  #######
+###  *  ###
+#    *    #
+#   ###   #
+##* *@* *##
+#  * * *  #
+# ### ### #
+#  # * #  #
+## # . $ ##
+ #   *   #
+ #########
+Author: 风过了无痕 (SokoWind) + Jordi Domenech
+Title: Level 87
+Comment: Riddle Sokoban #5 variation
+
+######
+#    ###
+# .*.. ###
+# #$ #$  #
+#    .$. #
+# #$ #$$##
+# .**.$@#
+#    ####
+######
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 88
+Comment: based on kbr1514
+
+#####
+#   ######
+# #$##   #
+#@     $ #
+###$$##$###
+ # $..# $ #
+ # #..$   #
+ # #..### #
+ #  ..    #
+ ####   ###
+    #####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 89 Eight
+Comment: based on kbr1535
+
+      #####
+      #   #
+#######   #
+#     # $##
+# ****#* #
+# *    * #
+# * ** * #
+#  *@* * #
+# .*** * #
+#      # #
+# ****** #
+#        #
+##########
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 90
+Comment: based on Serena 6 #29 Joy of thinking
+
+      #####
+      #   #
+#######   #
+#       $##
+# ****#* #
+# *    * #
+# * ** * #
+#  *@* * #
+##.*** * #
+#      * #
+# ****** #
+#        #
+##########
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 91
+Comment: based on Serena 6 #29 Joy of thinking
+
+#################
+#       #     # #
+##*$*$* @ *.*.* #
+# . . . # $ $ $ #
+# *$*$*###*.*.* #
+# . . . # $ $ $ #
+# *$*$*   *.*.* #
+#   #   #   #   #
+#################
+Author: Archanfel + Jordi Domenech
+Title: Level 92 Overturn 1+
+Comment: based on ABHT 02 #85
+
+   #####
+####.  #
+#      #
+#.**# ##
+## @#  #
+ #$$   #
+ # ### #
+ #     #
+ #######
+Author: Morganine + Jordi Domenech
+Title: Level 93
+Comment: Sokomet #32 arranged
+
+ ########
+##      #
+#  #### ##
+#  #  #  #
+#  #..** ##
+# $$  #   #
+#  #  # @ #
+###########
+Author: Premysl Zika + Jordi Domenech
+Title: Level 94
+Comment: Primus gradus ad Olympo #26 variation
+
+#######
+#     #
+# #$$ #
+# #@  #
+# *** #
+# * * #
+# * * #
+##. .##
+ #####
+Author: Thomas Reinke + Jordi Domenech
+Title: Level 95
+Comment: based on Quagmire #31
+
+#####      ####
+#   ########  #
+#         $ $ #
+##$#######.#  #
+ # ###  $ .#.##
+ # #   $ $ # #
+## # ##### # #
+# $ .  ... # #
+#    # @ #   #
+##############
+Author: unknown + Jordi Domenech
+Title: Level 96
+Comment: based on IG-Sokoban #8
+
+  #######
+  #     ###
+### ###   #
+#  @  #$$ #
+# ### # ###
+#   *.#  #
+##$#*.   #
+#  #  .**##
+# $#$#... #
+#    #  $ #
+####   ####
+   #####
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 97
+Comment: based on Dushi 4 #32 Jelly beans
+
+#####
+# @ #######
+# $     $ #
+##$####.# #
+#     ... #
+# $ $ #.###
+#####    #
+    ##   #
+     #####
+Author: Morganine + Jordi Domenech
+Title: Level 98
+Comment: Sokomet #38 arranged
+
+############
+#  ##  #   #
+#        $ #
+#  ##$### ##
+## ##.. # #
+ # # ..$#$#
+ # # .. . #
+##$#$#### #
+# $   @   #
+#   #######
+#####
+Author: Jordi Domenech
+Title: Level 99 Central storage
+
+############
+#  ##  #   #
+# $$     $ #
+#  ## ###$##
+## #....# #
+ # #....  #
+ #   ###$##
+##$# #   #
+# $  @ $ #
+#   ######
+#####
+Author: Jordi Domenech
+Title: Level 100 Central storage 2

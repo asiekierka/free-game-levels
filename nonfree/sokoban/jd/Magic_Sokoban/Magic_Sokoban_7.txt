@@ -1,0 +1,1146 @@
+Author: Jordi Domènech and other authors
+Collection: Magic Sokoban 7
+Email: jd.sokoban2020@gmail.com
+Blog: sokoban-jd.blogspot.com
+Copyright: (c) by Jordi Domènech, and the authors of each level
+Date: June 2015 - December 2018
+
+Author's note:
+Small levels, simple and beautiful. Many of these levels are based on the levels of other authors: all them I am grateful.  
+
+In this set, the best levels are: 1, 33-34, 38-39, 47, 73.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+These levels are copyright (c) by Jordi Domènech and the authors of each
+level, and may be freely distributed for non-commercial use provided they 
+remain unchanged, credited with the author's name, and provided the author
+is notified.
+
+License: Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported
+http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+This collection has been downloaded from my blog:
+Sokoban. The beautiful world of remodels
+http://sokoban-jd.blogspot.com/
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+######
+#    #
+# #$ #
+# .$.#
+#  @ #
+######
+Author: Jordi Domenech
+Title: Level 1 Duh! - For David W. Skinner
+
+ #####
+ # . ##
+ # .  #
+ # .  #
+## # ##
+# $$$#
+#  @ #
+######
+Author: Jordi Domenech
+Title: Level 2
+
+ #######
+ #     #
+ #.  $ #
+##.##$###
+# .  $  #
+#   #@  #
+#########
+Author: Jordi Domenech
+Title: Level 3
+
+ ####
+##  #
+# .$##
+#@.$ ##
+# .$  #
+### # #
+  #   #
+  #####
+Author: Jordi Domenech
+Title: Level 4
+
+###########
+#    *    #
+#  . . .  #
+## ##### ##
+ # $ $ $ #
+ #   @   #
+ #########
+Author: Jordi Domenech
+Title: Level 5
+
+########
+#   # .#
+# $@$ .#
+##$###.##
+#  #    #
+#       #
+#  ######
+####
+Author: Jordi Domenech
+Title: Level 6
+
+########
+#   #  #
+# $@$  #
+##$### ##
+#  #... #
+#       #
+#  ######
+####
+Author: Jordi Domenech
+Title: Level 7
+
+ #######
+ #     #
+ # ### #
+ #. $  #
+##.#$###
+# . $  #
+#   @# #
+### ## #
+  #    #
+  ######
+Author: Jordi Domenech
+Title: Level 8 Move it
+
+ #########
+ #       #
+##$# ### #
+#  # *@# #
+#    *## #
+#  # .   #
+####  ####
+   ####
+Author: Jordi Domenech
+Title: Level 9
+
+  ####
+###  ####
+#       #
+# ##$## #
+# . * # #
+# # $@# #
+# . *## #
+###     #
+  #######
+Author: Jordi Domenech
+Title: Level 10
+
+  #####
+  #   #
+ ##$  #
+##   $##
+#  $ $ ##
+# # ##..#
+# $ @ ..#
+####$#..#
+   #    #
+   ###  #
+     ####
+Author: Thinking Rabbit + Jordi Domenech
+Title: Level 11 Original Lilliput #1
+Date: April 2010
+
+ #########
+ #..#    ###
+ #..# $    #
+##..#$$##$ #
+#...  @ #  #
+#   # # $ ##
+##### ## $ #
+  # $ $  $ #
+  #   #    #
+  ##########
+Author: Thinking Rabbit + Jordi Domenech
+Title: Level 12 Original Lilliput #2
+Date: April 2010
+
+ #######
+ #    @#
+ # $#$ #
+ # $  $#
+ ##$ # ##
+ # $  $ #
+##.     #
+# *######
+# ......#
+#########
+Author: Thinking Rabbit + Jordi Domenech
+Title: Level 13 Original Lilliput #3
+Date: April 2010
+
+       #######
+########   ..#
+#   #   $ ...#
+# $ #$ $ #...#
+# $    $ #...#
+# $$#$$ $#####
+#   #    #
+##. ######
+# .##   #
+#   $ $ #
+#   ##  #
+###### @#
+     ####
+Author: Thinking Rabbit + Jordi Domenech
+Title: Level 14 Original Lilliput #4
+Date: April 2010
+
+ ########
+ #  #   #####
+ #  # #$##  #
+ #  #     $ #
+ #. #  ##$  #
+ #.  $ $ @###
+ #..# $ $ #
+##..#$ $ $#
+# ..#   # #
+# ..###   #
+##### #####
+Author: Thinking Rabbit + Jordi Domenech
+Title: Level 15 Original Lilliput #5
+Date: April 2010
+
+ #########
+##...# @ #
+# ...#   #
+# ..##$$ #
+##   # $ #
+ # #$  $ #
+ # # # $ #
+ #   $$# #
+ #  ##   #
+ #########
+Author: Thinking Rabbit + Jordi Domenech
+Title: Level 16 Original Lilliput #6
+Comment: To George Petrov, who gives me courage to continue with the Lilliput collection
+Date: April 2010
+
+     ####
+ #####  ####
+ #   #     #
+ #  $@$ $  #
+ ##$#### ####
+##    # *.  #
+#   # $...$ #
+#   $ #...###
+#  ########
+####
+Author: Thinking Rabbit + Jordi Domenech + YASGen
+Title: Level 17 Original Lilliput #7
+Date: April 2010
+
+   #####
+  ##   #####
+  # $#     ###
+  #  $$  #   #
+  # $# # ### #
+###$ $ $   # #
+# $ $  #$#   #
+#@$    $   ###
+#####  #####
+ #    #..#
+ #  .....#
+ #  .....#
+ #########
+Author: Thinking Rabbit + Jordi Domenech
+Title: Level 18 Original Lilliput #8
+Date: April 2010
+
+ #########
+ #       #
+ # @ $ $ #
+#### ##*##
+#  # #   #
+# $* ..# ##
+#  # ..   #
+## #### $ #
+ #      ###
+ ########
+Author: Jordi Domenech
+Title: Level 19
+
+         #####
+##########   #
+#   #      $ #
+# $@$   $ # ##
+##$##### ##  #
+#  #.... .*. #
+#  $   #  #  #
+#  ###########
+####
+Author: Jordi Domenech
+Title: Level 20
+
+##########
+#   ##   #
+#  ..    #
+## ### ###
+ # #     #
+ # # @ $ #
+## ####$##
+#       #
+#   #####
+#####
+Author: Jordi Domenech
+Title: Level 21 Sokoban lessons with rooms #1
+
+##########
+#   ##   #
+# ...    #
+## ### ###
+ # #     #
+ # # @ $ #
+## ####$##
+#      $ #
+#   ##   #
+##########
+Author: Jordi Domenech
+Title: Level 22 Sokoban lessons with rooms #2
+
+#### #####
+#  ###   #
+#  ...   #
+#  ### ###
+## #     #
+ # # @ $ #
+## ####$##
+#      $ #
+#   ##   #
+##########
+Author: Jordi Domenech
+Title: Level 23 Sokoban lessons with rooms #3
+
+#########
+#   #   #
+# *.. @ #
+## ## ###
+ # #    #
+## #  $ #
+#  ###$##
+#       #
+#  ##   #
+#########
+Author: Jordi Domenech
+Title: Level 24 Sokoban lessons with rooms #4
+
+#######
+#  #  #
+# $$  #
+#  ## ####
+## #. ...#
+ # #  $  #
+ # ###$# #
+ #    @  #
+ #########
+Author: Jordi Domenech
+Title: Level 25 Sokoban lessons with rooms #5
+
+########
+#  #   #
+# $$   #
+#  ## #####
+## #. ... #
+ # #  $   #
+ # ###$#*##
+ #        #
+ ###### @ #
+      #####
+Author: Jordi Domenech
+Title: Level 26 Sokoban lessons with rooms #6
+
+########
+# @ #  ####
+# $       #
+##$## ### ##
+ # #. ..   #
+ # # $ #   #
+ # ### #####
+ #     #
+ #######
+Author: Jordi Domenech
+Title: Level 27 Sokoban lessons with rooms #7
+
+########
+#  #   #
+# .... #
+#  # ######
+## #   @  #
+ # # $ $  #
+ # ####$###
+ #     $ #
+ #  #    #
+ #########
+Author: Jordi Domenech
+Title: Level 28 Sokoban lessons with rooms #8
+
+#########
+#       #
+# $@$$$ #
+# ### ###
+#   . .#
+#   . .#
+########
+Author: Jordi Domenech
+Title: Level 29 Sokoban lessons with rooms #9
+
+  #######
+###     #
+#   $ $ #
+# ##$#####
+# #.$.   #
+# #.@.   #
+# ###### #
+#        #
+##########
+Author: Jordi Domenech
+Title: Level 30 Sokoban lessons with rooms #10
+
+  #######
+###     #
+#   $ $ #
+# ##$#####
+# #.$.   #
+# #.@.   #
+# #### ###
+#      #
+########
+Author: Jordi Domenech
+Title: Level 31 Sokoban lessons with rooms #10b
+
+ ########
+##      #
+#   $ $ #
+# ##$######
+# #.$.    #
+# #.@.  * #
+# ###### ##
+#         #
+#######   #
+      #####
+Author: Jordi Domenech
+Title: Level 32 Sokoban lessons with rooms #11
+
+ ########
+ #      #
+ #  $ $ #
+### ##.##
+# *  #.#
+# *  #.#
+#@*  # #
+## ### ##
+#     $ #
+#   #   #
+#########
+Author: Jordi Domenech
+Title: Level 33 Sokoban lessons with rooms #12
+
+#########
+#       #
+# ##### #
+# #   # #
+# # $   #
+# ##$## #
+#  *  #.#
+#  *  #.#
+# @*  #.#
+###$### #
+ #      #
+ #   #  #
+ ########
+Author: Jordi Domenech
+Title: Level 34 Sokoban lessons with rooms #13
+
+   ##########
+####    #   #
+#  # ##   $ #
+# $  #  ##$##
+#  # #  .# #
+## # # ..# ##
+#  # #####  #
+#      @    #
+##  #####  ##
+ ####   ####
+Author: Jordi Domenech
+Title: Level 35 Sokoban lessons with rooms #14
+
+  #####
+  #   #######
+### $   #   #
+#  # ##   $ #
+# $  #  ##$##
+#  # .  .# #
+## # # ..# ##
+ # # #####  #
+ #     @    #
+ #########  #
+         ####
+Author: Jordi Domenech
+Title: Level 36 Sokoban lessons with rooms #15
+
+#######
+#  #  #
+# *   #
+#  #  #
+## # #########
+ # #     #   #
+ # ## ##   $ #
+ # #  #  ## ##
+ # #$ #  .# #
+ # #  # ..# #
+ # #$###### #
+ #      @   #
+ #########  #
+         ####
+Author: Jordi Domenech
+Title: Level 37 Sokoban lessons with rooms #16
+
+ #############
+ #       #   #
+##.#####     #
+#  #  #..## ##
+#   $ #.. # #
+#  #  # $$# ##
+#### ####  $ #
+   #   @     #
+   ######$ ###
+        #  #
+        ####
+Author: Jordi Domenech
+Title: Level 38 Sokoban lessons with rooms #17
+
+     #########
+ #####   #   #
+ #     #   * #
+##.##### ## ##
+#  #  #.. # #
+#   $ #.. # ##
+#  #  # $$$$ #
+#### ####    #
+   #   @   ###
+   ######  #
+        ####
+Author: Jordi Domenech
+Title: Level 39 Sokoban lessons with rooms #18
+
+########
+#   @  #
+# $.$. #
+## ## ##
+ #  #  #
+ ## ##$##
+ # . .$ #
+ #      #
+ ########
+Author: Jordi Domenech
+Title: Level 40
+
+##########
+#     #  #
+# $.$.$  #
+##$## ## #
+ #  #  # #
+ ## ## # ##
+ #  .. #  #
+ #  ##    #
+ ## ## ####
+ # .$.$ #
+ #  @   #
+ ########
+Author: Jordi Domenech
+Title: Level 41
+
+    ####
+#####  #
+#      #
+#  #$*$#
+## #@  ###
+ # ##... #
+ #     $ #
+ #  ######
+ ####
+Author: Jordi Domenech
+Title: Level 42
+
+ #####   ####
+ #   #####  #
+ #        $ #
+ ##$######  #
+ # $ $ $ $ ##
+ #.......# #
+## ####### ##
+#         $ #
+# @ #####   #
+#####   #####
+Author: Jordi Domenech
+Title: Level 43
+
+     ########
+######  @   ####
+#   #  $ $ $#  #
+# $ . # $ $    #
+##*##########  #
+#  #    ..  # ##
+#    # #..   $ #
+#  #    ..##   #
+################
+Author: Jordi Domenech
+Title: Level 44
+
+ #########
+##   .#  #
+#......  ###
+#... ##    #
+## #### #$ #
+ #    $ $  #
+## ## ##$# #
+#   # #  # ##
+# #$$$#$ #  #
+#   $       #
+## #$#####  #
+ # @ #   ####
+ #####
+Author: Jordi Domenech
+Title: Level 45 Classic
+
+    #########
+ ####   #   #
+ #    $@$   #
+## ###$###.##
+#      #... #
+#   #$  . $ #
+#####  ######
+    ####
+Author: Jordi Domenech
+Title: Level 46 Storm
+
+ ####
+##  #########
+#  $#   #   #
+#     $@$   #
+## ###$### ###
+# .    #...  #
+#   #$ $..*  #
+#####  #######
+    ####
+Author: Jordi Domenech
+Title: Level 47 Storm+
+
+############
+#  #   #   #
+#  $     $ #
+#  ## ###$##
+## # .. # #
+ # #...$# ##
+ # #...$.  #
+##$#$###$# #
+# $   @    #
+#   ########
+#####
+Author: Jordi Domenech
+Title: Level 48
+
+######
+#    #
+# * +#
+# * *##
+# * * #
+# * * #
+##$ * #
+ #    #
+ ######
+Author: Jordi Domenech
+Title: Level 49
+
+    #########
+    #   @   #
+##### *#*** #####
+#     *   # $   #
+#.*** *   * ***.#
+#   $ #   *     #
+##### **##* #####
+    #   #   #
+    #########
+Author: Jordi Domenech
+Title: Level 50
+
+#########
+#       #
+#  ***  #
+# * # * #
+# *   * #
+# ***** #
+# *   * #
+# * # * #
+# *$# . #
+# @ #####
+#####
+Author: Jordi Domenech
+Title: Level 51 A
+
+#### ######
+#  ###    #
+#    **** #
+#  # *    #
+## # * # ##
+ # #$***.#
+ # # *   #
+ # # *   #
+ # # ****#
+ #     @ #
+ #  ######
+ ####
+Author: Jordi Domenech
+Title: Level 52 E
+
+######
+#    ###
+# ***  #
+# *  * #
+# +  * #
+# ***  #
+# * ## #
+# *    #
+##*#$ ##
+ #    #
+ ######
+Author: Jordi Domenech
+Title: Level 53 P
+
+#########
+#  #    ###
+# $  ***  #
+#  # *  * #
+## # *  * #
+ # ##***  #
+ # # * ####
+## # . #
+#  #$. #
+#    @ #
+#  #####
+####
+Author: Jordi Domenech
+Title: Level 54 Broken P
+
+  ######
+ ##    ###
+ # ***   #
+ # *  *  #
+ # *@#*###
+## **.   #
+#  *     #
+#  * #$###
+###*##  #
+ #      #
+ #   #  #
+ ########
+Author: Jordi Domenech
+Title: Level 55 Semi compact P
+
+###### ###
+#  . ###.##
+#  *$#  * #
+## * #  * #
+ # * #  * #
+ # * ## * #
+ # * ## * #
+ # * ## * #
+ # * ##$* #
+ # *      #
+ # * #  ###
+ #@  ####
+ #####
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 56 Parallel lanes reviewed
+Comment: based on Chuchubi 2 #28
+
+ #########
+ #       ####
+## ***** #  ###
+# .*   * # $  #
+# # ## * #@*  #
+# #   ** #**  #
+# # ***   *  ##
+#   *    ** *#
+### ******   #
+  #        ###
+  ##########
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 57 Worm reviewed
+Comment: based on Chuchubi 5 #51
+
+  ###########
+###         #
+# . *#* *#* #
+# * * * * * ##
+# *#* *#* $  #
+#     @      #
+####  ########
+   ####
+Author: Jordi Domenech
+Title: Level 58 Stoned snake
+
+    #####
+    # . #
+  ### * ###
+  #   *   #
+### $**#$ ###
+#   #   *   #
+#.*** # ***.#
+#   * @ #   #
+### $#**$ ###
+  #   *   #
+  ### * ###
+    # . #
+    #####
+Author: Jordi Domenech
+Title: Level 59 Star
+
+      #####
+      #   #
+      # $ #
+      # $ #
+    ### * ###
+    #   *   #
+##### ***** #####
+#     *   *     #
+#.***** # *****.#
+#     * @ *     #
+##### ***** #####
+    #   #   #
+    # ##### ##
+    #      * #
+    ######   #
+         #####
+Author: Jordi Domenech
+Title: Level 60 Emoji
+
+####################
+#                  #
+#  ****** #******* #
+## *    * #      * #
+ # * *.$* # **** * #
+ # * *  * # *  * * #
+ # * **** # *$.* * #
+ # *      # *    * #
+ # ******** ****** #
+ #        @        #
+ ###################
+Author: Nebula + Jordi Domenech
+Title: Level 61 Spirals
+Comment: based on #32
+
+#################
+#  #    *    #  #
+#### $. . .  ####
+#  ## ##### ##  #
+#     # $       #
+# .##  $ $ ###. #
+#* # #$#@#$# # *#
+# .### $ $  ##. #
+#       $ #     #
+#  ## ##### ##  #
+####  . . .$ ####
+#  #    *    #  #
+#################
+Author: Jordi Domenech
+Title: Level 62 Chinese lattice
+
+   #####
+   #   #
+   # # #
+  #  $  #
+ #  ***  #
+#  # @ #  #
+# * * * * #
+# *  #  * #
+# * * * * #
+#  #   #  #
+ #  ***  #
+  #  *  #
+   # * #
+   # * #
+   # . #
+   #####
+     #
+     #
+Author: Jordi Domenech
+Title: Level 63 Chinese lantern
+
+    *
+    *
+   ***
+    **
+    *
+  ## ##
+  # * #
+  # . #
+  # * #
+  # * #
+  # * #
+  # * #
+  # * #
+  # * #
+  # * #
+  # * #
+  # * #
+  # * #
+  # $ #
+  ##**#
+#       #
+####@ ###
+  #####
+Author: DrFogh + Jordi Domenech
+Title: Level 64 Candle/Christmas 2018 rev
+
+##########
+####     #
+# .$.$.$ #
+# $.$.$. #
+# .$##.$ #
+# $.##$. #
+# .$.$.$ #
+# $.$.$. #
+#@    ####
+##########
+Author: David W. Skinner + Jordi Domenech
+Title: Level 65
+Comment: based on Sasquatch XII #27
+
+#####    ####
+#   ######  #
+# *      $* #
+##$## ####  #
+# $    $ # ##
+# $$##...# ##
+# #   ...#  #
+#   # #$  . #
+##### @ #####
+    #####
+Author: Jordi Domenech
+Title: Level 66 Six
+
+####     ####
+#  #######  #
+#       . * #
+#  ### * #  #
+## #  * ## ##
+#  # *  ## #
+# $ * #### ##
+#  ##$####  #
+#### .      #
+   # @ ###  #
+   ##### ####
+Author: Jordi Domenech
+Title: Level 67 X Series 06
+
+     #######
+######  #  #
+#  .  $. $ #
+# ##.$. #  #
+# # $.### ##
+# #$. . # #
+#  .#  .$ ##
+###$###$#  #
+ # $       #
+ # @ ####  #
+ #####  ####
+Author: Jordi Domenech
+Title: Level 68 X Series 09
+
+ ##############
+##            #
+#  ********** #
+#  *  @  *  * #
+#  * *# *# ** #
+## *  *$ *  * #
+ # *  * .*  * #
+ # ** #* #* * #
+ # *  *     * #
+ # ********** #
+ #            #
+ ##############
+Author: Jordi Domenech
+Title: Level 69 The secret box
+
+  #######
+###     #
+# .**** #
+# *   * #
+# * # * #
+# * #@* #
+# ****$ ##
+#        #
+######   #
+     #####
+Author: Sven Egevad + Jordi Domenech
+Title: Level 70 Broken square
+Comment: based on SE 134
+
+  #######
+###     #
+# .**** #
+# #   * #
+# # # * #
+# # #@* #
+# #***$ ##
+#        #
+######   #
+     #####
+Author: Sven Egevad + Jordi Domenech
+Title: Level 71 Broken square+
+Comment: based on SE 134
+
+      ####
+#######  #
+#   $ $ $#
+#  ..... #
+##$.$$$.$#
+ # .#@#. #
+ #$.$$$.$##
+ # .....  #
+ #$ $ $   #
+ #  #######
+ ####
+Author: David Holland + York Shen + Jordi Domenech
+Title: Level 72
+Comment: based on dh2 #2 Square version 3
+
+###############
+#            ##
+# **********. #
+# *  @      * #
+# * ####### * #
+# * ####### * #
+# * ####### * #
+# **    ### * #
+#  $*** ###$. #
+#     * ### * #
+#######       #
+###############
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 73 Limonada+
+Comment: based on Dushi 10 #20
+
+#############
+#     #     #
+# $##$# $ $ #
+#     ### # #
+# $#..... # #
+#  #.#$#. $ #
+####.$@$.####
+# $ . # .#  #
+# # .....#$ #
+# # ###     #
+# $ $ $$##$ #
+#     #     #
+#############
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 74 Squarenoid+
+Comment: based on Chuchubi 1 #62
+
+###############
+#@            #
+# *** *** *** #
+# * * * * * * #
+# . * * * * $ #
+### *** ***   #
+  #    #     ##
+  ############
+Author: skippy + Jordi Domenech
+Title: Level 75 Snake+
+Comment: based on Snake by skippy (Let's Logic ID 91020)
+
+        ######
+        # .  #
+        # *$ #
+ ######## .$ #
+ #      # .$#########
+## $$$$$$*.*        #
+# .*.*.*..@..*.*.*. #
+#        *.*$$$$$$ ##
+#########$. #      #
+       # $. ########
+       # $* #
+       #  . #
+       ######
+Author: Jordi Domenech
+Title: Level 76
+Best moves/pushes: 217/66
+
+     ###
+   #######
+  ##.....##
+ #   $@$   #
+#.$.$.$.$.$.#
+#$.$.$.$.$.$#
+#.$*$.$.$*$.#
+#  $ $$$ $  #
+#.$.$.$.$.$.#
+##.$.$.$.$.##
+ # .$.$.$. #
+  #  $$$  #
+   #  $  #
+    #...#
+     #.#
+      #
+Author: Jordi Domenech
+Title: Level 77 Spinning top
+
+#########
+#   ##  #
+# $     #
+##$#$## ##
+ # . . . #
+ #$.#.$.$#
+ # * * * #
+ #$.$.#.$#
+ # . . . #
+ ## ##$#$##
+  #     $ #
+  #  ## @ #
+  #########
+Author: Jordi Domenech
+Title: Level 78 Three parallels 16
+
+#############################
+#                           #
+# ######################### #
+#                         # #
+# # ################### # # #
+# # #                   # # #
+# # # ################# # # #
+# # #         $       # # # #
+# # # # ########### # # # # #
+# # # # #     $     # # # # #
+# # # # # ######### # # # # #
+# # # # #         # # # # # #
+# # # # # # ### # # # # # # #
+# # # # # # # @ # # # # # # #
+# # # # # # # # # # # # # # #
+# # # # # # # $ # # # # # #.#
+# # # # # # # ### # # # # # #
+# # # # # #   $     # # # # #
+# # # # # ######### # # # #.#
+# # # # #           # # # #.#
+# # # # # ########### # # #.#
+# # # #                 # #.#
+# # # ################# # # #
+# # #         $         # # #
+# # # ################### # #
+# #           $           . #
+# ######################### #
+#                           #
+#############################
+Author: Jordi Domenech
+Title: Level 79 Happy New Year 2016

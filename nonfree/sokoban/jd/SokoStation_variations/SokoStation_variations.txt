@@ -1,0 +1,1735 @@
+Authors: Ghislain Martin and Jordi Domènech
+Collection: SokoStation variations
+Website/Email:
+- Ghislain Martin:
+http://sokoban.pagesperso-orange.fr/
+- Jordi Domènech:
+sokoban-jd.blogspot.com
+jd.sokoban2020@gmail.com
+Copyright: (c) by Ghislain Martin and Jordi Domènech
+Date: January and December 2012
+
+Author's note:
+This set brings together 112 "variations" from Ghislain Martin's SokoStation collection. Some of these "variations" are very difficult. I have hesitated to include them in this selection, because what is gained in difficulty, is lost in fun. Ghislain Martin levels are very clever and fun, however, these "variations" are at risk of being difficult and boring. I recommend this: If you can't solve a level, leave it for last, and try to solve the following. Enjoy! - J.D.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+These levels are copyright (c) by Ghislain Martin and Jordi Domènech
+and may be freely distributed for non-commercial use provided they
+remain unchanged, credited with the author's name, and provided the
+author is notified.
+
+License: Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported
+http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+This collection has been downloaded from my blog:
+Sokoban. The beautiful world of remodels
+http://sokoban-jd.blogspot.com/
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+       ####
+    ####  #
+    #   $ #
+    #  #  #
+######$# ##
+#      # #
+#   #  # #
+#####$## ###
+#@      .. #
+######$# # #
+     #  .. #
+     #######
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #2 PAS DE PIEGE
+Comment: added 3 boxes, deleted a wall
+
+     ########
+######     @#
+#    $ #$## #
+# #$## #. $ #
+# # .$ $ .# #
+# $. #.## # ##
+# ## #... $  #
+#  $ ...# ## #
+## # ##.# .$ #
+ # #. $ $. # #
+ # $ .# ##$# #
+ # ##$# $    #
+ #      ######
+ ########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #9 TRAVAIL A LA CHAINE
+Comment: added 4 boxes
+
+###########
+#....*....#
+#.$$$$$$$.#
+#.$  .  $.#
+#.$$$$$ $.#
+#* .$@$. *#
+#.$ $$$$$.#
+#.$  .  $.#
+#.$$$$$$$.#
+#....*....#
+###########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #10 CONTOUR
+Comment: added 4 boxes
+
+ #######
+ #  .  ####
+ # ##$    #
+## $ .#$# #
+#  #    #.#
+# $. # .$ #
+#.#    #  #
+# #$#. $ ##
+# @  $## #
+####  .  #
+   #######
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #12 GEOMETRIE CENTRALE
+Comment: stoned many floors
+
+    ###
+   # # #
+  #  .  #
+ #  * *  #
+#  * * *  #
+##* * * *##
+#  * * *  #
+ #  * *  #
+  #  $  #
+   # @ #
+    ###
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #15 BOULE DE NEIGE
+Comment: added 3 walls
+
+###################
+#@     ..##   #   #
+# $$ $$....$$ $$  #
+#  #   ##..       #
+###################
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #16 COULOIR
+Comment: added 2 walls
+
+      #############
+      #  *  *  *  #
+#######  *# *  *  #######
+#@  *    *  #  *    $  .#
+#######  *  * #*  #######
+      #  *  *  *  #
+      #############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #20 GRANDE MURAILLE
+Comment: added 2 walls, change a box for a wall
+
+###########
+#    @    #
+##$$$$$$$##
+#         #
+#* * . * *#
+# * * * * #
+#* * * * *#
+# * * * * #
+#* * * * *#
+#  # $ #  #
+##.......##
+#  # # #  #
+###########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #24 IL PLEUT
+Comment: added many walls, moved a box
+
+     ######
+     #    #
+     # $$ #
+     #    #
+     ### ##
+       # #  #####
+       # #  #   #
+########.#### $ #
+# $ .  .+.      #
+# $ ####.##### ##
+#   #  # #   # #
+#####  # #   # #
+      ## ##  # #
+      #   #### #
+      # $$    .#
+      #   ######
+      #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #30 LA PIEUVRE TENTACULAIRE
+Comment: added a box
+
+      #####
+      #   ##
+      #  * #
+######## # ##
+#   #    #  #
+#     $  #$ #
+##*#######  #
+# .*.... #$ #
+# ....*. #  #
+####### ##$ #
+# $ $ $$$ $ #
+#          @#
+#############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #33 L'ENTREPOT QUI TUE (a)
+Comment: stoned many floors, added a wall and a box
+
+      #####
+      #   ##
+      #  * #
+######## # ##
+#        #  #
+#   $ $  #$ #
+## #######  #
+#.**.*.. #$ #
+#....... #  #
+####### ##$ #
+# $ $ $$$ $ #
+#          @#
+#############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #33 L'ENTREPOT QUI TUE (b)
+Comment: stoned many floors, added 2 boxes
+
+#########
+#   *   #
+# + * * #
+#   *   #
+#*#***#*#
+#   *   #
+# * * $ #
+#   *   #
+#########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #35 SWAP
+Comment: added 2 boxes, change 2 boxes for a walls
+
+#########
+#.# $  .#
+# . $#.##
+# #+$.  #
+#$$$*$$$#
+#  .$.# #
+##.#$ . #
+#.  $ #.#
+#########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #36 LE TOURNIQUET
+Comment: added 8 walls
+
+   #####
+   # @ #
+   #   #
+####$.$####
+# $     $ #
+#...***...#
+# $     $ #
+####$.$####
+   #   #
+   # # #
+   #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #39 ON SE FAIT UNE LIGNE
+Comment: added 2 boxes, a wall
+
+   #######
+#### .   #
+#  $ . $ #
+# $#$.$#$##
+#  $ . $  #
+#....#....#
+#  $ . $  #
+##$#$.$#$ #
+ # $ . $  #
+ # @ . ####
+ #######
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #40 BOUQUET DE FLEURS
+Comment: added 5 walls
+
+                ####
+                #  #
+                #$ #
+                #  #
+    ############# #####
+   # $ $ $ $ $ $   *  # #
+###  # # # # # # $$$@ #
+   # ...........      # #
+    ############## ####
+                #  #
+                # $#
+                #  #
+                ####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #43 LA FUSEE
+Comment: added a box, small change
+
+     ###
+   ##...##
+  #..*.*..#
+ #..*.*.*..#
+ #.*.*.*.*.#
+# * * * * * #
+#  $ $ $ $  #
+# $ $ $ $ $ #
+ # $ $$$ $ #
+ #  $ $ $  #
+  #  $ $  #
+   ## @ ##
+     ###
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #44 BULLE DE SAVON
+Comment: added 5 boxes
+
+################
+####   ..#     #
+#@ #  $..#  $$ #
+#  #  #..#  #  #
+# $#$$#**#$$#$ #
+#  #  #..#  #  #
+# $$  #..$  #  #
+#     #..   ####
+################
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #47 ZIG & ZAG
+Comment: added 2 boxes, stoned 4 floors. Revised 27-1-2020
+
+       #####
+    ####   ####
+    #  #   #  #
+#####$   $   $#####
+# .    #  ##    . #
+# #$# $#####$ #$# #
+#   #  ..+..  #   #
+###################
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #48 LA FORTERESSE
+Comment: added 2 boxes and a wall, some changes. Revised 27-1-2020
+
+   #########
+   #   #   #
+   #   #   #
+####$$$@$$$####
+#             #
+#$$#$#$#$#$#$$#
+#.............#
+#.#.##.#.##.#.#
+#......*......#
+#$$$$#$$$#$$$$#
+#             #
+####$$$ $$$####
+   #   #   #
+   #       #
+   #########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #49 MANIAK
+Comment: stoned 7 goals/boxes, added 3 walls
+
+         #####
+#####    # @ #    #####
+#   ###### # ######   #
+# $$#    #...     #$$ #
+# $   .#$#.#.#$#.   $ #
+# $ #     ...#    # $ #
+#   ######## ######   #
+#####    #   #    #####
+         # # #
+         #   #
+         #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #51 BOING 747
+Comment: added 2 boxes and 3 walls, deleted some floors
+
+#########
+#.$ @  .#
+#.$$$$$.#
+#. $. $.#
+#.$.*.$.#
+#.$ .$ .#
+#.$$$$$.#
+#.    $.#
+#########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #52 RADIATIONS
+Comment: added 4 boxes
+
+#########
+#   .   #
+# *$.$* #
+# $.$.$ #
+#..$@$..#
+# $.$.$ #
+# *$.$* #
+#   .   #
+#########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #53 EN QUINCONCE
+Comment: added 4 boxes
+
+##########
+## $..@  #
+# $ .. $ #
+# $####$ #
+# $ .. $ #
+#   ..$ ##
+##########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #54 SAN KU KAI
+Comment: added 2 walls
+
+###########
+#    @    #
+# $ $ $ $ #
+#  $ $ $  #
+# $ $ $ $ #
+#####$#####
+# ... ... #
+# ... ... #
+##   #   ##
+#         #
+###########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #56 LE SABLIER
+Comment: added 3 walls
+
+###########
+#         #
+# $#.#.#  #
+# $.$.$.$##
+#  # # #  #
+##$.$.$.$ #
+#  #.#.#$ #
+#    @    #
+###########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #57 INTERLUDE
+Comment: added 2 boxes, 2 walls
+
+ ####
+ #  ###
+## $  #
+#  $# #
+#.....#
+#  $# #
+##$$  #
+ #@ ###
+ ####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #61 COOKIES
+Comment: added 2 walls, moved a box and player
+
+      #####
+      #   #
+      # $ #
+      #   #
+      ## ##  ####
+       # #####  #
+#####  #.       #
+#   ####.$####$ #
+# $    .+.     ##
+#   ####.#### $ #
+#####  # #  #   #
+       # #  #####
+      ## ##
+      #   #
+      # $ #
+      #   #
+      #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #62 LE RETOUR DE LA PIEUVRE
+Comment: major changes in the right arm
+
+###########
+# #       #
+# #$# #$# #
+#  $.$.$. #
+# #.#.#.# #
+#@$$.$.$* #
+# #.#.#.# #
+#  $.$.$. #
+# #$# #$# #
+#         #
+###########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #76 EN DECALAGE
+Comment: added 6 boxes, a wall
+
+      #####
+     ##   ##
+    ##  *  ##
+#####  * *  #####
+#   # * * * #   #
+# $  * *@* *  . #
+#   # * * * #   #
+#####  * *  #####
+    ##  *  ##
+     ##   ##
+      #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #77 LOSANGE 1
+Comment: stoned 4 floors
+
+    ####
+    #  #
+    #.$#
+    #  #
+#####  #####
+# $  *@  . #
+# .  **  $ #
+#####  #####
+    #  #
+    #$.#
+    #  #
+    ####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #79 INTERSECTION
+Comment: added a box
+
+####
+#  #######
+# *      #
+#  ##### ###
+## #    *  #
+## # # # # #
+# *. $ # # #
+#  ##### # #
+## # . # # #
+ # #   * # #
+ # # @ # # #
+ #   $ #   #
+ ####*#### #
+    #      #
+    ########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #81 CRUELLA
+Comment: added 2 boxes, major changes
+
+#############
+# . * . $ . #
+# $ . $ . $ #
+#@###$#$### #
+# $ . $ . $ #
+# . $ . * . #
+#############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #83 BALI BALO (a)
+Comment: added 2 boxes
+
+#############
+# . $ . $ . #
+# $ . $ . $ #
+#@####*#### #
+# $ . $ . $ #
+# . $ . $ . #
+#############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #83 BALI BALO (b)
+Comment: added a wall, a box
+
+      #####
+      #   #####
+      # # #   #
+      # $ .$# #
+     ###.##   #
+     #   ##.######
+     # #$. $ #   #####
+ #####   # # # # #   #
+ #   # ### $   $ .$# #
+ # # #   #.####.##   #
+ # $ .$#$#  .   ##.###
+###.##   .@ #$#$. $ #
+#   ##.####.#   # # #
+# #$. $   $ ### #   #
+#   # # # # #   #####
+#####   # $ .$# #
+    ######.##   #
+       #   ##.###
+       # #$. $ #
+       #   # # #
+       #####   #
+           #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #84 SI PRES DU BUT
+Comment: extension
+
+            ####
+ #####      #  #
+ #   ########* #
+## #           #
+#@$  ##### #  ##
+#### #   # ##*#
+ #  *  * #  # #
+ # # # ####*# #
+ #   # *    # #
+ #####  # # # ###
+    # * #   *   #
+    #   #####.# #
+    #  ##   #   #
+    ####    #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #86 REACTION CHIMIQUE
+Comment: added a box, moved a goal, small change in the upper-left
+
+   #########
+   # * * * #
+ ###  * *  ########
+ #   * * * ## # # #
+ #    * *  .  $   #
+ # # * * * # #$# ##
+ # #  * *  #      #
+## # * * * ## # # #
+#  #########      #
+#      +     # # ##
+###################
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #87 ATTENTION VIRUS
+Comment: deleted many floors, added 2 walls and a box
+
+#############
+#   *   *   #
+# * * * * * #
+#   *   *   #
+#***********#
+# $ *   *   #
+# . * + * . #
+#   *   * $ #
+#***********#
+#   *   *   #
+# * * $ * * #
+#   *   *   #
+#############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #88 TIC TAC TOE (a)
+Comment: added 2 boxes
+
+#############
+#   *   *   #
+# $ # * # $ #
+#   *   *   #
+#*#*******#*#
+#   * # *   #
+# . * + * . #
+#   *   *   #
+#*#*******#*#
+#   *   *   #
+# * # $ # * #
+#   *   *   #
+#############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #88 TIC TAC TOE (b)
+Comment: stoned some boxes, added a wall
+
+#############
+# .   $   . #
+#.# #####$# #
+# $   @   $ #
+# #$##### #.#
+# .   $   . #
+#############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #94 ROBOTICO
+Comment: added 2 boxes
+
+    #######
+    #   $.#
+##### #####
+#    *    #
+#   * *#  #
+# #* * *  #
+# * * * * #
+#* * # * *#
+# * * * * #
+#  * * *# #
+#  #* *   #
+#    *    #
+##### #####
+#@    #
+#######
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #100 Y'A PAS PHOTO
+Comment: added 4 walls, stoned a box
+
+##########
+##   ##  #
+#  $. ## #
+# $. * ###
+# . . $ ##
+## * $ * #
+### $ +  #
+# ## * ###
+#  ##  # #
+##########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #102 DIAGOBAN
+Comment: added 3 boxes, 2 walls
+
+############
+## # #     #
+# .......$##
+##.$$$$$.$ #
+# .$...$.$ #
+##.$.$.$.$ #
+# .$.$+$.$ #
+##.$.$$$.$ #
+# .$.....$ #
+##.$$$$$$$ #
+#          #
+############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #103 LA SPIRALE
+Comment: stoned many floors
+
+###########
+#.  $.$  .#
+# * $.$ * #
+#  .$.$.  #
+#$$$#.#$$$#
+#....@....#
+#$$$#.#$$$#
+#  .$.$.  #
+# * $.$ * #
+#.  $.$  .#
+###########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #105 DRAPEAU ANGLAIS
+Comment: added 4 boxes and 4 walls
+
+##########
+#. . . . #
+#$.$.$.$.#
+#.$.$+$.$#
+#$.$.$.$.#
+# $ $ $ $#
+##       #
+##########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #107 UN SIMPLE DECALAGE
+Comment: added a wall, change start player position
+
+##### ######
+#   ###    #
+#  *  #$$$ #
+##$# $#..$ #
+ # . * ..  #
+ # # ####.###
+ # #..   $  #
+ #.#$# ##$# #
+ #   #   @  #
+ ############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #115 FAIS TON CHOIX
+Comment: added 3 boxes, major changes
+
+#####################
+#     #       #     #
+####### ##### #######
+#      .     .      #
+# ##### ##### ##### #
+# #   # #   # #   # #
+# # $ # # $ # # $ # #
+# #   # #   # #   # #
+# ## ## ## ## ## ## #
+#  # #   # #   # #  #
+#. # # $ # # $ # # .#
+#  # #   # #   # #  #
+# $# ##### ##### #$ #
+# . .  . $.$ .  . . #
+# $# ##### ##### #$ #
+#  #      @      #  #
+#####################
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #118 MOTIF HYPNOTIQUE
+Comment: added 2 boxes
+
+     ####
+######  ##
+# $    @.#
+# #$# #* #
+# $ # . *#
+# # #.#* #
+# $ # . *#
+# # # #* #
+#       *#
+# # # #  #
+##########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #125 FACE A FACE
+Comment: added 4 boxes, moved a goal and a boxe
+
+ #########
+###########
+#         #
+# $.$ $.$ #
+# .#.$.#. #
+##$.$ $.$##
+##  $.$  ##
+## $.+.$ ##
+ ## $.$ ##
+ ## $$$ ##
+ #...*...#
+ #$$$$$$$#
+ #...*...#
+  #     #
+  #######
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #126 LA TETE A TOTO
+Comment: addded 2 boxes and 2 walls, stoned 2 boxes
+
+  #####
+  #   #
+###$ $###
+# $...$ #
+#       #
+# $...$ #
+####@####
+# $...$ #
+#   *   #
+# $...$ #
+###$ $###
+  #   #
+  #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #128 SUPER ZEBULON (a)
+Comment: added 2 walls, a box
+
+  #####
+  #   #
+###$ $###
+# $...$ #
+#   .   #
+# $...$ #
+###$#$###
+# $...$ #
+#   .   #
+# $...$ #
+###$ $###
+  # @ #
+  #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #128 SUPER ZEBULON (b)
+Comment: added a wall, 2 boxes
+
+    #######
+    #     #
+    # @.* #
+    # $ # #
+###### ########
+#   #     #   #
+# $###... # $ #
+# $ . *.*   $ #
+# $ # ...###$ #
+#   # #   #   #
+#######.#######
+    # #   #
+    # $$$ #
+    #     #
+    #######
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #129 COMMENT FAIRE
+Comment: added 3 walls, 2 boxes
+
+#########
+#@   #  #
+# $$$$* #
+# $   . #
+# $ ##.##
+##$ ##. #
+# *....##
+#     # #
+#########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #131 UN PETIT NIVEAU
+Comment: added some walls
+
+#### #####
+#  ###   #
+#     *@ #####
+#  ## #$##   #
+#     # .    #
+##### ### ####
+#   * *   #
+#   ###   #
+##### #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #132 EN BAS A DROITE
+Comment: added 3 boxes, redraw map
+
+    #####
+    #   #
+  ### . ###
+  ## $$$ ##
+### ..... ###
+#  $.$$$.$  #
+# .$.$@$.$. #
+#  $.$$$.$  #
+### ..... ###
+  ## $$$ ##
+  ### . ###
+    #   #
+    #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #133 FLOCON DE NEIGE (a)
+Comment: added 4 walls
+
+    #####
+    #   #
+  ### . ###
+  #  $$$  #
+### *...* ###
+#  $.$*$.$  #
+# .$.*@*.$. #
+#  $.$*$.$  #
+### *...* ###
+  #  $$$  #
+  ### . ###
+    #   #
+    #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #133 FLOCON DE NEIGE (b)
+Comment: added 4 boxes
+
+###############
+# .    @    . #
+# .$ $ $ $ $. #
+##.#########.##
+# .$ $ * $ $. #
+# .    $    . #
+###############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #134 TRUC DE FOU (a)
+Comment: added a box
+
+###############
+# .    $    . #
+# .$ $ @ $ $. #
+##.#########.##
+# .$ $ # $ $. #
+# .    $    . #
+###############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #134 TRUC DE FOU (b)
+Comment: added a wall, moved 2 boxes
+
+ ########
+ #  @   #
+ #$ $ $ #
+ # #.####
+## ...  ##
+#  #.#   #
+#  $.$ $ #
+#######  #
+      ####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #136 UNE FOIS POUR TOUTES
+Comment: added a box
+
+##########
+# . . .  #
+# $ $ $  #
+# #####@##
+# $ $ $  #
+# . . .  #
+##########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #137 PACMAN ATTAQUE
+Comment: stoned a box/goal, deleted a wall
+
+  ########
+  #      #
+  # $    #
+ ###$## ###
+ #   #    #
+ #   #    #
+###$####$##
+#    #    #
+#    #    #
+##$####$###
+ #   .....#
+ #   @ .  #
+ ##########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #139 IL EST PASSE PAR ICI
+Comment: added a box
+
+###########
+#  #   #  #
+#  *   * $#
+#  ##@##  #
+#.##   ##.#
+#. $ $ $ .#
+#.##   ##.#
+#  ##$##  #
+#$ *   *  #
+#  #   #  #
+###########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #140 IL REPASSERA PAR LA
+Comment: added a box, moved a goal
+
+       #####
+    ####   #
+#####    # #
+#   # # .*.###
+#   $  $.*.  #
+#######$#$## #
+      #  @   #
+      ########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #142 LE BULBE RACHIDIEN (a)
+Comment: moved 2 goals, relocate boxes
+
+       #####
+    ####   #
+#####  ..# #
+#   # #..$ ###
+#   $  $ $   #
+#######$#$## #
+      #  @.. #
+      ########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #142 LE BULBE RACHIDIEN (b)
+Comment: moved some goals, relocate boxes
+
+       ####
+########  #
+#       * #
+#  #####  #
+# *    #  #
+#  # *   ##
+##### #   #
+#    .#   #
+#@$$#.#####
+#     #
+#######
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #151 DEUX A LA FOIS
+Comment: added a wall, moved a goal, some changes in the right
+
+   #          #
+  # #        # #
+ # $.#      #.$ #
+# .$$.#    #.$$. #
+ # .$$.#  #.$$. #
+  # .$$.##.$$. #
+   # .$$  $$. #
+    # .$  $. #
+     # #@## #
+     #  $$  #
+     ## .. ##
+      # ## #
+      #    #
+      #.$$.#
+      #.  .#
+      ######
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #156 THE Y FILES
+Comment: added 3 walls, major changes in the bottom
+
+#########################
+#     #*****#    *#     #
+# ...##*   *# * *.#     #
+##.#.  * . *   *  $*****#
+# ... #*   *#.* * #  #  #
+#  #  #*****#*    #     #
+## ################## ###
+#  *  # *   #*    #  $  #
+# *  $# * * # * * # $ $ #
+#*   *    *   **   $  $ #
+# * * # * * # * * #$$$$ #
+#  *  #   * #    *#    @#
+#########################
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #160 HUIT PIECES
+Comment: added 3 boxes and some walls
+
+  #### #####
+  #  ###   #
+ ##$ @   $ #
+ # $$$$##$##
+ # $  ..# #
+ # ###..# ##
+ # # .*.#  ##
+ #  ....# $ #
+####..### $ #
+#     # $$  #
+#          ##
+############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #165 LA BOUZE DE VACHE
+Comment: reduction map, added a box
+
+########
+#@#    #
+#...*$$#
+# $  $ #
+#$$*...#
+# #  # #
+# #### #
+#      #
+########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #169 TRUC RIGOLO
+Comment: change 2 walls for 2 boxes, added a wall, stoned 2 floors
+
+##############
+##    #.   $@#
+##$  #.$.    #
+#   #.$.$.#$ #
+# $#.$.$.#   #
+#    .$.#  $##
+# $   .#    ##
+##############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #174 THE MILKY WAY
+Comment: added 4 walls
+
+#############
+# #      #  #
+# #$####... #
+# #.$  $.@.##
+# #. $  ... #
+# #$ *$  $# #
+# #.$  $  # #
+# #. $ *$ # #
+# #$  $  $# #
+# . $..$..$ #
+# $.#########
+#           #
+#############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #180 BONNE ANNEE 2004
+Comment: added 4 walls, 2 boxes
+
+  #   #   #
+  #   #   #
+ ############   #
+ #   #   #  ## #
+## $*$*$  . ###
+##      ##..##
+## $* *$#*..@#
+##      ##..##
+## $*$*$  . ###
+ #   #   #  ## #
+ ############   #
+  #   #   #
+  #   #   #
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #183 COCCINELLE
+Comment: added a box, some changes
+
+  #######
+  #    .#
+  # # * #
+  # #*$ #
+  # * # #
+###*  # #
+# *  ## #
+#.$     #
+# @######
+####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #185 YAPUKA YFOKON
+Comment: added 2 boxes, some changes
+
+####################
+#  * . #  .$  *.  .#
+#$ . # * $   * $$$ #
+# * $.  $*#. $. #  #
+#  .# * # .$ # $.$.#
+# $ * .* *  # #$ # #
+#* * $  # .* .  . *#
+# * # $ .*@ $ #$*# #
+#.  . .$  # .$. . .#
+# $ *.$ #$.$$ $ $. #
+##  $#.$ .*  #.$* ##
+#  #  $ #  $.$  .$.#
+# $ $..* $#  $$ #. #
+#. *   #    .  *  .#
+####################
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #187 OH QUE C'EST BEAU
+Comment: added 11 boxes
+
+############
+#  .$ .$   #
+# *.$ .$ *@#
+#  .$ .$ $ #
+#$$$########
+#...#
+#   #
+#$$$########
+#...$. $.  #
+# * $. $.* #
+#   $. $.  #
+########$$$#
+       #...#
+       #   #
+########$$$#
+#  .$ .$...#
+# ..$ .$ * #
+#  .$ .$   #
+############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #195 CINQ FIVE CINCO
+Comment: moved a box
+
+##############
+#@    #     ##
+# .$*.$*.$*. #
+# *  $     $ #
+# $ ###### * #
+##..#    #..##
+# * ###### $ #
+# $     $  * #
+# .*$.*$.*$. #
+##     #     #
+##############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #202 SERPENTISSIMO (a)
+Comment: added 4 walls, 2 boxes
+
+##############
+#@          ##
+# .$*.$*.$*. #
+# *      # $ #
+# $####### * #
+#*. #    # .*#
+# * #######$ #
+# $ #      * #
+# .*$.*$.*$. #
+##           #
+##############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #202 SERPENTISSIMO (b)
+Comment: added 4 walls, 2 boxes
+
+##############
+####      ####
+#@.$*.$*.$*. #
+# *        $ #
+# $####### * #
+# . #    # . #
+# * #######$ #
+# $        * #
+# .*$.*$.*$. #
+####      ####
+##############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #202 SERPENTISSIMO (c)
+Comment: stoned many floors, moved 2 walls
+
+############
+#          #
+#********  #
+#.      *# #
+#****** *  #
+#     * * ######
+##### * *      #
+    # * *******#
+    # *      $@#
+    # *  ******#
+    # ****     #
+    #          #
+    ############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #205 LE VIRAGE QUI TOURNE
+Comment: added 2 walls. Revised 27-1-2020
+
+#########
+#  * * ##
+#  $ $  #
+#..*.*. #
+#$ $@$ $#
+# .*.*..#
+#  $ $  #
+## * *  #
+#########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #208 DECONTRACTION
+Comment: added 2 boxes
+
+#############
+##    *   ###
+##$  * *  . #
+#   * * *   #
+#  * * * *  #
+# * * * * * #
+#*** *@* ***#
+# * * * * * #
+#  * * * *  #
+#   * * *   #
+# .  * *  $##
+###   *    ##
+#############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #222 SWEEP SWAP
+Comment: added 8 walls, 2 boxes
+
+######   ######
+#  # #####    #
+# $.$  @  .$.##
+# . .#####$ $ #
+# $.$     .$.##
+#    #####    #
+######   ######
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #230 A POIDS EGAL
+Comment: added 3 walls
+
+ # # # # ###
+         #  #
+####### # * ##
+#. . .## *   #
+# $$$ # * *  #
+#.$+$.$  * $.#
+# $$$ # * *  #
+#. . .## *   #
+####### # * ##
+         #  #
+ # # # # ###
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #235 MISE EN ORBITE
+Comment: added a box, 2 walls
+
+####
+#  #######
+#  .     #
+#  #$$$$$#
+#*##.....#
+#  #  $  #
+## #### ##
+# *      #
+#   ##  @#
+##########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #236 CRAN D'ARRET
+Comment: added 2 boxes, moved a wall
+
+ ####
+ #  #  ####
+ #  ####  ####
+ # **     #  #
+ ## #### * * #
+  # #  ####  #
+### #  #     #
+#  *   #  *  #
+#   #*#####*##
+#####    #   #
+#     *  # * #
+#  *### #### #
+##  * #    $@#
+ #    #  ###.#
+ ######### ###
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #250 TRYPLUXAVOKEN
+Comment: added 2 boxes, some changes
+
+#############
+# .   *   . #
+#.# # # # #.#
+# $ # # # $ #
+# # $ # $ # #
+# #*#*$*#*# #
+# # $ # $ # #
+# $ # # # $ #
+# # # # # # #
+#.  . + .  .#
+#############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #254 PENTATONIK ANTHOLOGY
+Comment: added 5 boxes
+
+#   #               ########
+##  ##         ####### .$  #
+### ###  ######## *  #$.$  #
+########### $.  # *  # .$  #
+#   # $.  # $. $# *  # *$  #
+#@$ . $.  . $.  . *  . .$  #
+############################
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #257 FINAL COUNTDOWN
+Comment: added 3 boxes
+
+    #######
+#####. $ .#
+#   # $.$ #
+# $  $.*.$#
+# @ # $.$ #
+#####. $ .#
+    ### ###
+     #   #
+     # . #
+     #   #
+     #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #290 LAPINOU
+Comment: added a box, stoned 4 floors
+
+ ############
+##          #
+# +######## #
+# *       # #
+# * **### # #
+# # *   # # #
+# # *   # # #
+# # #   # # #
+# # ##### # #
+# #       * #
+# #*######$ #
+#          ##
+############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #299 CHLOSTROPHOBIA
+Comment: added 2 walls, stoned many boxes
+
+#############
+#  #  #@ #  #
+#  #  #  #  #
+# $#$ # $#$ ####
+#   ..$..$..$. #
+# .$..$..$..   #
+#### $#$ # $#$ #
+   #  #  #  #  #
+   #  #  #  #  #
+   #############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #308 TROIS OU QUATRE
+Comment: added 2 boxes
+
+     #####
+     #   #
+     # $ #
+     #   #
+    ### ###
+#####  .# #####
+#   # $.$ #   #
+# $  ..@..  $ #
+#   # $.$ #   #
+##### #.  #####
+    ### ###
+     #   #
+     # $ #
+     #   #
+     #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #309 TURBOCOMPRESSEUR (a)
+Comment: added 2 walls
+
+     #####
+     #   #
+     # $ #
+     #   #
+    ### ###
+#####  .. #####
+#   # $.$ #   #
+# $  *.@.*  $ #
+#   # $.$ #   #
+##### ..  #####
+    ### ###
+     #   #
+     # $ #
+     #   #
+     #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #309 TURBOCOMPRESSEUR (b)
+Comment: added 2 boxes
+
+#######
+#  #  # #####
+# *$  ###   #
+#  #      $ #
+## ##*####$##
+ #   .#  # #
+ # #$*.*.# #
+ #  $.#  # ##
+ # ##.####  #
+ #  @$    . #
+ #########  #
+         ####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #319 ZOGOBAD
+Comment: added 5 boxes, deleted a wall, added 2 floors
+
+###########
+#     #   #
+# *.* *.* #
+# $*$ $*$ #
+##*.* *.* #
+#         #
+# *.* *.* #
+# $*$ $*$ ##
+# *.* *.*  #
+#   #    @ #
+############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #328 HI HI HI HI
+Comment: added 3 walls, stoned 3 floors
+
+#######
+#     ####
+# $ $ #  #
+#  * ##  #
+# $ * .  #
+#### *$.##
+   #.$+  #
+   # . * #
+   #######
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #332 OPEN SESAME
+Comment: added a box
+
+#########
+# $ .   #
+# . # $ #
+## .#$ ##
+ #.$+ $#
+## .#$ ##
+# . # $ #
+# $ .   #
+#########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #334 PIPA
+Comment: added 3 boxes
+
+      ###
+     # # #
+    ##   ##
+   ##  .*.##
+  ###$#. *  #
+ ##  *.... ##
+#    $#.#   #
+# $$$.$*$ ##
+##  +$  ###
+ ### $  ##
+  ## $ ##
+   ##  #
+    ###
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #335 CROISILLON
+Comment: added 2 boxes, 2 walls, deleted a wall, rearranged goals
+
+#######
+#   $.#
+# ....##
+##$$$$ #
+ # ....##
+ # $$$$ #
+ ## ....##
+  # $$$$ #
+  ##    @#
+   #######
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #336 DOUBLE PLATEAU
+Comment: added 5 boxes, deleted a wall, some changes
+
+     #####
+     #   ###
+ ##### #   #
+ # ....### #
+##$$$  $ # #
+# $  $$$ # #
+# ##....@# #
+#  ####### #
+##         #
+ ###########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #338 BULBE RACHITIQUE (a)
+Comment: rearranged boxes
+
+     ####
+     #  ####
+ #####     #
+ #  ...# # #
+##$$*$.  # #
+# $ .$$$$# #
+# ##...@ # #
+#  ####### #
+##         #
+ ###########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #338 BULBE RACHITIQUE (b)
+Comment: added a box, rearranged boxes and goals, some changes
+
+###############
+#   *     *   #
+# ##$## ## ##.#
+# #     #   ..#
+#   $#    $# .#
+# ## ##$## ## #
+#   *  @  *   #
+###############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #343 SINUSOIDE
+Comment: added 3 boxes
+
+     ###########
+     #        .#
+######*#######.###
+#     $ #     .  #
+#@$ #     $ # *  #
+## ####### #######
+ #         #
+ ###########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #344 TURBO BLASTER
+Comment: added a box and a floor, rearranged goals
+
+ #######
+ #  .  #
+ #$$.$$#
+## ... ##
+# $.#.$ #
+#  ...  #
+##$$*$$##
+ #  @  #
+ #######
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #345 MOTHERSHIP
+Comment: added a box and a wall
+
+#######
+#  #  #
+# *$* #
+# ... #
+# $*$ #
+#  *  #
+# $*$ #
+# .+. #
+# *$* #
+#  #  #
+#######
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #348 OLDSCHOOL GAME
+Comment: added a box
+
+############
+#  . . . . #
+# $$$$$$$$ #
+# . . . .$.#
+#####.###$ #
+# . . . .$.#
+#@$$$$$$$$ #
+#  . . . . #
+############
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #351 VIRAGE INVERSE
+Comment: moved a wall
+
+  #####
+ ##   .#
+#..$$$.##
+# $*.*$ #
+# $.@.$ #
+# $*.*$ #
+##.$$$..#
+ #.   ##
+  #####
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #360 TEMPS PERDU
+Comment: moved 4 goals and stoned 4 floors
+
+  ###########
+  # *  *  * #
+### *  *  # ###
+#   #  *  *   #
+#.+ ***#**# $ #
+# $ #  *  *   #
+### *  *  # ###
+  # *  *  * #
+  ###########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #364 EVASION
+Comment: added a box, stoned 6 boxes/goals
+
+#####################
+#   #   #   #   #   #
+# # # #   # # #   # #
+#   # $ #   #   #   #
+###*###*###*###*###*#
+#   #   *   #   *  .#
+#@#$# # # # # # # #.#
+#  *    #   $   #  .#
+###*###*###*###*###*#
+#   #   # $ #   #   #
+# #   # # #   # # #.#
+#   #   #   #   #   #
+#####################
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #368 IDEE PROVISOIRE
+Comment: added 6 boxes. Revised 27-1-2020
+
+             ###
+         #####  #  ##
+      ####      # #..#
+   ####    $$## # #..#
+ ###    $$## #  # #..#
+#    $$## #  # $# #..#
+# $$## #  #  #   #  .#
+### #  #  #  ## #    #
+  # #  #  ####      #
+ ## #  ####    #   #
+ #  ####     #   ##
+ #     # # #    #
+ #  #@       ###
+  ###########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #369 THUMB UP
+Comment: added 5 boxes, major changes
+
+ #########
+ #       #
+## #$#$#$##
+# $. . .$ #
+#    #  # #
+#.#.###.#.#
+# #  #    #
+# $. . .$ #
+##$#$#$# ##
+ #@      #
+ #########
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #370 CENTRAL PARK
+Comment: added 2 boxes, rearranged 4 goals
+
+    ###############
+    #             #
+##### ##### ##### #####
+#   # #   # #   # #   #
+# $  *# . $*# . $ # + #
+#   # #   # #   # #   #
+## ## ## ## ## ## ## ##
+ # #   # #   # #   # #
+ # # . $*# . $*# . $*#
+ # #   # #   # #   # #
+ # ##### ##### ##### #
+ #                   #
+ #####################
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #376 INSIDE OUTSIDE
+Comment: added 10 boxes. Revised 27-1-2020
+
+  #####
+  #   #
+###$ $###
+# $...$ #
+#  .#.  #
+# $...$ #
+###$ $###
+ #. . .#
+ # $$$ #
+ #.$@$.#
+ # $$$ #
+ #. . .#
+ #######
+Author: Ghislain Martin + Jordi Domenech
+Title: SokoStation #379 CHAMPIMIGNON
+Comment: added a wall

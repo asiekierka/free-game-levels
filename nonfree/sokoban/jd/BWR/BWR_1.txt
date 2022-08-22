@@ -1,0 +1,1687 @@
+Author: Jordi Domènech and other authors
+Collection: The beautiful world of remodels 1
+Email: jd.sokoban2020@gmail.com
+Blog: sokoban-jd.blogspot.com
+Copyright: (c) by Jordi Domènech and the authors of each level
+Date: January-October 2010
+
+Author's note:
+Remodeling puzzles from other authors has been one of my favorite activities since 2010 and I have spent many hours to it. In the sets of "The beautiful world of remodels" I have gathered a selection of my remodels. Some of my remodels were remodeled, in turn, by other great masters: I also include these levels in this collection, because are of unsurpassed beauty and technical quality! Finally, among the remodels, I have also included some puzzles of mine of similar difficulty.
+
+Although it seems paradoxical, only very good puzzles are remodeled. The reason is simple: improving a good puzzle is a challenge for many creators of Sokoban.
+
+In the years 2010-2012 I enjoyed very good moments sharing remodels with David Holland and stopheart, and later laizhufu and Přemysl Zíka. From all of them I have learned a lot. Thank you so much!
+
+In this set, the best levels are: 4, 12, 14, 15-16, 18, 19, 21, 23, 26, 32-33, 56, 58, 68, 75-76, 80.
+
+I am grateful to the following authors your permission to include their arrangements in "The beautiful world of remodels": zhenying, Tian Lang, Tui Leshan, stopheart, David Holland, niwa, gyjgw, Přemysl Zíka, anian, laizhufu and Archanfel.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+These levels are copyright (c) by Jordi Domènech and the authors of each
+level and may be freely distributed for non-commercial use provided they
+remain unchanged, credited with the author's name, and provided the 
+author is notified.
+
+License: Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported
+http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+This collection has been downloaded from my blog:
+Sokoban. The beautiful world of remodels
+http://sokoban-jd.blogspot.com/
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+         ####
+##########  #
+#    .......#
+# $########.#
+# $   $   #.#
+#   # $ $ #.#
+##### $ $ #.#
+    #   $ #.#
+    # $ $ #.#
+    ##$#  #.#
+    # $ $ #.#
+    # $ $ #.#
+    # $ $ #.#
+    #   $ #.#
+    # $#$ #.#
+    # @   #.#
+    #########
+Author: Eric F. Tchong + Jordi Domenech
+Title: Serena 4 #40 Hammer - a
+Comment: added 6 boxes, major changes
+Date: January 2010. Rearranged: 2017.6.11
+
+#########
+#       #
+# ##$$# ##
+#        #
+##$#$#.. #
+ #.....###
+ #  #   ###
+ # $. $ $ #
+## ######@#
+# $   #   #
+#     # ###
+####*## #
+   #    #
+   ######
+Author: Shaggath + Jordi Domenech
+Title: V2009 #59 a
+Comment: added 3 boxes, some changes
+Date: 2010.2.12. Rearranged: 2017.7.8
+
+ ####
+##  #####
+# $     #
+#  @***.#
+## *$   #
+ # * ####
+ # * #
+ # . #
+ #####
+Author: Rick Sladkey + Jordi Domenech
+Title: The Warehouse I #7 a
+Comment: added 2 boxes, extension
+Date: 2010.2.14
+
+#####
+#   ####
+#     ##
+#  *** #
+## *+* ##
+ # ***  #
+ ##   $ #
+ ####   #
+    #####
+Author: niwa + Jordi Domenech
+Title: Houdini - a
+Comment: added a box, redraw map
+Date: 2010.2.20
+
+   ########
+ ###     ###
+###       ##
+## **#**** ##
+#  *     *  #
+#  * *** #  #
+#  # *+* #  #
+# $# *** *  #
+#  *     *  #
+## ****#** ##
+ ##       ###
+ ###     ###
+  ########
+Author: Jordi Domenech
+Title: Inspired by niwa's "Houdini" (a)
+Date: 2010.2.21
+
+   #######
+  ##    ###
+ ##   $   ##
+## **# *** ##
+## * . . *  #
+#  *.*$*.#  #
+# $  $@$  $ #
+#  #.*$*.*  #
+#  * . . * ##
+## *** #** ##
+ ##   $   ##
+  ###    ##
+   #######
+Author: Jordi Domenech
+Title: Inspired by niwa's "Houdini" (b)
+Date: 2010.2.21
+
+   #######
+  ###    ##
+ ##       ##
+## ***.#** ##
+#  *   $ * ##
+#  #$*** *  #
+#  . *@* .  #
+#  * ***$#  #
+## * $   *  #
+## **#.*** ##
+ ##       ##
+  ##    ###
+   #######
+Author: Jordi Domenech
+Title: Inspired by niwa's "Houdini" (c)
+Date: 2010.2.20
+
+#############################
+# $..$ # $..$ #  .*  #  ..$ #
+# $.*$ # $.*$ # ###  # $*.$ #
+# $..$ #  *.  # $.*$ #  ..$ #
+# ###$ # $### # $*.$ #$#$## #
+#  $.  #  *.$ #  *.$ # $..  #
+#.*### # $..$ # ##*  # $.*$ #
+# $..$ # $..  # $..$ # $..$ #
+# $*.$ # ###$ # $*.$ # $### #
+# $.*$ #  .*  # $.*  # .$ . #
+#.##. .# $###*# $### # ###$ #
+#  .*$ # $..$ # .*.* # $..$ #
+# $..$ # $*.$ # *$$. # $.*$ #
+# $.*$ # $..$ # .*.. # $*.$ #
+#.### .#. ###.#.###$ #. ##$.#
+# $..$ # $*.$ #  *.  #  *.  #
+# $*.$ # $..$ # $**$ # ###$ #
+# $..$@$  ..    $.*  .  ..  #
+#############################
+Author: Jordi Domenech
+Title: Inspired by "Dual Barricade" by Masato Hiramatsu
+Date: 2010.2.24
+
+############
+#          #
+# ######## #
+# #  @   # #
+# # ####.# ####
+# # #  $ $    #
+# # #    #### #
+# # .*****. # #
+# ####    # # #
+#    $ $  # # #
+#### #.#### # #
+   # #      # #
+   # ######## #
+   #          #
+   ############
+Author: Jordi Domenech
+Title: Sept en ligne - Pour Ghislain Martin
+Date: 2010.2.25
+
+###################
+#                 #
+# ############### #
+# #             # #
+# # ########### # #
+# # #    #    # # #
+#   $ ##$# ## # # #
+# ### #  #  # # # #
+# #     ... #$# # #
+# # #$##.@.## # # #
+# # # # ...   $ # #
+# # # #  #$ # ### #
+# # # ## # ##   $ #
+# # #    #    #$###
+# # ###########   #
+# #             # #
+# ############### #
+#                 #
+###################
+Author: Jordi Domenech
+Title: Square maze
+Date: March 2010
+
+       ######
+       #    #
+       #$   #
+     ###   $##
+     #  $  $ #
+###### # ### ################################
+#  ***   ***  *  *  ***  ****    *   *     *#
+# *   * *   * *  * *   *  *  *  * *  **  # *#
+# *     *   * * *  *   *  *  * *   * * *   *#####
+#  ***  * # * **   * # *  ***  ***** *  *  *  ..#
+#     * *   * * *  *   *  *  * *   * *   * *  ..#
+# *$  * *   * *  * *   *  *  * * # * * #  **  ..#
+#  *** $ ***  *  *  ***  ****  *   * *     *#####
+####### ################ ####@###############
+      #                  #  ###
+      ####################
+Author: anian + Jordi Domenech
+Title: Sokoban 30th anniversary 1980-2010
+Comment: I have integrated the word SOKOBAN by anian in Original #1
+Date: 2010.3.2
+
+###############################################
+#  ***   ***  *   * ***  ****    *   *    * # #
+# *   * *   * *  * *   *  *  *  * *  **## *   #
+# * #   * # * * *  * # *  *  * *   * * *  .$# #
+#  ***  * # * **   * # *  ***  ***** *  * *   #
+#   # * * # * * *  * # *  *  * *   * * ##*.$# #
+# *   * *   * *  * *   *  *  * * # * *  # *   #
+#@ ***   ***  *   * ***  ****  *   * *    * # #
+###############################################
+Author: anian + Jordi Domenech + zhenying
+Title: Sokoban 30th anniversary 1982-2012
+Date: 2010.3.2 anian/JD, 2012.3.28 zhenying
+
+########
+#      #
+#.**** ########
+# *  $ #      #
+# *   ## $****#
+#.***$##  *  .#
+# .  $ #  *   #
+# *  $ ## ****#
+#.****    $  .##
+#     ##  *  . #
+#########$**** #
+        #     @#
+        ########
+Author: Jordi Domenech + niwa
+Title: SE to ES - For Erim Sever
+Date: 2010.3.7
+
+ ###### ###### ##### ######
+##    ###    ###   ###    ##
+# ***. # .**. #   . # .*** #
+# *  * # *$ * # $** # *  * #
+#    * #$*  * #$.$.$# *  * #
+### *@ $ . $. $  $. $ . $.##
+#  * # # *  *$#$  .$# *  * #
+# *  # # *  * # $$* # * $* #
+# **** # ***. # .*..# ***. #
+##    ##     ###    #     ##
+ ############# ############
+Author: Mic + Jordi Domenech
+Title: Level of the Month - January 2000/1
+Comment: changed "2000" to "2010", added 8 walls
+Note: published with permission from Mic
+Date: 2010.3.7
+
+##############################################
+#   ###########                            ###
+# *  #########  * *#.**********  *********  ##
+# **  #######  ** *             **       **  #
+# * *  #####  * * * # ######## ** #### ## ** #
+# *  *  ###  *  * * # $      # *  ###   #  * #
+# *# *  ###  * #* * # $$$$$$ # * ##. *# ## * #
+# *  #*  #  *#  * * #        # * ##   $ ## * #
+# * #  *   *  # * * ########## *  # $. ##  * #
+# * #  ** **  # * *            #.  #####  .# #
+# * ##  * *  ## * *#*********.  **       **  #
+# * ###  *  ### * *          $ # .*******. # #
+# * ####   #### * * ########### .*       *. ##
+# * ########### * * ##    #  # .*$##   ##$*. #
+# * ###     ### * * ## $#... # *$ ####### $* #
+# * ##  ***  ## * * ## $ .$.## *  #######  * #
+# * ## *   * ## * * ##  #.*.   *  #######  * #
+# * ## *.#$*    * * ## $#$$# # *  #######  * #
+# * ## *   * ## * * ## $ $ # # ** ####### ** #
+# * ##  ***  ## * * ##   #   #  **       **  #
+# . ###     ### .#. ###########  *********  ##
+#  @###########                            ###
+##############################################
+Author: gyjgw + Jordi Domenech
+Title: MF8 8th Sokoban Competition (November 2009) - a
+Comment: added 3 boxes, rearranged goals/boxes. The small puzzles between the letters "MF8" are from Howard Abed (SokoCreation #53), Minigame (1997) #19 and Jacques Duthen (Sokogen #12)
+Original level: bbs.mf8-china.com/forum.php?mod=viewthread&tid=42520
+Date: 2010.3.13
+
+##############################################
+#   ##       ##                            # #
+# *  ## $.$ ##  * *#***********$ *********  ##
+# **  ##   ##  ** *           . **       **  #
+# * *  ##.##  * * * #.######## ** # ## ## ** #
+# *  *  #    *  * * # $      # *  ###   #  * #
+# *# *  ###  * #* # # $$$$$$ # * ##. *# ## * #
+# *  #*  #  *#  * * #        # * ##   $ ## * #
+# * #  *   *  # * * ########## *  # $. ##  * #
+# * #  ** **  # * *            #$  #####   # #
+# * ##  * *  ## # *#*********.. **       **  #
+# * ###  *  ### * *          $ # .*******. # #
+# * # ##   ## # * * ########### .*       *. ##
+# * #  ###### # * * #     #  # .*$#  #  #$*. #
+# * ####    ### * * ## $#... # *$ ####### $* #
+# * #   ***   # * * #  $ .$.## *  #     #  * #
+# * ## *   * ## * * ##  #.*.   *# ..$**.#  * #
+# * #  *.#$*    * * #  $#$$# # *  #     #  * #
+# * ## *   * ## * * ## $ $ # # ** ### ### ** #
+# * #   ***   # * * #    #   #  **       **  #
+# . # #     # # .#. ###########  *********  ##
+#  @#  # # #  #                            # #
+##############################################
+Author: gyjgw + Jordi Domenech + zhenying + Tian Lang
+Title: MF8 8th Sokoban Competition (November, 2009) - e
+Comment:
+JD (version a): added 3 boxes, rearranged goals/boxes
+zhenying (b): based on a, added 3 boxes and a wall, stoned 2 boxes/goals, moved some goals, several changes in the bottom right
+TL (e): based on b, added 3 boxes, moved some goals
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=42520&extra=&page=16
+Date: 2010.3.13 JD, 2010.3.15 zhenying, 2010.3.18 TL
+
+###################
+###### . # . ######
+###### $ # $ ######
+###### * # * ######
+###### * # * ######
+###### * $ * ######
+#      * # *      #
+#.$****# # #****$.#
+#       *.*       #
+#####$##.#.##$#####
+#       *+*       #
+#.$****# # #****$.#
+#      * # *      #
+###### * $ * ######
+###### * # * ######
+###### * # * ######
+###### $ # $ ######
+###### . # . ######
+###################
+Author: David Dahlem + minglw + Jordi Domenech
+Title: First collection #32 Double cross - c
+Comment:
+minglw (version b): added a box and a wall, moved 4 boxes
+JD (c): based on b, added 2 walls, changed 4 boxes by walls and 4 walls by boxes
+Date: 2010.3.18
+
+          #####
+  ######### @ #
+### $ $ $ $$$ ##
+#  .........*. #
+# $* $ $ $ # .$#
+# $.# ####  $. #
+##$.  #  ### .$#
+ # .$##    #$. #
+ #$. #     # .$#
+ # .$#    ##$. #
+ #$. ###  #  .$##
+ # .$  #### #.$ #
+ #$. # $ $ $ *$ #
+ # .*.........  #
+ ## $$$ $ $ $ ###
+  #   #########
+  #####
+Author: Jordi Domenech
+Title: Inspired by Nakamiya #3 (a)
+Date: 2010.3.20
+
+          #####
+   ######## @ #
+####          #
+#  *****.*****##
+#  * $       * #
+#  *  ##### $* #
+## * ##   ## * #
+ # * #     # * #
+ # . #     # . #
+ # * #     # * #
+ # * ##   ## * ##
+ # *$ #####  *  #
+ # *       $ *  #
+ ##*****.*****  #
+  #          ####
+  #   ########
+  #####
+Author: Jordi Domenech
+Title: Inspired by Nakamiya #3 (b)
+Date: 2010.3.20
+
+           #
+          #.#
+         # *.#
+        # * *.#
+       # * * *.#
+      # * * * *.#
+     # * * * * *.#
+    # $ * * * * *.#
+   # $ $ * * * * *.#
+  # $ $ $ * * * * *.#
+ # $ $ $ * * * * * *.#
+#@$ $ $ * * * * * * *.#
+ # $ $ $ * * * * * *.#
+  # $ $ $ * * * * *.#
+   # $ $ * * * * *.#
+    # $ * * * * *.#
+     # * * * * *.#
+      # * * * *.#
+       # * * *.#
+        # * *.#
+         # *.#
+          #.#
+           #
+Author: Kevin B. Reilly + Jordi Domenech
+Title: kbr1067 a
+Comment: extension
+Date: 2010.3.22
+
+           #
+          # #
+         # *.#
+        # $ *.#
+       # $ * *.#
+      # $ * * *.#
+     # $ * * * *.#
+    # $ * * * * *.#
+   # $ * * * * * *.#
+  # $ * * * * * * *.#
+ # $ * * * * * * * *.#
+#@$ * $ * $ * $ * $ * #
+ # * * * * * * * * *.#
+  # * * * * * * * *.#
+   # * $ $ $ $ $ *.#
+    # * * * * * *.#
+     # * * * * *.#
+      # * * * *.#
+       # * * *.#
+        # * *.#
+         # *.#
+          # #
+           #
+Author: Kevin B. Reilly + Jordi Domenech + stopheart + Tian Lang
+Title: kbr1067 c
+Comment:
+JD (version a): extension
+stopheart (b): based on a, rearranged boxes
+TL (c): based on b, rearranged 9 boxes
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=&page=2
+Date: 2010.3.22 JD, 2010.3.23 stopheart/TL
+
+                   ####
+         ###########  #
+         #            ##
+         #  #########. #
+         ##$##.$   .   #
+      #####@###$   #####
+      #  # $ ##.## $.####
+     ##$     ## ...#....#
+     #.  $$#..$ $$$$$$$.#
+    ##.## .###          ##
+    # $#  .######.#####. #
+    #   $ $##### $..$ #  #
+    #  #   .####      .$ #
+   ##.#####.#####.$$$#####
+   #  #### $  ###.#. ######
+   # $   .    ## $##......#
+   ####### #####   $ $$$$$#
+    #####  $.#  . $       #
+    #  ##$ ... $ ###### $##
+   ## $. .$ $##### .  ##.###
+   #  $$ #   .#.## $. .$   #
+   #  .  ####.$  #  $.#$   #
+   #####.###  $$$ #  $...$ #
+      #   ## $$  $ #  $#####
+#######  $## $....$ #  #
+#   #.$ ..## $.##. $.#$##
+# $ .   $#### .##.# $   #
+##### $.   ..#....$  $ $#
+    ###### #$$$$$$$$#. .#
+         # .   #      ###
+         ##############
+Author: dzxmer + Jordi Domenech
+Title: Dzxmer SuperSoko 40 #28 a
+Comment: simplification, rearranged many goals
+Date: 2010.3.31
+
+#######################
+#####   #######  ######
+#####  *       * ######
+###### ########  ######
+####   #  ##### #######
+#### $ .  ##### #######
+#### #### ##### #   ###
+#### #### #     $@$ ###
+#### #### # ##  #$$ ###
+#### ### .#. # ## $ ###
+#### ###     # ##   ###
+#### ###  #  # ########
+###  #########*########
+###            ########
+#######$#####  ####  ##
+#   ### #####        ##
+# $$      ########## ##
+# $  $   $  ####..## ##
+#   ######  ####....  #
+##$#######  ####.***$ #
+#  #.. ### #######... #
+#      ### #######.####
+##### ####$$       ####
+##### #### ############
+#####      ############
+#######################
+Author: 推乐山 (Tui Leshan)
+Title: 五岳 (The Five Great Mountains)
+Comment: based on Dzxmer SuperSoko 40 #28 a (see the previous remodel)
+Original level: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=&page=129
+Date: 2017.3.13
+
+     ###
+    ## ##
+   ##   ##
+  ##.$.$.##
+  #.$.$.$.#
+ ##   $   ##
+ #.***#***.#
+ #   $.$   #
+##$.$.$.$.$##
+#..$.$.$.$..#
+#  .$ $ $.  #
+##*#*#*#*#*##
+#    $ $    #
+##$.$.$.$.$##
+ #.$.$.$.$.#
+ ##   $   ##
+  ### @ ###
+    #####
+Author: niwa + Jordi Domenech
+Title: Easter Egg #2 a
+Comment: added 9 boxes
+Date: 2010.4.2
+
+  ##########
+  #    #   #
+ ##   $    ######
+## $$$#### ##   #
+# $    ##     # #
+# $ ##...  ##   #
+#  $@#.*.#### # #
+###  #...   # $ #
+  ###### ## # ###
+       #       #
+       #   #   #
+       #########
+Author: Marcus Palstra + Jordi Domenech
+Title: #1 Look before you leap! - b
+Comment: reduced map and simplification
+Date: 2010.4.7
+
+  ##########
+  #    #   #
+ ##   $    ######
+## $$$#### ##   #
+# $    ##.    # #
+# $ # .... ##   #
+#  $@#.# #### # #
+### $#..    #   #
+  ## #.# ## # ###
+  #  $ #       #
+  #    #   #   #
+  ##############
+Author: Marcus Palstra + Jordi Domenech + zhenying
+Title: #1 Look before you leap! re
+Comment:
+JD (version b): reduced map and simplification
+zhenying (re): based on b, major changes in the left side
+Date: 2010.4.7 JD, 2010.4.21 zhenying
+
+#########################
+#@  #           #   #   #
+# *..** # ****$ # **$** #
+# * # $ # *   * # * # * #
+# $ . $ # *## * # * . * #
+# $ # * #     * # *   * #
+# ***.* # .**** # ** ** #
+#   #   #   #           #
+################# #######
+#          .    #   #   #
+# **$** # $#**$ # **.*  #
+# *   * # *   #.# *   * #
+# * # * # * # * # $# #$ #
+# *   * #.#   * # *   * #
+# **.** # $**#$ #  *.** #
+#   #   #    .  ##  #   #
+####### ############### #
+##              #       #
+# .*$*$ # ***** #  **** #
+# *   * # .#  $ # *   * #
+# .###.## *   * # *#. $##
+# *   * # $  #. # *   * #
+# $*$*. # ***** # ***** #
+##      #   #           #
+#########################
+Author: Jordi Domenech
+Title: Broken squares
+Date: 2010.4.8
+
+  ## #####
+  #  # @ ######
+  # ##$       #
+  # # *$*****.#
+### # * .     #
+    # * * #####
+##### * * #
+#     . * # ###
+#.*****$* # #
+#       $## #
+######   #  #
+     ##### ##
+Author: Jordi Domenech
+Title: Inspired by Sasquatch IV #29 by David W. Skinner
+Date: 2010.4.17
+
+        #########
+      ###...... #
+ ###### ..####. #
+ #    # *....#.##
+ # $$$##.###.#.#
+ # $ $  .....*.#
+ # $ $ #.$ #.#$##
+ # $ $ $.###.#  #
+ # $ $ ##....## #
+## $ $ #..$#.   #
+#  $ $ #.. * $###
+# $$ $ ##.....#
+# $  $ ###### #
+# $ $$ #      #
+# $ @$  $$$$$ #
+# $$$$ ##   $ #
+#      #### $ #
+########  #   #
+          #####
+Author: Eric F. Tchong + Jordi Domenech
+Title: Chuchubi 10 #4 Lawn pac - a
+Comment: reduced map, added 4 boxes
+Date: 2010.5.19
+
+     #########
+   ###.  .   #
+   #  .####  #
+####  ....# ##
+#  ##$###*# #
+# $       $$#
+# $ # * #.# ##
+# $ $ ### #  #
+# $ ##....## #
+# $ ##. #.   #
+# @ ## $$$$###
+#   ##     #
+### ######$#
+  #        #
+  ##########
+Author: Eric F. Tchong + Jordi Domenech + zhenying
+Title: Chuchubi 10 #4 Lawn pac - b
+Comment:
+JD (version a): reduced map, added 4 boxes
+zhenying (b): based on a, simplification
+Date: 2010.5.19 JD/zhenying
+
+  ###################
+ ##                 ##
+##  ***########****  ##
+#  $*             #*  ##
+# **  #        ##   *  #
+# *   # *###**$ # $  * ##
+# # #.**      $ # $  *  #
+# #  *   ####   #$ $$ * #
+# #  * ###  #####.*   * #
+# ** #   #  #+....*  *  #
+#  * *   #  ######  ## ##
+## # $**          ***. #
+ # **   *#*#**#***    ##
+ #  #**          ######
+ ##   #*##********.#
+  ##               #
+   #################
+Author: Eric F. Tchong + Jordi Domenech
+Title: Chuchubi 10 #10 Tour de France - a
+Comment: stoned many boxes, rearranged some goals/boxes
+Date: 2010.5.19
+
+  ###################
+ ##                 ##
+##  #*##########**$  ##
+#  ## $   ####    #*  ##
+# ##  # #      ## . *  #
+# #   # ###$$**## *  * ##
+# # #.**..     ## *  *  #
+# #  *  ##$######$.** * #
+# #  * ##   $ $ #@*   # #
+# ## # ## $     ##*  *  #
+#  # *   ##### ###  ## ##
+## # ***.         ***. #
+ # ##   *######*** .  ##
+ #  ###          ######
+ ##   #########***.#
+  ###              #
+    ################
+Author: Eric F. Tchong + Jordi Domenech + anian + stopheart
+Title: Chuchubi 10 #10 Tour de France - h1
+Comment:
+JD (version a): stoned many boxes, rearranged some goals/boxes
+stopheart (b-d): based on a, added many walls, stoned some boxes, rearranged some goals
+anian (e): based on d, stoned some boxes
+stopheart (f): based on e, stoned many boxes, moved 3 goals
+anian (g-g1): based on f, stoned 2 boxes, added a wall
+stopheart (h-h1): based on g1, major changes in the central area, added 2 boxes, stoned a box, moved some goals
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=&page=11
+Date: 2010.5.19 JD, 2010.5.20-23 anian/stopheart
+
+#########################
+#                   #####
+# ###*##########**$  ####
+# ### $   ####    #*  ###
+# ##  # #      ## . *  ##
+# #   # #####**## *  * ##
+# # #.**       ## *  *  #
+# #  *  ##### ###$ ** * #
+# #  # ## $ $ $ #@*   # #
+# ## # ##   .  .##$  *  #
+# ## *   #########  ## ##
+# ## ***.         ***. ##
+# ###   *######***    ###
+# #####          ########
+# #############***.######
+#                  ######
+#########################
+Author: Eric F. Tchong + Jordi Domenech + anian + stopheart + 推乐山 (Tui Leshan)
+Title: Chuchubi 10 #10 Tour de France - h1x2
+JD (version a): stoned many boxes, rearranged some goals/boxes
+stopheart (b-d): based on a, added many walls, stoned some boxes, rearranged some goals
+anian (e): based on d, stoned some boxes
+stopheart (f): based on e, stoned many boxes, moved 3 goals
+anian (g-g1): based on f, stoned 2 boxes, added a wall
+stopheart (h-h1): based on g1, major changes in the central area, added 2 boxes, stoned a box, moved some goals
+TL (h1x2): based on h1, major changes in the central area
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=&page=129
+Date: 2010.5.19 JD, 2010.5.20-23 anian/stopheart, 2016.2.28 TL
+
+  #########
+ ##       ####
+ # *****$    ###
+##    # ****   ##
+# ***      ***  #
+# * *****    ** #
+# *     ** #  * #
+# * #    * ## * #
+# * $ **** #  * #
+# * ***    # ** #
+# * *    # # *. #
+# * ****    ** ##
+# *    ******  #
+# * ##        ##
+# ***.#########
+#   @##
+######
+Author: Eric F. Tchong + Jordi Domenech
+Title: Chuchubi 10 #40 Smoothly go - a
+Comment: added a box
+Date: 2010.5.22
+
+              ####
+        #######  ###
+        # $ $ $$@$ #
+        #      $ # #
+        ##$.#$  $# #
+#####    # .#  $ # #
+#   ###### *##$# # ##
+#.# $  ... .##....  #
+#.# # ## #$....$#   #
+# #$$$## #  ##  #####
+# # #    ########
+# $ ..####
+#.  $ #
+#######
+Author: Eric F. Tchong + Jordi Domenech
+Title: Chuchubi 10 #44 Somewhere my love - a
+Comment: reduced map, added a box
+Date: 2010.5.22
+
+           #####
+    ########   ##
+   ##        # ##
+  ## $* #*## # ##
+ ##  . #  $  $ #          ##
+##@$* # .  #$################
+# $. # .$ # ..$ $ $ $ $ $ $ #
+# . # *$ # * .              #
+#  # .  # *  ################
+##$#.  # *  ##
+ #  ### *  ##
+ #$    .  ##
+ # $#######
+ ##  # #  #
+ ##  # ## #
+ # $ #    #
+ #. .######
+ #...#
+ #...#
+ #####
+Author: 推乐山 (Tui Leshan) + Jordi Domenech
+Title: The pistol - a
+Comment: added 4 boxes
+Date: 2010.5.28
+
+       #####
+########   #
+#  $   $ # #
+#   $   $  #
+####$#### ##
+#  #....#  #
+# .*. $.#$ #
+#  #.$$*#  #
+## #....#$ #
+# *##*###  #
+#@$  .  #$ #
+#   # $    #
+#########  #
+        ####
+Author: monry + Jordi Domenech
+Title: monry-light #36 a
+Comment: added a box, changed a wall for a floor, moved 4 goals
+Date: 2010.6.12
+
+##### ####
+#   ###  #
+# #.   $ #
+# $.*##  #
+##$#..# ##
+ # *..# #
+ # #..# #
+ # ##.$ #
+ # $ .# #
+ # ##$# ####
+ #   $   $ #
+##$#@  #   #
+# $  #######
+#   ##
+#####
+Author: monry + Jordi Domenech
+Title: monry-light #45 いってみよ！(Try it!) a
+Comment: added 5 boxes, many changes
+Date: 2010.6.15
+
+####
+#  ################
+#   $        $ ##.#
+#  #$#####  ## #..#
+##   #  ##  ##... #
+ # ###  #  ####.. #
+ # #    # $####...#
+ # # ####$ #   #..#
+ # # #  $  $   #.##
+##$### $$ $ #$  ..#
+#       $#  #   .##
+# $# #   #########
+# $  $ $ #
+### @ ####
+  #####
+Author: Bruno Druille + Jordi Domenech
+Title: Tableau 51 b
+Comment: added 2 boxes, stoned some floors
+Date: 2010.6.17
+
+   #####
+   #   #
+####$ $###
+#....... #
+##### ## #
+#   #  # ##
+#    $@#  #
+####$$$## #
+   # $  # #
+  ## #  # #
+  #  #  # #
+  # ##### #
+  #       #
+  #########
+Author: Kevin B. Reilly + Jordi Domenech
+Title: kevin037 a
+Comment: arranged map
+Date: 2010.6.18
+
+####
+#  #######
+# $      ####
+# $####$.   ##
+#  # . .$  $ #
+# $#. .###$# #
+#  # . # $ # #
+# $ .$.#@$ # #
+# #*#. #   # #
+# * .#.##### #
+#.  $  #     #
+## ##### #####
+ #       #
+ #########
+Author: Kevin B. Reilly + Jordi Domenech
+Title: kevin047 a
+Comment: added 4 boxes, stoned 2 floors
+Date: 2010.6.19
+
+ ##############
+ #      #     ###
+##$ *.*.$.*.* $ #
+#  $ $ * * $ $  #
+# * $ $.$.$ $ * #
+# .$ *.*.*.* $. #
+# * $.$.$.$.$ * #
+# .*.*.* *.*.*. #
+##$ $.$ @ $.$ $##
+# .*.*.* *.*.*. #
+# * $.$.$.$.$ * #
+# .$ *.*.*.* $. #
+# * $ $.$.$ $ * #
+#  $ $ * * $ $  #
+# $ *.*.$.*.* $##
+###     #      #
+  ##############
+Author: Alberto Borella + Jordi Domenech
+Title: #13 a
+Comment: added 12 walls
+Date: 2010.6.20
+
+  #############
+ ##     #     ##
+## .*.$ # *.*. ##
+# .* *.$#$.$ *. #
+# * $ * # * $ * #
+# .$ $.$#$.$ $. #
+# * $ * # * $.* #
+# .*.*.$#$.*.*  #
+# * $ * # * $.* #
+# .$ $.$#$.$ $. #
+# * $ * # * $ * ##
+# .$ $. # .$ *.  #
+# * $ * + *.*.$ .#
+###           ####
+  #############
+Author: Alberto Borella + Jordi Domenech
+Title: #20 a
+Comment: stoned many floors, moved 2 boxes
+Date: 2010.6.22
+
+  #############
+ ##     #     ##
+## .*.$ # *.*. ##
+# .* *.$#$.$ *. #
+# * $ * # * $ * #
+# .$ $.$#$.$ $. #
+# * $ * # * $.* #
+# .*.*.$#$.*.* $#
+# * $ * # * $.* #
+# .$ $.$#$.$ $.$#
+# * $ * # * $ * ##
+# .$ $.$# .$ *.  #
+# * $ *.+.*.*.$ .#
+###     .     ####
+  #############
+Author: Alberto Borella + Jordi Domenech + David Holland
+Title: #20 b
+Comment:
+JD (version a): stoned many floors, moved 2 boxes
+DH (b): based on a, added 3 boxes
+Date: 2010.6.22 JD, 2010.6.29 DH
+
+ ########
+ #      ###
+ # ####   #
+## #.*  $ #
+#  .*.## ##
+#  #..# @#
+## #### ##
+ # $     #
+ # $ $ $ #
+ ######  #
+      ####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: kevin160 a
+Comment: reduced map, added a box
+Date: 2010.6.27
+
+ ######
+ #    #
+ # ##$####
+##       #
+#  $ $ $ ###
+# $$@$ $   #
+## #####$# #
+ # $ * *.# #
+ # #.*...  #
+ # #...#.###
+ # #####.#
+ #       #
+ #########
+Author: Eric F. Tchong + Jordi Domenech
+Title: Chuchubi 11 #12 Strip poker - a
+Comment: added a box, stoned 2 floors
+Date: 2010.7.2
+
+#####   ####
+#   #####  #
+#       $$ #
+##$##*###  #
+ #  # $ * ###
+ #$ $ # # $ #
+##  #...# # #
+#  ###.*. . #
+# $#@$ ...  #
+#    #   ####
+##########
+Author: Eric F. Tchong + Jordi Domenech
+Title: Chuchubi 11 #15 Deep dive - a
+Comment: major changes
+Date: 2010.7.2
+
+             ####
+##############  #
+#               #
+#....*** #####  #
+#      *###### ##
+###### *    @# #
+     # ******* #
+     #       * #
+     ######  * #####
+          ## *     #
+           # $$$$  #
+           #    ####
+           ######
+Author: Eric F. Tchong + Jordi Domenech
+Title: Chuchubi 11 #35 Go 4 it - a
+Comment: stoned some floors
+Date: 2010.7.2
+
+      #####
+      #   #
+####### # #
+#       $ #
+# #####$ @#
+#     #  ##
+# *.* #  #
+# * * # $#
+##*** .*.#
+#  #  * .##
+# $# #.*. #
+#    #  $ #
+####$# ####
+   #   #
+   #####
+Author: Eric F. Tchong + David Holland + Jordi Domenech
+Title: Chuchubi 11 #36 Suzette (two squares) b1
+Comment:
+JD (version a): added a wall, some changes in the bottom, rearranged some boxes/goals
+DH (a3): based on a, moved 5 goals, small change on the left side
+JD (b1): based on a3, rearranged some boxes, deleted a box/goal
+Date: 2010.7.3 JD, 2010.7.5 DH, 2010.7.6 JD
+
+       #####
+       #   #
+######## # #
+#  $     $ #
+# ######$  #
+#. $   #@$##
+## . * #$ #
+ # * . # $#
+ ##.#* .*.#
+ # $#  *..##
+ #  # #.*. #
+ # $  #  $ #
+ ####   ####
+    #####
+Author: Eric F. Tchong + Jordi Domenech + David Holland + niwa
+Title: Chuchubi 11 #36 Suzette - c
+Comment:
+JD (version a): added a wall, some changes in the bottom, rearranged some boxes/goals
+DH (a2): based on a, moved 4 goals
+niwa (c): based on a2, stoned a box, moved several boxes, reduced map
+Date: 2010.7.3 JD, 2010.7.5 DH, 2011.4.20 niwa
+
+     ########
+ #####  #  @#
+ #      . $ #
+##$###.##.###
+#  . $ $  #
+#  #$#.## #
+## # #  # #
+ # # ##.# ####
+ # #  $ $ .  #
+ # #.##.###$ #
+ #   $  . $  #
+ # # #  ###  #
+ #   #### ####
+ #####
+Author: Yut + Jordi Domenech
+Title: 一本道の迷路 (Maze of roads) a
+Comment: added 2 boxes
+Date: 2010.7.4
+
+   #########
+####   #   #
+#      . $ #
+# ###.## ###
+# . $ $ .#
+# # #.## #
+# # .  # #
+# #$## #.###
+# #@$  $.  ##
+# #*##.###$ #
+#   $    $  #
+# # ######  #
+#   #    ####
+#####
+Author: Yut + Jordi Domenech + stopheart + David Holland
+Title: 一本道の迷路 (Maze of roads) g
+Comment:
+JD (version a): added 2 boxes
+stopheart (b): based on a, stoned 2 floors, added a wall, change wall for goal, rearranged some boxes/goals
+DH (c-g): based on b, stoned 2 floors, added a floor at the top, moved 2 goals
+Date: 2010.7.4 JD, 2010.7.22 stopheart, 2010.7.23 DH
+
+ #####
+##   ##
+# ... #
+# $$$ #
+##...##
+# $$$ #
+# $.$ #
+#@ .  #
+#######
+Author: sugihiro + Jordi Domenech
+Title: 倉庫番タワー (Sokoban Tower) #9
+Comment: added 2 boxes
+Date: 2010.7.4
+
+ ########
+ #      #
+##$#### #
+#  $..# #
+# $#  $ #
+# @#..# #
+#  #  # #
+# $#.*# #
+#  $. $ #
+# $#..# #
+#  #### #
+##      #
+ ########
+Author: Kevin B. Reilly + Jordi Domenech
+Title: kevin274 a
+Comment: added a box, stoned 3 floors
+Date: 2010.7.10
+
+#########
+#   #   #
+# $  $  #######
+# $  $$$$ ##  #
+# $           #
+###$########$ #
+ #..  ##... $ #
+ #..   ... # ##
+ ####### # # #
+    # @ $#$# #
+    # ## # # #
+    # .. # # #
+    ##..   # ##
+     #$#####  #
+     #        #
+     #  #######
+     ####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: kevin289 a
+Comment: added 2 boxes
+Date: 2010.7.10
+
+#########
+#       #
+# $ $   #
+# $ $$$$#######
+#             #
+###$########$ #
+ #..  ## ...$ #
+ #.. $...*.# ##
+ ##### ###.# #
+    # @$ $$# #
+    # ## # # #
+    # *. # # #
+    # *.   # ##
+    ## #####  #
+     #        #
+     #  #######
+     ####
+Author: Kevin B. Reilly + Jordi Domenech + stopheart
+Title: kevin289 c1
+Comment:
+JD (version a): added 2 boxes
+stopheart (b-c1): based on a, added 3 boxes, stoned 4 floors, major changes in the storage area
+Date: 2010.7.10 JD, 2010.7.29 stopheart
+
+     ####
+  #### .#
+###   $.#
+#  ***  #
+#  * * ##
+##$*@* #
+ # .$* #
+ #  #  #
+ #     #
+ #######
+Author: Eric F. Tchong + Jordi Domenech
+Title: Atlas 10 #6 Betsy
+Comment: added 2 boxes, reduced map
+Date: 2010.7.18
+
+ #####
+ #   #####
+ #     $ ######
+ ## ####.     #
+ #  $ $  ####.#
+ # ##... #  $ #
+ #  $..*$#$ #.#
+##$$#.*. $ @#.#
+#   # # #####.##
+# # # $ $      #
+#   #     ##   #
+################
+Author: Eric F. Tchong + David Holland + Jordi Domenech
+Title: Atlas 10 #7 Turn around - c
+Comment:
+DH (version a11): added 5 boxes
+JD (c): based on version a11, deleted 3 boxes, major changes in the left side
+Date: 2010.7.17 DH, 2010.7.18 JD
+
+ ####   ######
+ # @#   #..  #
+ #$ #####.   ###
+ # $   #  #    #
+##.#.#.$ $. $# ##
+# .$ $.####  # .#
+#       * .$###.#
+#########   # $ ##
+   #    $ ### #  #
+ ###$$#..   #  $ #
+## $  ## $#.  #  #
+#  $ $ #  $ ######
+# $ #  ###  #
+# .#.$ # ####
+# ... ##
+#######
+Author: Kevin B. Reilly + Jordi Domenech
+Title: kevin421 a
+Comment: added 2 boxes, major changes
+Date: 2010.8.1
+
+ ####   ######
+ # @#   # .  #
+ #$ #####    ##
+ # $   # .#   #
+##.#.#.$ $. # ###
+# .$ $.#### #  .#
+#       * .$###.#
+#########   # $ ##
+   #    * ### #  #
+ ###$$#.. $ #  $ #
+## $  ## $#.  #  #
+#  $ $ #  $ ######
+# $ #  ###  #
+# .#.$ # ####
+# ... ##
+#######
+Author: Kevin B. Reilly + Jordi Domenech + stopheart
+Title: kevin421 b arr.
+Comment:
+JD (version a): added 2 boxes, major changes
+stopheart (b): based on a, stoned 2 floors, moved 2 goals
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=&page=29
+Date: 2010.8.1 JD/stopheart
+
+          #######
+          #     #
+   ########   $ #
+   #      ## ## ##
+   # $ $# $   #  #
+   # $    $#$ #$ #
+   ##   # $   #  #
+   ## $## ## #...#
+  ##   #  $ ...#.#
+ ##  $##$$$ #*##.#
+ #  $$    ##...#.#
+##$$$  $ ###*..#.##
+#@$     ## #..#.. #
+# ##$#######..*.* #
+# $         .*.####
+################
+Author: Bruno Druille + David Holland + Jordi Domenech
+Title: Tableau 72 c2
+Comment:
+JD (version a): deleted 7 boxes, reduced map and major changes
+DH (b): based on a, added 8 boxes
+JD (c2): based on b, changed 5 boxes for walls, deleted 6 boxes, stoned 4 floors (right side), major changes in the upper left
+Date: 2010.8.9 JD, 2010.8.10 DH/JD
+
+     ######
+     #    #####
+######$## #   #
+#      @    $ #
+# # ##.##.##$##
+# $ $.. $..  #
+### # #.*###$#
+  #$$.. $..  #
+ ##.##.  .## ###
+ # $  $##$## $ #
+ #   #         #
+ ###############
+Author: Kevin B. Reilly + Jordi Domenech
+Title: kevin434 a
+Comment: added 3 boxes, major changes
+Date: 2010.8.13
+
+    #####
+    #   #####
+ ####$# #   #
+##        $ #
+#  ##.####$##
+# $$..  .. #
+#  #$#.###$#
+##$ .. $.. #
+##.##.  ## #
+# $  $#### ##
+#   #@$     #
+#########   #
+        #####
+Author: Kevin B. Reilly + Jordi Domenech + stopheart
+Title: kevin434 d arr.
+Comment:
+JD (version a): added 3 boxes, major changes
+stopheart (b-d): based on a, added 4 walls (stoned 3 goals), major changes in the top left and the bottom right
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=&page=31
+Date: 2010.8.13 JD, 2010.8.17 stopheart
+
+  ######
+  #    #####
+###$##     #
+#   .#$##  #
+# #   . # ##
+# ## #. # #
+# ## ..#  ###
+#  $..#     #
+####   $$$$ #
+   ####  @ ##
+      ######
+Author: Hiroshi Yamamoto + Jordi Domenech
+Title: 迷走するシナプス２ (Straying synapse 2) a
+Comment: added 3 boxes, stoned 4 floors
+Date: 2010.8.14
+
+      ######
+  #####    #####
+  #  $  ##$    #
+  # $$$ @  $$$ #
+  #    ## #    #
+  ###   ..######
+ #######..#   #####
+##   .....#####   #
+# $$####.*...   # #
+# $  $ #..#### $$ #
+# $# $ #..## $ $  #
+#      #..   ##$  #
+######   ######   #
+     #####    #####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: kevin438 a
+Comment: reduced map, added 2 boxes
+Date: 2010.8.15
+
+###################
+#@   #.  ##########
+# ## $ # #..     ##
+# #  $ # # # $ # ##
+#    #.  # #  $# ##
+# ######$# # $ # ##
+#        # # $ #  #
+#### ###.#.# $ ## #
+#  # #.$   #  ##  #
+# $$ #.### # $ $$ #
+#  $ #     ##     #
+# #$##$### #### ###
+#  $   #.. ..  ..##
+# $$ #.# #.#   ..##
+#      #       ..##
+###################
+Author: Matthias 'muh' Pauligk + stopheart + Jordi Domenech
+Title: The Solver's unsolvable #1 c
+Comment:
+JD (version a): added a box, small changes
+stopheart (b): based on a, small change on the left
+JD (c): based on b, deleted 4 boxes, rearranged some goals
+Date: 2010.8.24 JD, 2010.8.25 stopheart/JD
+
+ #########
+ #  ##   ###
+ # $   #   #
+ #  #### $ #
+ # $#  ### #####
+ #  #    # #   #
+### # $$$*** $ #
+#     $  # # ###
+#   ###@ #...#
+##### ####.*.#
+        # ...#
+        #   ##
+        #####
+Author: Kevin B. Reilly + Jordi Domenech
+Title: kevin465 a
+Comment: reduced and redraw map, added 3 boxes
+Date: 2010.8.27
+
+   #######
+####     ####
+#    $    $ #
+# $#$$#$###.#
+#  #    ## .#
+##   ## ## $#
+#  ####.##..#
+# $   #*...$#
+#  #$$....* #
+####  $ #  ##
+   ## @#####
+    ####
+Author: Mic + Jordi Domenech
+Title: Level of the Month 09/10 Dub on My Pillow - a
+Comment: added 4 walls, deleted a box, moved 2 goals
+Note: published with permission from Mic
+Date: 2010.8.29
+
+####
+#  ######
+# $     #
+#  #$## #
+## #    #
+ # #$## #
+ # #    #
+ # #$## #
+ # #    ##
+## ####  #
+# $..... #
+# @ ###  #
+##### ####
+Author: David W. Skinner + Jordi Domenech
+Title: Sasquatch XII #6 variant (a)
+Date: 2010.9.20
+
+#### #####
+#  ###   #
+# $$     #
+#  # ## ##
+## # #  #
+ # # #$ #
+ # # #  #
+ # # #$ #
+ # # #  #
+## # #$###
+# *.*....#
+# @      #
+##########
+Author: David W. Skinner + Jordi Domenech
+Title: Sasquatch XII #6 variant (b)
+Date: 2010.9.20
+
+##### #####
+#   ###   #
+# $       #
+##$## ## ##
+ #  # #  #
+ #$ # # $#
+ #  # #  #
+ #$ # # $#
+ #  #.#  #
+ ## #.##$##
+ #.*.*.*. #
+ # @ .    #
+ ##########
+Author: David W. Skinner + Jordi Domenech
+Title: Sasquatch XII #6 variant (c)
+Date: 2010.9.20
+
+#############
+#     @     #
+# ****$**** #
+#         * #
+## ******* ##
+ # *       #
+ ## **#** ##
+  #     * #
+  ## *** ##
+   # *   #
+   ## . ##
+    #####
+Author: Jordi Domenech
+Title: Zigzag
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=&page=44
+Date: 2010.9.23
+
+#############
+#           #
+# ****$**** #
+#         * #
+## ******* ##
+ # *       #
+ #  **#** ##
+ ##     * #
+  ## *** ##
+   # *   #
+   ## + ##
+    #####
+Author: Jordi Domenech
+Title: Zagzig
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=&page=44
+Date: 2010.9.23
+
+             ####
+    #####    #  ######
+    #   ######...... #
+##### # ##      ## # #
+# $ $ $ $ $ ##  ## $ #
+# # ##......##$## $$ ##
+#      ###* #   #  $$ #
+######## #+$$   #     #
+         #.$ $# #######
+         #.##   #
+         ########
+Author: David W. Skinner + Jordi Domenech
+Title: Sasquatch #12 a
+Comment: added a box, redraw map
+Date: 2010.9.25
+
+###################
+#       #  ###..* #
+#. $    $*.#    *.#
+#.#######..#  ## .#
+#.  #  ## ###$## .#
+#.#   $$       $$##
+# # $#.##$## ###  #
+# $$ # ...##   $ @#
+##$ $#$.#.## $  ###
+# $  # ... # ###  #
+# $ $ # #$ $   $$ #
+#    $$ #  #.#$#  #
+#  $#  #####.  .*.#
+##   $$$ $  .# .*.#
+##       ##### ...#
+###################
+Author: Bruno Druille + Jordi Domenech
+Title: Tableau 75 b
+Comment: added 5 boxes, 2 walls, stoned 3 floors, rearranged some goals
+Date: 2010.9.29
+
+###################
+#       #. ###..* #
+#.$ $   $*.##   $.#
+#.#######..## ## .#
+#.####### ###$## .#
+#      $       $*##
+### ##*##$## ### ##
+## $ # ...##   $@##
+##$ $#$.#.## $  ###
+# $  # ... # ###  #
+# $ $ # *$ $   $$ #
+#    $$ #  # #$#  #
+#  $#  #####.  .*.#
+##   $$$ $  .# .*.#
+##        #### ...#
+###################
+Author: Bruno Druille + Jordi Domenech + stopheart
+Title: Tableau 75 c
+Comment:
+JD (version b): added 5 boxes, 2 walls, stoned 3 floors, rearranged some goals
+stopheart (c): based on b, stoned many floors, rearranged some goals
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=&page=59
+Date: 2010.9.29 JD, 2011.7.15 stopheart
+
+#########
+#       #
+# ###$# #
+# #   # #
+#.*.$ *.#
+# #   # #
+# ###$# #
+#@      #
+#########
+Author: Roger Delaporte + Jordi Domenech
+Title: rd090 a
+Comment: added a box, moved a goal
+Date: 2010.10.2
+
+#############
+#           #
+# $######## #
+#  #   ##   #
+# $# #   $$ #
+#  $ #$#$#  #
+#@#.......  #
+#############
+Author: zhenying + Jordi Domenech
+Title: 61-09 a
+Comment: added a box, a wall
+Date: 2010.10.15
+
+#########
+#       #
+# ******#
+# .     #
+# **$***#
+#       #
+#@#  #  #
+#########
+Author: zhenying + Jordi Domenech
+Title: 61-14 a
+Comment: moved a goal
+Date: 2010.10.15
+
+#######################
+#                     #
+#.###################*#
+# #...#            @# ##
+# #.**# $$######  $$#  #
+#.#.. $$$       $#     #
+#  $*.#   $$$$$$$ # #  #
+# #   ###. . ...#.. .###
+#$################## $ #
+#              .       #
+#.#############*########
+#.#            .#
+# # # $ $  $$$$.###
+# $*##$$ ### . . .#
+### # .### ##.*.#*##
+ # .  ##    #.* #  #
+ # ###########*##  ###
+ #                   #
+ ############ * #$$$ #
+            ##.##    #
+            # $   ####
+            #   ###
+            #####
+Author: Carlos Montiers & Eric F. Tchong + stopheart + Jordi Domenech
+Title: Beautiful f2a
+Comment:
+stopheart (version a): stoned 8 goals, added a wall, rearranged boxes/goals
+JD (a2): based on a, simplification (deleted 11 boxes), small changes at the top and major changes at the bottom
+stopheart (versions b to f1): based on a2, major changes at the whole level
+JD (f2a): based on f1, stoned a box/goal, moved a box and a goal
+Date: 2010.10.15-18 stopheart/JD

@@ -1,0 +1,1842 @@
+Author: Jordi Domènech and other authors
+Collection: Thinking Rabbit arrangements
+Email: jd.sokoban2020@gmail.com
+Blog: sokoban-jd.blogspot.com
+Copyright: (c) by Jordi Domènech and the authors of each level
+Date: March 2010 - January 2018
+
+Author's note:
+In this collection I have collected all my arrangements of Thinking Rabbit levels. Some of my arrangements were remodeled, in turn, by other great masters (Tian Lang, David Holland, stopheart, zhenying, Přemysl Zíka, 西部飞狐): I also include these levels in this collection, because are of unsurpassed beauty and technical quality! I am grateful to these authors your permission to include their arrangements in this set.
+
+See also "Original remixed" collection.
+
+The best arrangements are: 4, 8, 16, 28, 29, 35, 36, 39, 47, 49, 51, 52, 65, 70, 75, 77, 78, 79-80, 84-85, 88.   
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+These levels are copyright (c) by Jordi Domènech and the authors of each
+level and may be freely distributed for non-commercial use provided they
+remain unchanged, credited with the author's name, and provided the author
+is notified.
+
+License: Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported
+http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+This collection has been downloaded from my blog:
+Sokoban. The beautiful world of remodels
+http://sokoban-jd.blogspot.com/
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+       ######
+       #    #
+       #$   #
+     ###   $##
+     #  $  $ #
+###### # ### ################################
+#  ***   ***  *  *  ***  ****    *   *     *#
+# *   * *   * *  * *   *  *  *  * *  **  # *#
+# *     *   * * *  *   *  *  * *   * * *   *#####
+#  ***  * # * **   * # *  ***  ***** *  *  *  ..#
+#     * *   * * *  *   *  *  * *   * *   * *  ..#
+# *$  * *   * *  * *   *  *  * * # * * #  **  ..#
+#  *** $ ***  *  *  ***  ****  *   * *     *#####
+####### ################ ####@###############
+      #                  #  ###
+      ####################
+Author: anian + Jordi Domenech
+Title: Sokoban 30th anniversary 1980-2010
+Comment: I have integrated the word SOKOBAN by anian in Original #1. Also published in The beautiful world of remodels 1 #11
+Date: 2010.3.2
+
+  ####
+  #  #
+### $##
+#   $ #
+# #$# ##
+#     .#
+####@..#
+   #####
+Author: Jordi Domenech
+Title: Original #1 Lilliput extreme - To Erim Sever
+Comment: also published in Magic Sokoban #40
+Date: 2010.4.15
+
+    #####       ####
+    #   ####    #  ##
+    #      #    #   ######
+    ## $$  #    # $$$   .#
+   ####  $##    ## .... .#
+   #   $$ ##     ##  #. .#
+#### ## #  #      #  #...#
+#   $## ## ############ ##
+# #    $      @         #
+#   ##################$ #
+#####                #  #
+                     ####
+Author: David W. Skinner + Jordi Domenech
+Title: Sasquatch XII #22 Original level #1 revised - a
+Comment: added 3 boxes, stoned 2 floors. Also published in The beautiful world of remodels 2 #51
+Date: 2012.3.2
+
+    #####
+    #   #
+    #.  #
+  ###  .##
+  #  . . #  #####
+### # #  #  #   ####
+#   # ## ####$$    #
+# .  .        $$$$ #
+#####.###$#@#      #
+    #     ##########
+    #######
+Author: Jordi Domenech
+Title: Original #1 reverse mode
+Comment: also published in Life #5
+Date: 2015.2.19
+
+ ########
+ #  #   #####
+ #  # #$##  #
+ #  #     $ #
+ #. #  ##$  #
+ #.  $ $ @###
+ #..# $ $ #
+##..#$ $ $#
+# ..#   # #
+# ..###   #
+##### #####
+Author: Jordi Domenech
+Title: Original Lilliput #5
+Comment: also published in Magic Sokoban 7 #15
+Date: 2010.4.7
+
+ #########
+##...# @ #
+# ...#   #
+# ..##$$ #
+##   # $ #
+ # #$  $ #
+ # # # $ #
+ #   $$# #
+ #  ##   #
+ #########
+Author: Jordi Domenech
+Title: Original Lilliput #6
+Comment: To George Petrov, who gives me courage to continue with the Lilliput collection. Also published in Magic Sokoban 7 #16
+Date: 2010.4.7
+
+     ####
+ #####  ####
+ #   #     #
+ #  $@$ $  #
+ ##$#### ####
+##    # *.  #
+#   # $...$ #
+#   $ #...###
+#  ########
+####
+Author: Jordi Domenech + YASGen
+Title: Original Lilliput #7
+Comment: also published in Magic Sokoban 7 #17
+Date: 2010.4.9
+
+################
+#   #......#   #
+#    . .  .#$$ #
+### #......    #
+ ## ########$###
+ #             #
+ # $ $ $$$ $ $@#
+ ####### #######
+ #. #  .  #    #
+ #.$# *.. # $  #
+ #. ###.###$ $ ##
+ #.   $.# $ $ $ #
+ # $##$...   #$ #
+ #. ## ####$##  #
+ #.##   # $  #$ #
+ #. #   #   $$  ##
+ ## # $$ #       #
+  # #    # $ #$  #
+  # ######## #   #
+  #          #####
+  ############
+Author: Thinking Rabbit + Jordi Domenech + anian + Tian Lang
+Title: MF8 7th Sokoban Competition++
+Comment:
+anian (MF8 7th Sokoban Competition): based on Original remixed #20 by JD, added 3 boxes, 2 floors, mayor changes in the upper area, rotated map counterclockwise (as in Sokoban Perfect #226)
+TL: based on MF8 7th Sokoban Competition, added 2 boxes. The goals of the central area are the Chinese number 七 ("7")
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=41064
+Date: September 2009 JD, 2009.10.16 anian, 2009.10.25 TL
+
+    ########
+    #  @   #
+ ####$$#$# ##
+ #          #
+ # ##*##### #
+ # # .... # #
+## # .... # ##
+#  #####$##  #
+# $  $    $$ #
+###   #   #  #
+  ############
+Author: David W. Skinner + Jordi Domenech
+Title: Microban variations IV #46
+Comment: Skinner's level title: "Original level #29 simplified". I added a box, some walls 
+Date: 2010.8.31
+
+    ######
+ ####    #  ####
+ #  #$#$ ####  #
+##    $   $    #
+#  #### #####  #
+# $#...* #  # ##
+#  #..*.. ..# #
+## # #####$##$##
+# $          $ #
+#   #### @ #   #
+#####  #########
+Author: Jordi Domenech
+Title: Original #29 revised
+Comment: also published in Miniatures #72
+Date: August 2010
+
+                 #######
+  ################.....#
+###           @ .......#
+#   ####### ####  ..#..#
+# #$#   #  $$  ## ##...#
+#   #   $$  $# #   #.#.#
+### ##$#  $  #   $ #...#
+ # $## $  #  $$ ####...#
+ #    $  ##$ # ##  ## ##
+ #  ###$$   ## ###  # #
+####### $ $ # $  #  # #
+#     #  #$    $ #### #
+# $$$  # # ####       #
+# #  $$  # #  ### ##  #
+#   #  ### ###### #####
+#####             #
+    ############  #
+               ####
+Author: Thinking Rabbit + Jordi Domenech
+Title: Sokoban Perfect #29 a
+Comment: reduced map, added 2 boxes
+Date: 2010.7.6
+
+                 #######
+  ################..*..#
+###       @ ........*..#
+#   ####### #### $..#*.#
+# #$#   #  $$  ## ##...#
+#   #   $$  $# #  .#.#.#
+### ##$#  $  #   $ #.#.#
+ # $## $  #  $$ ####. .#
+ #    $  ##$ # ##  #. .#
+ #  ###$$   ## ### ## ##
+####### $ $ # $  #  # #
+#     #  #$   $$ #### #
+# $$$  # # ####       #
+# #  $   # #  ### ##  #
+#   #$ ### ###### #####
+#####             #
+    ############  #
+               ####
+Author: Thinking Rabbit + Jordi Domenech + David Holland
+Title: Sokoban Perfect #29 a13
+Comment:
+JD (version a): reduced map, added 2 boxes
+DH (a2-a13): based on a, added 7 boxes, small change in storage area
+Date: 2010.7.6 JD, 2010.7.14 DH
+
+  ##########
+  #    #   #
+  # $#   $ #
+  # $ $#$# #
+ ###.#...  #####
+ #  ....##$#   #
+ #$#.##.#  $$$ #
+##  .....@# $  #
+#  #.#*#. $ $ ##
+# $$   #$# $  #
+#  ###   #   ##
+#### #########
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Perfect #43 a
+Comment: reduced map, change a box for a wall
+Date: 2010.7.15
+
+         ####
+  ########  ####
+###       .....#
+#   # ### .....#
+# ###   #......#
+# #  $ $###....#
+# # $$$   ######
+# # $ # $ # @ ######
+# # $ $$$   #      #
+# #   $  ##### ### #
+# ### # $#   $   # #
+#   #    # $ $ $ # #
+### ### ### ### ## #
+  #   $      ##  # #
+  #####  #   #   # #
+      ########  $$ #
+             #   ###
+             #####
+Author: Thinking Rabbit + Jordi Domenech
+Title: Sokoban Perfect #64 b
+Comment: reduced map, added a box, some changes
+Date: 2010.7.24
+
+           ####
+           #  ##
+      #### # $ ##
+  #####..###  $ #
+  #   #...##  $ # ####
+  #   .   .## $ ###. #
+  ## ##  #$ # $ .....#
+  ##.# $## $##  ###..#
+ ## **    $   $ #  *###
+## $.#$#  $ $  #  $   #
+# $ .#   # ###  $$  $ #
+#   .#####     ##  #@ #
+######   ##############
+Author: Yoshiki Kondo + Jordi Domenech
+Title: Sokoban Perfect #66 a
+Comment: added 2 boxes, major changes at the top
+Date: 2010.7.24
+
+           ####
+           #  ##
+      #### # $ ##
+  ##### .###  $ #
+  #   #. .##  $ # ####
+  #   * $ .## $ ### .#
+  ## ## .#$ # $  ... #
+  ##.# $##.$##  ###. #
+ ## $$    $ . * #  $###
+## *.#$#..* *  #  $   #
+# $ .#   # ### .$$  $ #
+#   .#####     ##  #@ #
+######   ##############
+Author: Yoshiki Kondo + Jordi Domenech + David Holland + minglw + stopheart
+Title: Sokoban Perfect #66 d
+Comment:
+JD (version a): added 2 boxes, major changes at the top
+DH (b-b1): based on a, added a box, rearranged many goals
+minglw (c1): based on b1, moved 2 goals
+stopheart (d): based on c1, added a box, moved a goal
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=&page=26
+Date: 2010.7.24 JD/DH, 2010.7.25 minglw/stopheart
+
+ ##########    ####
+ #        ######  #
+ # # ####$#  ...*.#
+ # # #  $ $ # ##..#
+ # # # ## # #$##..##
+ # # # ## $ $ ##*..#
+ # # #       $ #...#
+## #$####  $ # #.**#
+#  $@$    #### #.*.#
+# #$##### #  # #***#
+# # #   $ #  $.*...#
+# # # $ # #    #####
+# # #  $  ##$###
+# #  ## # ## #
+#   $ # #    #
+###   # ### ##
+  ##  # $  $ #
+   ####      #
+      ########
+Author: Thinking Rabbit + stopheart + Jordi Domenech + zhenying
+Title: Sokoban Perfect #68 c1 re (arr.)
+Comment:
+stopheart (version b): added 6 boxes and 2 floors, stoned 2 floors in the storage area
+JD (c1): based on b, added 3 boxes, removed a wall, small change in the bottom right
+zhenying (c1 re): based on c1, stoned 6 floors, moved a box to the storage area
+JD (c1 re arr.): minor changes
+Date: 2010.4.15 stopheart/JD, 2010.4.24 zhenying
+
+       #####
+       #...#########
+#####  #...$  .    #
+#   ####. .####$$  #
+# $    #...#  #  $##
+## ### #.###  #   #
+ # # $...   $ ### ##
+ # # # #$## $ #    #
+## # $ # ####$# $  #
+#  # ### #   $  $  #
+# $$  @     ####  ##
+#  #######  #  ####
+####     ####
+Author: Thinking Rabbit + Jordi Domenech
+Title: Sokoban Perfect #69 a
+Comment: added a box, major changes
+Date: 2017.11.23
+
+    ####   #####
+    #  #####   #
+    #$      .  #
+  ###@####### ####
+ ##  *  ##   *   #
+ #  * *  #  * *  #
+ # *   * # * * * #
+ #* .#. *#* *$* *#
+ # *   * # * * * #
+ #  *$*  #  * *  #
+ #   *   ##  *   #
+##### ####### ####
+#   # #  *  #   #
+#      * *  # # #
+#######  * *    #
+      #  *  #####
+      #######
+Author: Thinking Rabbit + Jordi Domenech
+Title: Sokoban Perfect #84 a
+Comment: added a box, some changes at the top
+Date: 2010.8.3
+
+    ####   #####
+    #  #####   #
+    #$      .  #
+  ###@####### ####
+ ##  *  ##   *   #
+ #  * *  #  * *  #
+ # *   * # * * * #
+ #**.#.**#* *$* *#
+ # *   * # * * * #
+ #  *$*  #  * *  #
+ #   *   ##  *   #
+##### ####### ####
+#   # #  *  #   #
+#      * *  # # #
+#######  * *    #
+      #  *  #####
+      #######
+Author: Thinking Rabbit + Jordi Domenech + David Holland
+Title: Sokoban Perfect #84 c1
+Comment:
+JD (version a): added a box, some changes at the top
+DH (b-c): based on a, added 2 boxes
+JD (c1): moved a goal
+Date: 2010.8.3 JD/DH
+
+    ###########
+ ####    .    ####
+ #    # $.# #    #
+ # ## #$ .$ #$## #
+## #    #*$$$  # ##
+# $$ ##$#.# ## $  #
+#....*.......*....#
+# #  ##$#*#@##$## #
+# ##$  $ .#$ $    #
+#  $ # $ .   ## ###
+#### ##$#.$$##  #
+   #     .  $  ##
+   #############
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Perfect #103 a
+Comment: extension, added 10 boxes
+Date: 2010.8.11
+
+    ###########
+ ####    .    ####
+ #    # $.# #    #
+ # ## #$$.$ #$## #
+## #    #*$ $  # ##
+# $$ #### # ## $  #
+#....*... ...*....#
+# #  ##$#*# ##### #
+# ##$  $ .#$ $    #
+#  $ # $ . @### ###
+#### ##$#.$$##  #
+   #     .  $  ##
+   #############
+Author: Yasuhiro Morita + Jordi Domenech + stopheart
+Title: Sokoban Perfect #103 b1
+Comment:
+JD (version a): extension, added 10 boxes
+stopheart (b-b1): based on a, change 2 boxes for walls, added a wall
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=&page=29
+Date: 2010.8.11 JD, 2010.8.12 stopheart
+
+ #######
+ #     #
+ # #$$ ##
+ #   $  ####
+##  ###$$  #
+# ..# # #  #
+# # # # # #####
+#   ### # $ $ #
+###.# $   #   #
+#...#  @$### ##
+#... #$# # $ #
+#...   $ #   #
+#..##$$   $ $#
+#  .. ##     #
+##############
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Perfect #106 b
+Comment: simplification, major changes
+Date: 2017.11.25
+
+  ########
+  #   #  ###
+### # $  $ ###
+#    #$$ #   #
+# ##$#  @  $ #
+#    $$###$ ##
+#   $# ##  ##
+# #$ #.*..##
+# $ #.*...#
+## ......##
+ ##$# ####
+  #   #
+  #####
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Perfect #108 a
+Comment: added 2 boxes and a wall
+Date: 2010.8.12
+
+###### ####
+#    ### @###
+# $$ $ # $$ #
+#   $#  $ $ #
+#### ### #$ #
+   #.... #  #
+   #..## ## #
+  ##....    #
+  #....#$####
+  # #### #
+ ## ##   #
+ #  # $  #
+ # $ $ $##
+ #  #   #
+ ########
+Author: Thinking Rabbit + Jordi Domenech
+Title: Sokoban Perfect #114 a
+Comment: simplification
+Date: 2010.8.20
+
+       #######
+       #     ######
+      ## $$ $     #
+  ##### $  $ #### ####
+### @ #  $   #  # #  #####
+#  $$ # $###### # $    $ #
+#    ###   #  ##### #  $ #
+##$$$#     $ .*...#$###  #
+ #    $ ### #.##...$    ##
+ # ####$  $ #.#...#  ####
+ #  # $   ###.#..##  #
+ #  $  #  ##.....## $#
+ #  #  #####.....##  #
+ #######  ##.######$##
+          #    # $   #
+          #    # #   #
+          #  #   #####
+          ########
+Author: Thinking Rabbit + Jordi Domenech
+Title: Sokoban Perfect #115 a
+Comment: added 2 boxes, stoned 2 floors - sokovampirism ^^
+Date: 2017.11.27
+
+  #####
+###   ##
+#   #  #
+# # $$ ##########
+# $$   ##  #    #
+##   $ ## $$$ # #
+ # #$ $$ $.#. $ #
+ # @$ .#.....$ ##
+ #####..##*#.###
+   #  #.*....#
+   #      $###
+   #   #   #
+   #########
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Perfect #121 a
+Comment: added 2 boxes, a wall, major changes in the bottom left
+Date: 2010.8.21
+
+  #####
+###   ##
+#   #  #
+# # $$ ##########
+# $$   ##  #    #
+##   $ ##.$$$ # #
+ # #$ $$ *.#. $ #
+ # @$  #.....$ ##
+ ##### .##*#.###
+   #  #.*....#
+   #  $   *###
+   #   #   #
+   #########
+Author: Yasuhiro Morita + Jordi Domenech + stopheart
+Title: Sokoban Perfect #121 b
+Comment:
+JD (version a): added 2 boxes, a wall, major changes in the bottom left
+stopheart (b): based on a, added a box, moved 2 goals
+URL: bbs.mf8-china.com/forum.php?mod=viewthread&tid=37579&extra=&page=33
+Date: 2010.8.21 JD, 2010.8.22 stopheart
+
+#######
+#  #  #     ####
+# $$ $#######  ####
+#  #  ....... $#  #
+## #  ###.###   $ #
+ # ##  ##.#@#$##  #
+## ###$ #.# #  # ##
+#      $#.# #     #
+#   ##$ # #   $#$ #
+######      #  #  #
+     ####  ########
+        ####
+Author: Hidemitsu Kobayashi + Jordi Domenech
+Title: Sokoban Perfect #127 f
+Comment: major changes at the bottom, deleted a box, added a wall
+Date: 2010.8.21
+
+                #####
+               ##   ####
+   ####     ####  $  $ #
+ ###  #######     $#   #
+##.         $ # $   #$##
+#.. # ##$# #####$## #  #
+#....    # #  ##  #    #
+#......  #$# $   $###$ #
+#########  $   #   @  ##
+        #   #  #  #####
+        ###########
+Author: Thinking Rabbit + Jordi Domenech
+Title: Sokoban Perfect #152 a
+Comment: simplification, major changes
+Date: 2017.11.29
+
+########
+#   #  #
+#      #
+## ##  #
+ # ## ####
+## ##    #####
+#   @ ...#   #
+# ####...  $ #
+#   # .#.## ######
+### # ...## #    #
+  # ####### # $$ #
+  # #  # #  #$ $ #
+  # *  # # $  $$ #
+  ###  # #  #$ $ #
+    # #######  $ #
+    #            #
+    ##############
+Author: Thinking Rabbit + Jordi Domenech
+Title: Sokoban Perfect #161 a
+Comment: major changes
+Date: 2017.11.30
+
+ ####   ########
+ #  #####  #   ##
+ #$   @   $$  $ ##
+## ###$##  ##  $ ##
+# $ .#  ## ###  $ #####
+#..*.*  #  #  #    #  #
+#.*.*#  # $   ## $  $ #
+#.*.. $ ##### ###  #  #
+#..**#  #     ### ## ##
+#..*. $ # $$$    $   #
+#.*..#  #      #  #  #
+######################
+Author: Thinking Rabbit + Jordi Domenech
+Title: Sokoban Perfect #164 a
+Comment: added a box, stoned some floors
+Date: 2017.11.30
+
+#####      ####
+#   ########  #
+# $ #   #  #$ #
+#   $ $ #     #####
+##$##   #  #  ##  #
+ # ##$####$# $$   #
+ # #   $   #  #$. #
+ # # $ ### #### #*#
+## #@  #   # .. #.#
+#  ##### # $.#*. .#
+#      $   #.. .###
+#  ######  #.*...#
+####    #  #######
+        ####
+Author: Yoshio Sakae + Jordi Domenech
+Title: Sokoban Perfect #177 a
+Comment: simplification, major changes
+Date: 2010.9.27
+
+   ##########
+   #  ##    #####
+ ###  $  # $  $ #
+ #   $##  $$#   #
+ #    $ $ #    ##
+ #$#### #####$ #
+ # # ........@ #
+##   .*.*.*. # #
+#   ######.### #
+# #$     $  $  #
+#   ############
+#####
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Perfect #183 b
+Comment: added 2 boxes, stoned 5 floors
+Date: 2014.2.12
+
+  #########
+  #    # .#
+### #$  .*#
+#  $  ##..#####
+# #  $ #.*$ * #
+# $$  $#..  # #
+##$ #   ..#$# #
+ #  #@##.*#   #
+ ##    #... $##
+ #  ##$####  #
+ # $  $     ##
+ #  #########
+ ####
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Perfect #186 e
+Comment: added 2 boxes and 2 walls, moved 3 goals, stoned some floors on the right side, minor changes
+Date: 2017.12.2
+
+     #####
+ #####   #
+ #       ####
+ # $$## ##@ #
+ ##  # $  .*#
+  # ##   #..#
+  # ##.###.*#
+  # ##   #..#####
+### #### #.*#   ##
+# $      #..#$ $ #
+# # #$ # #.*#    #
+#   #  #$#..  $  #
+###### # #######$##
+   # $     $    $ #
+   # # ###   ##   #
+   #   # ##########
+   #####
+Author: Hidemitsu Kobayashi + Jordi Domenech
+Title: Sokoban Perfect #192 b
+Comment: added a box, arranged the bottom. Also published in Life #56
+Date: 2017.12.3
+
+   #####
+####   #
+#  $ @ #
+# $ #.#####
+#  ##.##  ####
+#  ..... $#  #
+## ##.#   #$ #
+ #  #.# $    #
+ ## $ #####$##
+  # #$     $ #
+  #    ###   #
+  ###### #####
+Author: Thinking Rabbit + Jordi Domenech
+Title: Sokoban Perfect #195 variation
+Comment: also published in Magic Sokoban 4 #72
+Date: 2012.8.13
+
+   #####      #####
+  ##   ##    ##   ##
+###  $  ######     ###
+#  #$ $ #   #        #
+# .     $   #    $   #
+# .####$##@##  $  #  #
+##.#  $ #   $ #$$ #.##
+ #.# $  #   #  $  #.#
+ #.#   $ #####    #.#
+ #.# $$  # . #    #.#
+ #.# $  #  $  #   #.#
+ #.#   #  $.$  #  #.#
+ #.#  #  $.#.$  # #.#
+##.# #  $.###.$  ##.##
+#  ##  $.#   #.$  #* #
+#     $.## # ##.$    #
+##  ###    #    ###  #
+ #### ########### ####
+Author: Yoshio Sakae + Jordi Domenech
+Title: Sokoban Perfect #202 c
+Comment: added a box
+Date: 2011.8.24
+
+   #####      #####
+  ##   ##    ##   ##
+###  $  ######     ###
+#  #$ $ #   #    $$  #
+# .     $   #     $  #
+# .####$##+##  $  #  #
+##.#  $ #   $ #$$ #.##
+ #.# $  #   #  $  #.#
+ #.#   $ #####    #.#
+ #.# $$  # . #    #.#
+ #.# $  #  $  #   #.#
+ #.#   #  $.$  #  #.#
+ #.#  #  $.#.$  # #.#
+##.# #  $.###.$  ##.##
+# .##  $.#   #.$  #* #
+#     $.## # ##.$    #
+##  ###    #    ###  #
+ #### ########### ####
+Author: Yoshio Sakae + Jordi Domenech + Premysl Zika
+Title: Sokoban Perfect #202 d
+JD (version c): added a box
+PZ (d): based on c, added 2 boxes
+URL: www.zusbreznice.cz/rozvrhy-zika-premysl-sokoban-remodeled.cz
+Date: 2011.8.24 JD, 2014.4.10 PZ
+
+      #####
+    ###   ##
+    #   #$ #####
+  ### $ @ $#   #
+###  #  #    $ #
+#    $ $$  ##.##
+# ##.#  ### $ #
+# #..###     $#
+# #.*###   #  #
+#  .... #$##  #
+###.*.*.$    $#
+  #  ###  ##  #
+  #### #  #####
+       ####
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Perfect #205 b
+Comment: added a wall, deleted a box, major changes at the bottom
+Date: 2017.12.3
+
+####
+#  ###
+# $  ###
+# $ $  ###
+# $ $ $  ###
+# $ $ $    #
+# $ $ ##   #
+# $  ###$$$##
+#@ ####     ##
+## # #.$$$$$.#
+ # ###.......##
+ #   .*******.#
+ ####.........#
+    ###########
+Author: Thinking Rabbit + Jordi Domenech
+Title: Sokoban Perfect #207 a
+Comment: added 3 walls
+Date: 2011.8.24
+
+       #####
+   #####   #
+   #   # # ####
+   # $ #  $   #
+  ##$  ### ## #
+###  $$ $ $ # #
+#       $   # ##########
+#  ######## #      #   #
+## # #      ######$# # #
+ # ### #### ##.. #   $ #
+ #  $  $  #$##.. #$##  ##
+ #  # # #     ..## ## $ #
+ ####   # ## #..#    $  #
+    #####  @ #..# # #  ##
+        ######..#   # ##
+             #..#####  #
+             #..       #
+             ##  #######
+              ####
+Author: Akira Yoshima + Jordi Domenech
+Title: Sokoban Perfect #217 b
+Comment: stoned 2 floors, major changes at the top right
+Date: 2011.8.25
+
+      ########
+####  #  #   #
+#  #### $$...#
+# $      #...#
+#  #####$#...#
+## #     #...#
+ # ##$ $ #####
+ #   $ $ #
+ #  $ #  #
+ ###$ $$ #
+   #  @  #
+   #######
+Author: Thinking Rabbit + Jordi Domenech
+Title: Sokoban Perfect #233 a
+Comment: major changes in the left side
+Date: 2017.12.7
+
+    ######
+    #    #
+ ####  $$#####
+ #   #   #   #
+ # $   $   $ #
+ #   ## ############
+####$## #   #      #
+#   $ # # $ $ $ $  #
+# $ $ # # ####$## ##
+##  $ # #....#     #
+ # ##    ....#.$#  #
+ #    ##..+.... #  #
+ ###################
+Author: Thinking Rabbit + Jordi Domenech
+Title: Sokoban Perfect #235 a
+Comment: added 2 boxes, major changes in the central area
+Date: 2017.12.7
+
+           ####
+     #######  #
+     #     $$ #
+   ### ##     #
+   # $$ # $  ##
+   #  $   # ##
+   ## $ # #  #####
+    # $## ##$ $  #
+    #     $    # #
+ #######$$## $   #
+ #  $ $  $.###   #
+ # ## # $#.# #####
+##..... $ .#
+# .#.## $@.#
+# .....#*###
+#....#. $ #
+#######   #
+      #####
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Perfect #260 a1
+Comment: deleted 2 boxes, added some walls, major changes in the storage area and at the top
+Date: 2017.12.10
+
+     ####
+######  #####
+#@$    $  $ #
+#$### $ #.# #
+#  #  # $   #
+# $#  $ #.###
+#  $ #### ##
+#.  ...... #
+########   #
+       #   #
+       #####
+Author: Masaki Ishino + Jordi Domenech
+Title: Sokoban Perfect #270 a
+Comment: moved 2 goals, some changes in the bottom right
+Date: 2014.3.16
+
+     ####
+     #  #
+ ##### $#####
+ # $   $  $ #
+ # ## $ #.# #
+ # #  # $   #
+## #  $ #. ##
+#  $ #### ##
+# ..   ... #
+######## + #
+       #####
+Author: Masaki Ishino + Jordi Domenech + Premysl Zika
+Title: Sokoban Perfect #270 c
+Comment:
+JD (version a): moved 2 goals, some changes in the bottom right
+PZ (b-c): based on a, removed a box, stoned some floors, several changes
+URL: www.zusbreznice.cz/rozvrhy-zika-premysl-sokoban-remodeled.cz
+Date: 2014.3.16 JD, 2014.10.1 PZ
+
+     #####         #####
+     #   #         #   #
+     # # ########### # #
+     # $               #
+########$########### ########
+#      $  . ##### $         #
+#  #### .   . #@$   $ ####  #
+## #  .### .#####  ###   # ##
+ # #  . # .#######$ # $  # #
+ # ##.     . ###       $## #
+ # ## #  #    #  $ #  # ## #
+ # ## ## .#   #   #  ## ## #
+ # ## ###  #######  ### ## #
+ # ## ###. #     # $### ## #
+## ## ###  #     #  ### ## ##
+#  .     . #     # $     $  #
+#   #####  #     #  #####   #
+#####   ####     ####   #####
+Author: Masaki Ishino + Jordi Domenech
+Title: Sokoban Perfect #271 a
+Comment: added 3 boxes
+Date: 2017.12.11
+
+      #####           #####
+      #   #           #   #
+      # # ############# # #
+      # $ .               #
+ ########$#############*########
+ ##       ...####### $         #
+ ## #### ..*.#####@$   $ ####  #
+ ## ####### .######   ###   # ##
+  # #  .###$#########$ # $  # #
+  # # ...      ####      $$## #
+  # #  #  ## $  ##  $ #  # ## #
+  # ##$##  ## $  #   #  ## ## #
+  # ## ###. ##   ####  ### ## #
+### ## ###  ######### $### ## #
+#  .##.###. #       #  ### ## ##
+# #   .     #       # $     $  #
+#   ######  #       #  #####   #
+######   ####       ####   #####
+Author: Masaki Ishino + Jordi Domenech + 西部飞狐 (XBFH)
+Title: Sokoban Perfect #271 e
+Comment:
+JD (version a): added 3 boxes
+XBFH (e): based on a, added 6 boxes, several changes
+URL: sokoban.org/level.php?id=558
+Date: 2017.12.11 JD, 2018.1.12 XBFH
+
+   #####
+   #   #  ####
+  ## $$####  #
+### .*.. ## $##
+# $.##.#$$    #
+# $....  $ $# #
+# #.#..#$   #$##
+# #....# # #   #
+# ...*.# $   $ #
+##$#$#$   # #$##
+ # #   $# #   #
+## $ ## @ #####
+#  # ######
+# $  #
+#   ##
+#####
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Perfect #272 b
+Comment: added a box, stoned many floors, moved a goal
+Date: 2017.12.12
+
+ ####
+##  ############
+# $ $ $ $ $ $ @#
+# #     #      #
+# #$ ####*### ##
+# #  #...*.#  #
+# #$ #.....* $#
+# #  *.*.*.#  #
+# # $#######$$#
+#             #
+########### # #
+          #   #
+          #####
+Author: Yoshio Sakae + Jordi Domenech
+Title: Sokoban Perfect #274 a
+Comment: just added a wall. Also published in Life #57
+Date: 2017.12.13
+
+        #####
+    #####   ###
+   ## $   #   #####
+   # $ $  $ # $   #
+####  $  ## $ $ # #
+#  # ####### ##   #
+#  ..    $ $$ # $##
+#  ####### #  $  #
+##$#  #  ...# # ##
+ # $$   @...#   #
+ #  $ ####.## ###
+ ##    # #.... #
+  ##   # #.... #
+   ##### #######
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Perfect #278 d
+Comment: tight version. Also published in Life #58
+Date: 2017.12.13
+
+  #######
+ ##     ###############
+ #  **  #   #   ##  * #
+ # *  * # **#** #  *  #
+##* ** *# *   * # *   ###
+#@*       $ # * .* ***$.#
+##* ** *# *   * # *   ###
+ # *  * # ***** #  *  #
+ #  **  #       ##  * #
+ ##     ###############
+  #######
+Author: Thinking Rabbit + Jordi Domenech
+Title: Sokoban Perfect #288 c - variant with a square
+Comment: added 5 walls, deleted 2 boxes, rearranged boxes/goals in the central area
+Date: 2017.12.15
+
+     #######
+     # .   #
+  #### # $ #
+ ##    ##  ######
+##  *   # **    ####
+#  * *  #  *  **#  #
+# * * * # ##  *+$* #
+## *$* ##  #  ###  #
+# * * * #  ####   ##
+#  * *  #  #   *  #
+##  *  ##### #  * #
+ #    ### * * *  ##
+ ###.####  *   ###
+   #     *  ####
+   ##########
+Author: Seiji Nishikawa + Jordi Domenech
+Title: Sokoban Perfect #303 d
+Comment: added a box and 6 walls on the left side, deleted the top right
+Date: 2017.12.19
+
+          ##########
+          #        #
+   ########$###### #
+####  #  # $ ....# #
+#  #  $ $# . ....# #
+# $$$ #  #   #.#.# #
+#  #   # ####....# #
+##   #    $ #..... #
+#  $## $#   ##  #.##
+#  $    #$#$## ## #
+##### $$#  $      #
+  # $ #  # $#  ##$##
+  #   ## # $ ## $  #
+  ##   @   # #     #
+   #######   #   ###
+         #########
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Revenge #65 b
+Comment: major changes
+Date: 2017.12.20
+
+  #######
+  #     #####
+  # $  *....#
+ ### # .*...#
+ #   ## #.#.#
+## #### $.#.#
+#   #  # $#.#
+# $ #  #  $ #
+##$  $$$ #$##
+ #  #$   @ #
+ ####  $ $ #
+    #  #####
+    ####
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Revenge #66 b
+Comment: added a box, major changes
+Date: 2017.12.22
+
+       ####
+       #  # #####
+ ####  #  ###   #
+ #  #### $    $ #
+ # $      #### ##
+ #  #######  # #
+ ## #....    # #
+  # #.# #$#  # ##
+### #.. . # ##  #
+#   #@$  ##  #$ #
+# $  ## .    #  #
+## $  # ###### ##
+ ## $ .  #   #  #
+  #####  $      #
+      ########  #
+             ####
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Revenge #68 a
+Comment: simplification, major changes
+Date: 2017.11.7
+
+      ####
+      #  ###########
+      #            #
+      #.###### #$# #
+      # #   ## # @ #
+####### #    # #####
+#    .# ###  #    ##
+#   ..# # #$$ $$$$ #
+#  ...# # #  #     ##
+# ....# ### ## $$$$ #
+#         ...##     #
+#  ############ $$$ #
+####          ##    #
+               ######
+Author: Eiji Takeuchi + Jordi Domenech
+Title: Sokoban Revenge #73 a
+Comment: added a box and a wall, redraw map
+Date: 2014.3.6
+
+        ########
+##### ###  #   ###
+#   ### $$   $   #
+# $      $ ##$## #
+## #####   ##    #
+ # #  #####....# ##
+ # ####   #....#  #
+ #      $ #..###  #
+ #  ## #$##..  $$ #
+ #### $ $    ###  #
+    #   @  ### ####
+    ########
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Revenge #92 b
+Comment: major changes
+Date: 2017.11.8
+
+##### ####
+#   ###  ##
+# $   $$  #
+##$#. #   #
+ # #. ... #
+ #...  ####
+ # #.  #  ###
+ # #.  # $$ #
+## #.##     #
+#  # # $ $ ##
+# $*  $ # ##
+#  ## $ @ #
+#####   ###
+    #####
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Revenge #96 b
+Comment: added a box, major changes
+Date: 2017.11.9
+
+     ####
+  ####  #  ####
+ ##    $####  #
+## $$$  ......#
+# $ $  ######.##
+#   $$# @ .#.  #
+# $ $ $ #  . $ #
+### $   # .#.###
+  #  ### .## #
+  #### # ##  #
+       #    ##
+       ######
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Revenge #97 a
+Comment: added a box
+Date: 2017.11.9
+
+          ########
+         ##      ##
+        ##  ####  ##
+       ##  #    #  ##
+       #  #  ##  #  #
+       # #  #  #  # #
+       # # #    # # #
+       # #  #..#  # #
+       #  #   *$ #  #
+########   #  . #   ########
+#           #$## $$ $ $    #
+##   ....   # .# $  $ $   ##
+ ##  . @    #$.# $$$$ $  ##
+  ###. ###### .#      $ ##
+   # . #    ##.# $$$$$$##
+   # . #.......# $     #
+   # ....   #    $$$## #
+   #   #    #  #       #
+   #####################
+Author: Shinji Kai + Jordi Domenech
+Title: Sokoban Revenge #114 b variant
+Comment: added 2 boxes, rearranged goals, some changes
+Date: 2017.12.27
+
+ #############
+ #   #  #  @ ##
+ # $  .*#$##  #
+ # ###..   #$ #
+##.###.*##$ $ #
+# *   ..$   # #
+#   ##..# #$# #
+#######$#     #
+     #  # #####
+     #  $ #
+     #  ###
+     ####
+Author: Hidemitsu Kobayashi + Jordi Domenech
+Title: Sokoban Revenge #131 a
+Comment: added some walls, moved 2 goals, minor changes
+Date: 2017.11.10
+
+ ####################
+ #          #   #   #
+ # ######## # $   $ #
+ #  $ $ $   ##$# #$##
+ #         #  ...# #
+ # #.#####$# $ # # #
+ # # #+*.....$ # # #
+ # # ########### # #
+## #             * #
+#  #*############# #
+#                  #
+#################  #
+                ####
+Author: Yoshio Sakae + Jordi Domenech
+Title: Sokoban Revenge #143 a
+Comment: extension, added 6 boxes
+Date: 2017.11.11
+
+############################
+###########  #######   #   #
+## $                 #   $ #
+## ##### ## ############# ##
+## #     ## #..#  #  # .   #
+## #  ## #   $ #*.$  # #   #
+## ## #  #  #  #..#  # #####
+#     # ### #* #*.#  # ## ##
+#  ##$#     #  #..#  # # # #
+## #  #######* #*.#  # ## ##
+## #     #  #   ..#  # #####
+## # #   $  #  #..#  #     #
+## #$## ##  ####### ###### #
+#  # $ @# $$ #  #          #
+# $$ $###  $    # #  # # # #
+#  #       ##   #          #
+############################
+Author: Yoshio Sakae + Jordi Domenech
+Title: Sokoban Revenge #147 a
+Comment: added 5 easy boxes, minor changes - sokovampirism ^^. Also published in Life #59
+Date: 2017.11.11
+
+           ####
+         ###  ####
+#####    #    #  ##
+#   ######  $$# $ #
+#   .    #  #   $ #
+## #####$$$$$ $$# #
+ #    #   $ @  $  #
+ # # $# # #####   #
+## # .  # #   #####
+#  ##.#.# ####
+#   ..#.   $ #
+#  #.... #   #
+####....######
+   ######
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Revenge #169 a
+Comment: added a box, major changes
+Date: 2017.11.13
+
+ ####      ####
+ #  ########  ##
+ #   $ $ $ $   #
+ #  #..... ##  #
+ ##.#####.## $ ##
+### $  #.  # $  #
+#      #.  #    #
+# $  ####$$ #####
+###*##.   # #
+ # $ .  # @ #
+ #   #  #####
+ ########
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Revenge #170 a
+Comment: added 2 boxes, 2 walls, some changes on the left side
+Date: 2017.11.15
+
+    ####
+    #  # #####
+ ####  ###   #
+ #  #  #    $##
+## $##$#   $  ###
+#    $ @ #  $   #
+# $ ## ### $ $  #
+## ##....##### ##
+#  #.....#   #  #
+# $$.....# $  $ #
+#  #  ##### ##  #
+## ####   #  ####
+## #  # $    #
+#  ##### #####
+#         #
+#  ####   #
+####  #####
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Revenge #175 a
+Comment: added 4 walls
+Date: 2017.11.14
+
+          #####
+          #   #
+     ######$# #
+     #  ..    #
+  ####  #####.#
+  #  # $..  #.#
+  # $#  ## $#.####
+  #  #####$..    #
+  ##    ...##    #
+#### $$@$# #   $ #
+#      #   #     #
+# # $#$###########
+# $    #
+#####  #
+    ####
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Revenge #177 a
+Comment: added 6 walls
+Date: 2017.11.14
+
+ #####
+ #   #########
+ #     $ #   #
+ ##.#    $   #
+ #  ####### ##
+ # $*.....#  #
+ #  #...*.  $#
+ # ### #####.#
+##   # #   # ##
+#@$$$    #    #
+#   # $$ $  $ #
+##  ###  ######
+ #### ####
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Revenge #179 b
+Comment: added 5 walls, moved 3 goals
+Date: 2017.12.31
+
+   ##########
+   #   ##   ####
+   # #    $$$  #
+   # $$$$$$  $ #
+   #       ##  #
+   ## ####$## ##
+ ###...#      #
+ #  ...# ######
+ # #...   #
+##.# ##   #
+#  #   ####
+#  . @ #
+#  #####
+####
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Revenge #181 b
+Comment: simplification, major changes
+Date: 2017.11.14
+
+           ######
+           #    #
+  ########## #$ # #####
+  #   .   #   $ ###   #
+ ## ##.## # $# $    $ #
+ #  ..... #  #  #### ##
+##  ##.#### ####   #  #
+#   .#.#.   #  # $  $ #
+#   .#.#.#  $   # ##  #
+#  #*#*#*# ##  $#  ####
+###  $ $ $ $ #  $  #
+  #  # @     #  #  #
+  #  ###############
+  ####
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Revenge #182 a
+Comment: added a box, small changes
+Date: 2018.1.1
+
+     #####
+   ###   #
+   #  $  #
+   # $  ####
+##### # $  #
+#   #   #$ #
+# $ # ###  #
+##$ $   #$.#
+ #  #$# #  #
+ #$ #   ##.#
+ #  ###.@  #
+ #$ ###.#  #
+ #  ....# ##
+ #####...  #
+     ###   #
+       #####
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Revenge #183 c
+Comment: simplification, major changes
+Date: 2017.11.15
+
+   #####      #####
+   #   ####  ##   #
+   #  $ $ ####  $ #
+ ### ## #     $#$ #
+## $$   #$ #   $  #
+#  #  $    ## ## ##
+# ######## $ $$  #
+# #......# $#   ##
+# #......   # ###
+#  ..##..# $  #
+###  $.  # @###
+  # #$#  ####
+  #   ####
+  #####
+Author: Yasuhiro Morita + Seiichi Katsurada + Jordi Domenech
+Title: Sokoban Revenge #190 a - tightened
+Comment: simplification, major changes
+Date: 2018.1.2
+
+      ####
+  #####  #####
+  #          ##
+###$###.####  #
+#   .......  $##
+#  ####..### $ #
+##$##  #.  #   #
+# $   $#.# ##  #
+#   #  #$$$ ####
+##### $#    #
+  #    # #  #
+  # $$ @ ####
+  ###  ###
+    ####
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Revenge #215 a
+Comment: simplification, major changes
+Date: 2017.11.16
+
+##########     #####
+#   #    #######   #
+#    .##.    #   $ ##
+## ##....##  # #$ $ #
+ # ##.... # #  $ $ $#
+ # ##..#. # #   $ $ ##
+ # # ..#.##   $    $ #
+## # ....##  ###$#$# #
+#  ##########        #
+# $$       @   $###  #
+#  ######### $ $     #
+####       ### $ $$ ##
+             ##   ###
+              #####
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Revenge #217 b
+Comment: stoned some floors, major changes in the top left
+Date: 2017.10.31
+
+  ######   #########
+ ##    ### #   #   #
+ # $$    ### . $   #
+ #   $ #   ## ###.##
+ # #  $##$$  $ ## #
+ # # $  $  #   ## #
+##$###  #  ###### ##
+# *.*   #  #   ##  #
+# # #  #####  $    #
+# $ ####...###$#$###
+#      ...**.# $ #
+#     ##.....$   #
+###########..##@ #
+          ########
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Revenge #220 b
+Comment: added a box, stoned some floors, moved 4 goals, major changes on the right side
+Date: 2017.11.17
+
+       ####
+       #  #
+######## $#
+#    ...  #
+# @$ *.*$ #
+#  # *..# #
+#### $  # ###
+  #  ####   #
+  # *$    $ #
+  #  ########
+  ####
+Author: Hidemitsu Kobayashi + Jordi Domenech
+Title: Sokoban Revenge #235 a
+Comment: deleted 3 boxes, major changes
+Date: 2017.10.31
+
+       ######
+       #    #
+  #### # $$ ##
+  #  ####$   #
+  #$ # $  @$ #
+  #    ## $$ #
+ ## $#$#   ###
+ #     #  $ #
+## ###$#*## ###
+#  #......# $ #
+#  ..**...#   #
+#  #..#####   #
+####.*  $     #
+   #  #####   #
+   ####   #####
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Revenge #250 a
+Comment: added a box, stoned 8 floors
+Date: 2017.11.2
+
+       ######
+       #    #
+  #### # $$ ##
+  #  ####$   #
+  #$ # $  @$ #
+  #    ### $ #
+ ## $#$#   ###
+ #     #  $ #
+## ###$#*## ###
+#  #......# $ #
+#  ..**...#   #
+#  #..#####$  #
+####.*  $     #
+   #  #####   #
+   ####   #####
+Author: Yasuhiro Morita + Jordi Domenech + 西部飞狐 (XBFH)
+Title: Sokoban Revenge #250 b
+Comment:
+JD (version a): added a box, stoned 8 floors
+XBFH (b): based on a, added a wall, moved a box
+URL: sokoban.org/level.php?id=531
+Date: 2017.11.2 JD, 2017.12.2 XBFH
+
+  ##########
+  #   ##   #
+  # $    $ #
+###  $ ##$###
+#   #$ # .*.######
+# #  $ # ....##  #
+# ##  ####*#..   #
+#   #### .....#  #
+## $$ ## .*.*.# ##
+ #   $ ## ####  #
+ ###       #  $##
+   #$  $ $ $  $ #
+   # # $ ###    #
+   # @ ### ######
+   #####
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Revenge #251 b
+Comment: stoned 7 floors
+Date: 2017.11.18
+
+####    ####
+#  ######  #
+#          #
+#  # $ $# $####
+## #### #  #  #
+ #.##.. # $   #
+ #...  ##   $ #
+ #.##$ @ ###$ ###
+##.##  #  ##  $ #
+# $...    # $#$ #
+#   #     #     #
+###########  ####
+          ####
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Revenge #255 a
+Comment: some changes at the bottom and right
+Date: 2017.11.19
+
+ #####
+ #   #
+ #$ $##  #####
+##    # ##   ##
+# $$ $###  $  #
+# #   ##  # # #
+# $$$ ##    #$##
+#   #.....#    #
+## ##.....#$#$$#
+ #   .#..##  $ #
+ ###$.#...  $# ##
+   #    # #   $ #
+   ####@  ##    #
+      ###########
+Author: Yasuhiro Morita + Jordi Domenech
+Title: Sokoban Revenge #256 a
+Comment: stoned 8 floors
+Date: 2017.11.19
+
+         ####    #####
+         #  ######   #
+#####   ##        $  #
+#   #####  ######## ##
+# #$    $   # #   # #
+# # ####$## ### $   ######
+# # #..... $  ##.## $  $ #
+#    .*.*.## $## ## $$   #
+# # ####..##   #  #@ $ $ #
+# # $  #***..#  $ ## $$$ #
+#    # #.....# #  # $    #
+####   ####$##.####    ###
+   ##### # .##  # ######
+         # .$   #
+         #  ##  #
+         ########
+Author: Hidemitsu Kobayashi + unknown + Jordi Domenech
+Title: Sokoban Revenge #264 f
+Comment:
+unknown: added some walls on the left side and especially in C5
+JD: based on the previous version, added 4 boxes, arranged the right side
+Date: c. 2006 unknown, 2017.3.2 JD
+
+         ####    #####
+         #  ######   #
+#####   ##        $  #
+#   #####  ######## ##
+# #$ .. $   # #   # #
+# # ####$## ### $   ######
+# # #..... $  ##.## $  $ #
+#   $..**.## $## ## $$   #
+# # ####..##   #  #@ $ $ #
+# # $  #***..#  $ ## $$$ #
+#    # #....## #  # $    #
+####   ####$##.####    ###
+   ##### # .##  # ######
+         # .$   #
+         #  ##  #
+         ########
+Author: Hidemitsu Kobayashi + unknown + Jordi Domenech + Premysl Zika
+Title: Sokoban Revenge #264 g
+Comment:
+unknown: added some walls on the left side and especially in C5
+JD (f): based on the previous version, added 4 boxes, arranged the right side
+PZ (g): based on f, added a box and a wall, moved a goal
+Date: c. 2006 unknown, 2017.3.2 JD, 2017.5.5 PZ
+
+   #########  #####
+  ##   #   #### @ ##
+  #  # $ #      $  #
+ ##$ $ $ #######$# #
+ #  $  $##     # # #
+## $ $# #  # $ # # ##
+# $ $   # ####$# #  #
+#     $## # #....##$##
+####$  $  ###.**.    #
+   #   ##  .*..####  #
+   #####  $.#.*# .#  #
+       # $# #.....#  #
+       #   .####..#  #
+       ###$##  #..####
+        # $    ## ##
+        #   #      #
+        ########   #
+               #####
+Author: Hidemitsu Kobayashi + Jordi Domenech
+Title: Sokoban Revenge #266 j
+Comment: simplification, major changes in the bottom half
+Date: 2017.11.21
+
+      ##################
+#######    ##    #  #  #
+#     # ## $ $#  $  #  #
+#      $   #     #  $  #
+# #####$######## #  # ##
+# #..... #..*. # ####$##
+# #***.. #.  . #   #   #
+# #..##### ##*#### # $ #
+# #*.$      #      #$# #
+# #..    ## #$##  #    #
+# #..     $ #  ## #    #
+# ############ $  ### ##
+#    @     #   #$   # #
+########## #     #  # #
+         # ##$##$#$##$##
+         #   $         #
+         ########  #   #
+                ########
+Author: Yoshio Sakae + Jordi Domenech
+Title: Sokoban Revenge #284 a
+Comment: just added a box
+Date: 2017.11.4
+
+ #######################
+ #     #         #     ##
+## **** **** **** ****  #
+#  *    *    .  $ *  .  #
+#  **** **** * ** ****  #
+#  $  . .  $@*  * *  *  #
+#  **** **** **** *$ * ##
+##     #         #     #
+ #######################
+Author: Thinking Rabbit + Jordi Domenech + Premysl Zika
+Title: SEGA - b
+Comment:
+JD (version a): based in the level "Round demo" of Sokoban (Sega, 1985), reduced map, added 4 walls, moved 2 boxes
+PZ (b): based on a, stoned 2 floors
+URL: www.zusbreznice.cz/rozvrhy-zika-premysl-sokoban-remodeled.cz
+Date: 2012.9.16 JD, 2014.9.28 PZ
+
+   #########
+####   #   #
+# $  #   $@#
+# ##    # ##
+# ##.#### #
+# # ....# #
+# # $ $ $ #
+# ######  #
+#        ##
+##########
+Author: Hiroshi Inoue + Jordi Domenech
+Title: Sokoban Game Gear (1990) #291 variation 1
+Comment: Also published in Magic Sokoban 4 #73
+Date: 2012.9.14
+
+#########
+#       #
+#   #   #
+# **.** #
+##   $ ##
+# ***** #
+#   @   #
+#########
+Author: Yoshio Sakae + Jordi Domenech
+Title: Magic Sokoban 6 #42
+Comment: based on Ultimate Sokoban (1996) Stage 3, Chapter 1, Level 4
+Date: 2013.12.31
+
+ #######
+ #     #
+ #$.*.$##
+ # * *  #
+ #$. .$@#
+## * * ##
+# $.*.$#
+#      #
+########
+Author: Yoshio Sakae + Jordi Domenech
+Title: Magic Sokoban 6 #81
+Comment: based on Ultimate Sokoban (1996) Stage 3, Chapter 2, Level 2
+Date: 2013.12.31
+
+##########
+#  #   . #
+#   $ $. #
+#  # ##.##
+## #  #.#
+ #    #.#
+ # $  #.#
+##### #.#
+#   #$#.#
+# $ @$  #
+##$$ #  #
+ #   ####
+ #####
+Author: Yasuhiro Morita + Hir + Jordi Domenech
+Title: Sokoban Basic II (1998) 2-01 b
+Comment: based on Arranged levels by Hir #10, major changes
+Date: 2014.3.13
+
+###########
+#.   .   .#
+# $**$**$ #
+# *     * #
+# * ### * #
+#. $###$ .#
+# * ### * #
+# *     * #
+# $**$**$ #
+#.   +   .#
+###########
+Author: Shinji Kai + Jordi Domenech
+Title: Sokoban Basic II (1998) 2-18 a
+Comment: moved 2 boxes
+Date: 2014.3.27

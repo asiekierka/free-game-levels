@@ -1,0 +1,1163 @@
+Authors: Jordi Domènech and Kevin Cassol
+Collection: Magic Sokoban
+Email: jd.sokoban2020@gmail.com
+Blog: sokoban-jd.blogspot.com
+Copyright: (c) by Jordi Domènech, Kevin Cassol and the authors of each level
+Date: June 2011
+
+Author's note:
+Small handmade puzzles, simple and beautiful. Is the collection that had always wanted to do. Some of these levels are based on the levels of other authors: all them I am grateful. - J.D.
+
+In this set, the best levels are: 19, 25, 32, 41, 45, 57, 58, 67, 72, 78, 79, 89, 92, 93, 97, 98, 100.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+These levels are copyright (c) by Jordi Domènech, Kevin Cassol and the authors of each level, and may be freely distributed for non-commercial use provided they remain unchanged, credited with the author's name, and provided the author is notified.
+
+License: Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported
+http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+This collection has been downloaded from my blog:
+Sokoban. The beautiful world of remodels
+http://sokoban-jd.blogspot.com/
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+     #####
+###### . #
+#   ##$. #
+#@$$$  . #
+##  #  . #
+ #  ######
+ ####
+Author: Jordi Domenech
+Title: Level 1
+
+######
+#    #
+#$$$ #
+#....#
+# $$.#
+#  @ #
+######
+Author: Jordi Domenech
+Title: Level 2
+
+######
+# @  #
+# ##$###
+#  . . #
+### $  #
+  ###  #
+    ####
+Author: Jordi Domenech
+Title: Level 3
+
+#####
+# @ #
+# # ####
+# ...  #
+## $$$ #
+ ###   #
+   #####
+Author: Jordi Domenech
+Title: Level 4
+
+######
+#.   #
+#.   #
+## . #
+#  ###
+# $$ #
+#  $ #
+#  @ #
+######
+Author: Jordi Domenech
+Title: Level 5
+
+#########
+#   #   #
+# *. .. #
+##$# #$##
+# $     #
+#   # @ #
+#########
+Author: Jordi Domenech
+Title: Level 6
+
+     ####
+     #  #
+     #  #
+######  #
+#    ## #
+# $$$# .#
+# $@$  .#
+#   # $.#
+#####...#
+    #####
+Author: Jordi Domenech
+Title: Level 7
+
+ ######
+ #    #
+ # #$$##
+ #     #
+##$### #
+#  # . #
+#    . #
+###  + #
+  ######
+Author: Jordi Domenech
+Title: Level 8
+
+ ######
+ #    #
+ # ## #
+## .$.#
+#  $@$##
+# #.$. #
+# # ## #
+#      #
+########
+Author: Jordi Domenech
+Title: Level 9
+
+  ####
+ ##  #
+##   ##
+# .$. #
+# #$# #
+#  @  #
+#######
+Author: Jordi Domenech
+Title: Level 10 Pufi 1
+
+ ####
+ #  ##
+## $ #
+# .*.##
+# #$  #
+#  @  #
+#######
+Author: Jordi Domenech
+Title: Level 11 Pufi 1+
+
+#########
+#   ... #
+#   ### #
+### $   #
+#  $# # #
+# $ # @ #
+#   #####
+#####
+Author: Jordi Domenech
+Title: Level 12 Remembering Sokoban Perfect #1
+
+#########
+#.....  #
+#   . $ #
+#### ####
+# $     #
+# $$$ $ #
+# @ #   #
+#########
+Author: Hirohiko Nakamiya + Jordi Domenech
+Title: Level 13 Monster Sokoban 3-6 variant
+
+  #####
+  #  .##
+###.$. #
+#  $$# #
+#   @  #
+########
+Author: Jordi Domenech
+Title: Level 14
+
+  #####
+###  .#
+#   # #
+#@$$$.#
+#   # #
+#  ## #
+#    .#
+#######
+Author: Jordi Domenech
+Title: Level 15
+
+########
+#      #
+# $$   #
+##@##  #
+ #$ #$##
+ #.... #
+ #     #
+ #######
+Author: Jordi Domenech
+Title: Level 16 Easy line
+
+  #######
+ ##     #
+ #    $ #
+ #  # $##
+###$##  #
+#   ..*.#
+#   # @ #
+#########
+Author: Jordi Domenech
+Title: Level 17 Another line
+
+ ####
+ #  ######
+## $#  . #
+# $@$ .*.#
+#  $ # . #
+#   ######
+#####
+Author: Jordi Domenech
+Title: Level 18
+
+#######
+#     #
+# * * #
+##. $##
+# * * #
+#     #
+# @#  #
+#######
+Author: Jordi Domenech
+Title: Level 19 Fix one
+
+   #####
+   #   #
+####$  #
+#   $ ##
+# # #  #
+# @ . .#
+########
+Author: Shaggath + Jordi Domenech
+Title: Level 20 Big German boot
+Comment: based on V2010 #2
+
+  #######
+  #  .  #
+ ###$#  #
+ #  . . #
+###$#$ ##
+#  . . .#
+# $#$#$ #
+#  @ #  #
+#########
+Author: Jordi Domenech
+Title: Level 21 Strange tree
+
+  #####
+###   ####
+#  ..$$  #
+#  $$..  #
+#### @ ###
+   #####
+Author: Kevin Cassol
+Title: Level 22
+
+########
+# ...  #
+#  ##$ #
+#  $   #
+##$##$##
+#   $  #
+# $##  #
+#  ...@#
+########
+Author: Jordi Domenech
+Title: Level 23
+
+######
+#.  .#
+# $$ #
+#.$@##
+# $$ #
+#.  .#
+######
+Author: Jordi Domenech
+Title: Level 24
+
+   #####
+ ###   #
+ #   $ #
+##$..$##
+# $.. #
+# @ ###
+#####
+Author: Jordi Domenech
+Title: Level 25 Tiny square
+
+ ######
+ #    #
+ # ##$####
+ # # $   #
+ # # @ $ #
+## #$## ##
+# ..    #
+# ..#   #
+#########
+Author: Jordi Domenech
+Title: Level 26 I like tiny squares
+
+ ######
+ #    #
+ # ## ####
+ # # $$  #
+ # #     #
+## # ##$##
+# ....$ #
+#   # @ #
+#########
+Author: Jordi Domenech
+Title: Level 27 Now a line
+
+ #####
+ #   #####
+ # # ..  #
+ # # ..  #
+##$#$## ##
+# $ $   #
+# @ #   #
+#########
+Author: Jordi Domenech
+Title: Level 28 A tiny square again
+
+#########
+#       #
+# $ $ $ #
+##$## ###
+ # #. . #
+ #  . . #
+ # @ #  #
+ ########
+Author: Jordi Domenech
+Title: Level 29
+
+ #####
+ #   #
+## # ##
+# $ $ #
+#.. ..#
+# $#$ #
+## @ ##
+ #####
+Author: Jordi Domenech
+Title: Level 30
+
+ #####
+ #   #
+## # ##
+# $ $ #
+#.....#
+# $$$ #
+## @ ##
+ #####
+Author: Jordi Domenech
+Title: Level 31
+
+#####
+#   #
+# $ #
+#@$$##
+##$..#
+ # ..#
+ #   #
+ #####
+Author: Frantisek Pokorny + Jordi Domenech
+Title: Level 32 Tiny square 4
+Comment: based on LOMA #10-07
+
+ ########
+ #  #  .##
+## $$*.. #
+#   $    #
+# @ ######
+#####
+Author: Jordi Domenech
+Title: Level 33
+
+  ####
+###  ####
+#     $ #
+# # $#$ #
+# ...#@ #
+#########
+Author: David W. Skinner + Jordi Domenech
+Title: Level 34 Microban #3 variant
+
+ #########
+ #  ##   #
+##   $$$ #
+#. .#$@$ #
+#...#    #
+#   ######
+#   #
+#####
+Author: Jordi Domenech
+Title: Level 35
+
+###############
+#     ... #   #
+# $$$$.#.$$$$ #
+# @ # ...     #
+###############
+Author: Jordi Domenech
+Title: Level 36
+
+ ####
+##  ###
+#     #
+#.....#
+# $ ###
+###   #
+#  $  #
+# $$$##
+## @ #
+ #####
+Author: Jordi Domenech
+Title: Level 37
+
+   ####
+   # .#
+ ###$.##
+##  $..#
+#   $$@#
+#   #  #
+########
+Author: Jordi Domenech
+Title: Level 38 L to L
+
+########
+#  #   ##
+# $   $ #
+# $####.#
+#  #   .#
+# $$   .#
+#  @##..#
+#########
+Author: Jordi Domenech
+Title: Level 39
+
+  ####
+  #  #
+### $##
+#   $ #
+# #$# ##
+#     .#
+####@..#
+   #####
+Author: Jordi Domenech
+Title: Level 40 Original #1 Lilliput extreme - To Erim Sever
+
+########
+#   #  #
+#.$@ $.#
+#.$##$ #
+#.   $.#
+#.$##$.#
+#      #
+########
+Author: Kevin Cassol
+Title: Level 41
+
+######
+#    ###
+#      #
+# $ $  #
+# $##$##
+##.... #
+ #  @  #
+ #######
+Author: Jordi Domenech
+Title: Level 42 Impossible line
+
+#######
+# *  .#
+# $ # #
+# *   #
+# .*$*#
+#@    #
+#######
+Author: Jordi Domenech
+Title: Level 43
+
+#######
+# @ #.#
+## $. #
+# $*$ #
+# .$ ##
+#.    #
+#######
+Author: Jordi Domenech
+Title: Level 44
+
+  #####
+  #   #
+### #$##
+#  $ $ #
+#... @ #
+########
+Author: Jordi Domenech
+Title: Level 45 Zapatito
+
+  ####
+###  #####
+#  $ #   #
+# @  $   #
+### .## ##
+  # .## #
+  ##.#  #
+  # .#$ #
+  # $$  #
+  # .####
+  ####
+Author: Jordi Domenech
+Title: Level 46 Pipeline
+
+      ####
+   ####  #
+ ### $   #
+##   # # #
+# $#.@. $#
+#   .*.  ##
+##$#.#.#$ #
+ #   $    #
+ #  #######
+ ####
+Author: Kevin Cassol
+Title: Level 47
+
+########
+#  # . #
+# $$ . #
+#   #.##
+## # . #
+#   $$ #
+# @ #  #
+########
+Author: Jordi Domenech
+Title: Level 48
+
+ #########
+ #       #
+ # ##### #
+ # $   # #
+ #   .*  #
+ #  #..###
+## ###$ #
+#     $@#
+#   #  ##
+########
+Author: Jordi Domenech
+Title: Level 49 Another tiny square
+
+#########
+# $ .   #
+# .$.$.$#
+# $.$.$ #
+#..$@$..#
+# $.$.$ #
+#$.$.$. #
+#   . $ #
+#########
+Author: Jordi Domenech
+Title: Level 50
+
+    ####
+  ###  #
+  # @  ##
+### # . #
+# $***$ #
+# . # ###
+##    #
+ #  ###
+ ####
+Author: Kevin Cassol
+Title: Level 51
+
+#########
+#      .##
+# #####. #
+# $ $ $. #
+# # # #* #
+# $ $ $. #
+#   ..# @#
+##########
+Author: Roger Delaporte + Jordi Domenech
+Title: Level 52 
+Comment: Delaporte #73 variant
+
+ ####
+##  ###
+#. $ .#
+# $$$ #
+# #@# #
+#.   .#
+#######
+Author: Jordi Domenech
+Title: Level 53
+
+   ########
+  ##      #
+  #  #### #
+  # ##. # #
+###$#.*.# #
+# $@$ . # #
+# #$ #    #
+#    #  ###
+#########
+Author: Jordi Domenech
+Title: Level 54 Flower
+
+#####
+# . #
+# * #
+# * #####
+# * $ $ #
+# *     #
+# #****.#
+#   @   #
+#########
+Author: Jordi Domenech
+Title: Level 55
+
+#####
+# . #
+# * #
+# * #####
+# * #   #
+# *   $ #
+# $****.#
+#   @   #
+#########
+Author: Jordi Domenech
+Title: Level 56
+
+#########################
+#  *   *  *.*    *    * #
+# . $ * *  $  # *$*  *  #
+#@ *   *   *  *  .  *   #
+#########################
+Author: Jordi Domenech
+Title: Level 57 Walking
+
+  #######
+  #     #
+  # ### ##
+  # # $  #
+  #  ..  #
+  # #..###
+### ## #
+# $$$  #
+# @ #  #
+########
+Author: Jordi Domenech
+Title: Level 58 Tiny square 6
+
+     ####
+     #  ###
+###### $$ #
+# $...  # #
+# #$.##   #
+# # .@# $##
+# ## ##  #
+#        #
+###  #####
+  ####
+Author: Jordi Domenech
+Title: Level 59 T
+
+    ####
+#####  ###
+#  ##    #
+#    $$$ #
+#  # $ $ #
+##$### ###
+#...   #
+#... @ #
+########
+Author: Hirohiko Nakamiya + Jordi Domenech
+Title: Level 60
+Comment: based on Monster Sokoban 4-7
+
+#######
+#  $. ##
+# #$.  #
+#  $.# #
+# #$.  #
+#  @####
+#####
+Author: Jordi Domenech
+Title: Level 61
+
+######
+#  $.#
+# #$.###
+#  $.  #
+# #$.  #
+#  @####
+#####
+Author: Jordi Domenech
+Title: Level 62
+
+#######
+#     #
+#  ** #
+# *  *#
+##.$$.##
+ #*  * #
+ # **  #
+ #  @  #
+ #######
+Author: Jordi Domenech
+Title: Level 63 O
+
+ ######
+ #  @ #
+ #$$$ #
+ #  $ #
+## ####
+#  . .#
+#  $. #
+## . .#
+ ######
+Author: Jordi Domenech
+Title: Level 64
+
+ #####
+##   #
+# $# ###
+#@.$.  #
+# $.$. #
+## $.#.#
+ ## $  #
+  #  ###
+  ####
+Author: Kevin Cassol
+Title: Level 65
+
+    #####
+ ####   #
+ #  # # #
+ # ..   #
+ # .##$ #
+## ..# ###
+#  # $   #
+# $##$$  #
+# $   # ##
+#####.@ #
+    #####
+Author: Kevin Cassol
+Title: Level 66
+
+  ######
+###    #
+#  @ # #
+#. * # #
+# #*## #
+#  * $ #
+## * # #
+ # *   #
+ #######
+Author: Kevin Cassol
+Title: Level 67
+
+####
+#  ######
+# $..$  #
+#@$..$  #
+# $..$  #
+#####  ##
+    ####
+Author: Jordi Domenech
+Title: Level 68 The wall
+
+    #####
+ ####.  #
+##  ..  #
+# $$## ##
+#  $ #$##
+# @#  $ #
+##  ..  #
+ ########
+Author: Jordi Domenech
+Title: Level 69 Shapes
+
+  ####
+  #  ####
+###     #
+# .**#@ #
+#   *   #
+# ##**$ #
+#     ###
+####  #
+   ####
+Author: Kevin Cassol
+Title: Level 70
+
+ ######
+ #    ###
+##$   . #
+# *****@#
+# . # $##
+##     #
+ #  ####
+ ####
+Author: Kevin Cassol
+Title: Level 71
+
+   ####
+   #  ##
+####   #
+#  $ $ #
+# .$#$ #
+## ... #
+ # @#  #
+ #######
+Author: Jordi Domenech
+Title: Level 72 Perplexity
+
+#######
+#     #
+# **$ #
+# * * #
+# * *##
+# * * #
+# + * #
+#     #
+#######
+Author: Jordi Domenech
+Title: Level 73 Magic box
+
+#############
+#     .     #
+# $#$#$#$#$ #
+#  . # . *  #
+##.#.#*#.#.##
+#  * . # .  #
+# $#$#$#$#$ #
+#     +     #
+#############
+Author: Jordi Domenech
+Title: Level 74 Arabesque
+
+#######
+#     #
+# $$$ ##
+# $@$  #
+###$## #
+#.. .. #
+# . .  #
+#  #   #
+########
+Author: Jordi Domenech
+Title: Level 75 What's up
+
+#########
+#   #   #
+# *   * #
+# ** ** #
+##. . .##
+# * # * #
+# *$$$* #
+#   @   #
+#########
+Author: Jordi Domenech
+Title: Level 76 M
+
+#########
+#       #
+# * $#.##
+# **  * #
+# * * * #
+# *  ** #
+##.#$ * #
+#   @   #
+#########
+Author: Jordi Domenech
+Title: Level 77 N
+
+####
+#  #####
+# *  . #
+# ** * #
+# * ** #
+# *$ * #
+#   @  #
+########
+Author: Jordi Domenech
+Title: Level 78 N minor
+
+  #####
+###  .#
+#   #.#
+#  $#.#
+#   #.#
+# $$$ #
+## @  #
+ ######
+Author: Marcus Hof + Jordi Domenech
+Title: Level 79 Line up
+Comment: based on Revenge Collection 8 #21 
+
+##########
+# $...   #
+#@$#.$$$ #
+#  #.$ $ #
+####.#.  #
+   #    ##
+   ######
+Author: Jordi Domenech
+Title: Level 80 T.
+
+  ####
+  #  ####
+ ## $   #
+ #  $ $ #
+## #$## #
+#  . .. #
+# $ @..##
+########
+Author: Jordi Domenech
+Title: Level 81
+
+  ####
+  #  ###
+ ##    #
+ #  $# #
+ # #.. #
+ #  ..###
+### #   #
+# $ $$# #
+# @ #   #
+#########
+Author: Jordi Domenech
+Title: Level 82
+
+   ########
+   #      #
+   # @ *# #
+ ### #*   #
+ #   * ####
+ #  *  #
+## *#.$#
+# * #. #
+#     $#
+#####  #
+    ####
+Author: Kevin Cassol
+Title: Level 83
+
+ ####
+ #  ###
+ #    #
+ #.$**###
+ # #    #
+## ##   #
+# *  **##
+#  @   #
+###  ###
+  ####
+Author: Kevin Cassol
+Title: Level 84
+
+ ######
+ #    ###
+ # ##$  #
+##.##   #
+# *  **##
+# @    #
+###  ###
+  ####
+Author: Kevin Cassol + Jordi Domenech
+Title: Level 85
+
+###########
+#   #  #  #
+# $  * .$ #
+##.##  #  #
+#  #  ##.##
+# $. *  $ #
+#  # @#   #
+###########
+Author: Jordi Domenech
+Title: Level 86 Six rooms
+
+   #####
+ ###   ###
+## *$* . #
+#  *@#   #
+#  *$* . #
+##    # ##
+ ####   #
+    #####
+Author: Kevin Cassol
+Title: Level 87
+
+##### #####
+#   ###   #
+# #  .  # #
+# .$.*.$. #
+## ##.## ##
+#  ##$##  #
+# $ $+$ $ #
+#    #    #
+###########
+Author: Jordi Domenech
+Title: Level 88
+
+    #####
+   ##   ## #####
+  ##  *  ###   ##
+ ##  * *  #  *  ##
+##  * # *   * *  ##
+#  * ### * * # *  ##
+# . ## # #*# ## *$@#
+#####  #  .  ### $ #
+       ####### #   #
+               #####
+Author: laizhufu + Jordi Domenech
+Title: Level 89 M
+
+  ####
+  #  ##
+ ## . ###
+## * $  #
+# .$@$. #
+#  $ * ##
+### . ##
+  #####
+Author: Kevin Cassol
+Title: Level 90
+
+#########
+#   #   ##
+#   $.#  #
+##$#+$.$ ##
+ # .$#$.  #
+ ##$.$. . #
+  #  .$## #
+  ###     #
+    #######
+Author: Kevin Cassol
+Title: Level 91
+
+      ####
+   ####  #
+   #  #  #
+#### * $ #
+#  $ * @ #
+# #. .####
+#   ###
+#####
+Author: Jordi Domenech
+Title: Level 92 Rock Festival
+
+########
+#  #   #
+# *  . #
+# * *  #
+# ** ###
+# * *  #
+# *$ * #
+# @ #  #
+########
+Author: Jordi Domenech
+Title: Level 93 K
+
+     #####
+  ####   #
+  # @# # #
+ ##$$..  #
+ #   **###
+## ###  #
+#       #
+#   #  ##
+########
+Author: Jordi Domenech
+Title: Level 94 Tiny square 9
+
+#############
+#    #      #
+# ## #$#### #
+# #  $@$  # #
+# # # $ # # #
+# # #  ## # #
+# # ..... # #
+# ####$# ## #
+#      #    #
+#############
+Author: Jordi Domenech
+Title: Level 95 Chinese water lily - To Tui Leshan
+
+########
+#   #  #
+#   #  #
+#  *$* #
+## * * #
+ # *.* #
+ # * * ##
+ # *@*  #
+ #  #   #
+ ########
+Author: Jordi Domenech
+Title: Level 96 H - To laizhufu
+
+     #####
+ #####   #
+##     # #
+#  *** . #
+#  *@* $ #
+## *## # #
+ #  ##   #
+ #########
+Author: Kevin Cassol
+Title: Level 97
+
+   #####
+####   #
+#    # ##
+# $#$*  #
+## . .  #
+ #$.$*###
+ # .$.##
+ #$.$. #
+ # .$#@#
+ #$.   #
+ #   ###
+ #####
+Author: Kevin Cassol
+Title: Level 98
+
+ ######
+ # .  #
+##  *$###
+#  $@*  #
+# ##$ . #
+#     #.#
+#########
+Author: Jordi Domenech
+Title: Level 99 Long diagonal
+
+####
+#  ####
+#...  #
+#.# # #
+#.#$  #
+#..  ##
+#.##  ##
+#.# .  #
+#  $$$ #
+###    #
+  #$$$##
+  #    #
+  #$$$ #
+  # @  #
+  ######
+Author: Jordi Domenech
+Title: Level 100 F.
